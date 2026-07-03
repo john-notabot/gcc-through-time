@@ -20,11 +20,21 @@ to the west, Verdugo Rd / Cañada Blvd corridor. Campus at ~34.167 N, -118.230 W
 
 ## Manual to-dos for John
 
-- [ ] (pending Phase 1 findings — archive requests, EarthExplorer downloads, etc.)
+- [ ] **Email Glendale History Room** (glendalehistoryroom@glendaleca.gov, 818-548-2037) —
+      ask for ground-level photos: campus construction 1936–37, N Verdugo Rd streetscapes,
+      SR-2/Glendale Freeway construction near Mountain St 1970s. Research is by appointment.
+- [ ] **GCC Archives request** (library@glendale.edu or
+      https://glendale.libwizard.com/f/GCC-Archives-Request-Form) — early campus photos,
+      1937 opening, yearbook aerials (*La Reata*), tent-college era shots.
+- [ ] *(Optional — only if we add a 1990s era)* free USGS ERS account at
+      https://ers.cr.usgs.gov/register for EarthExplorer NAPP/DOQ downloads.
+- [ ] *(Optional, reference only)* LA Public Library card grants remote ProQuest access to
+      the offline 1925/1950 Sanborn volumes — useful research, not publishable.
 
 ## Phase status
 
-- **Phase 1 — Research & source inventory:** IN PROGRESS (started 2026-07-03)
+- **Phase 1 — Research & source inventory:** research COMPLETE 2026-07-03; source inventory
+  written (`research/source-inventory.md`); **awaiting John's approval of the 7-era list**
 - Phase 2 — Georeferencing: not started
 - Phase 3 — Website: not started
 - Phase 4 — 3D stretch: not started
