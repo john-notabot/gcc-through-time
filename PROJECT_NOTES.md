@@ -51,8 +51,9 @@ to the west, Verdugo Rd / Cañada Blvd corridor. Campus at ~34.167 N, -118.230 W
 - **Phase 2 — Georeferencing:** COMPLETE 2026-07-03. All 7 era layers registered
   (RMS 2.1–4.5 m/frame), tiled (25 MB), accuracy documented. John is pursuing the two
   archive to-dos (History Room + GCC Archives) in parallel — photos will slot into pins.
-- **Phase 3 — Website:** BUILT & tested locally 2026-07-03 (desktop + mobile viewports).
-  **Awaiting: GitHub repo creation + push by John, then phone test = definition of done.**
+- **Phase 3 — Website:** DEPLOYED 2026-07-04 → https://john-notabot.github.io/gcc-through-time/
+  (repo: github.com/john-notabot/gcc-through-time, Pages via Actions workflow).
+  Remaining: John's phone test = definition of done; archive photos slot into pins when they arrive.
 - Phase 4 — 3D stretch: not started
 - Phase 3 — Website: not started
 - Phase 4 — 3D stretch: not started
