@@ -1,0 +1,25 @@
+Cañada Boulevard × Fernbrook Place         score 0.43 res   3.1 m
+Academy Place × Kimlin Drive               score 0.39 res   1.4 m
+Don Jose Drive × Ethel Street              score 0.33 res   3.7 m
+Eastedge Drive × Solway Street             score 0.33 res   4.5 m
+Monterey Road × North Adams Street         score 0.31 res   3.9 m
+East Mountain Street × Greenbriar Road ×   score 0.31 res   4.3 m
+Don Jose Drive × East Mountain Street      score 0.30 res   3.3 m
+Del Monte Drive × Royal Boulevard          score 0.30 res   1.9 m
+Cabrillo Drive × Rossmoyne Avenue          score 0.30 res   1.3 m
+Cañada Boulevard × Wabasso Way             score 0.30 res   5.8 m
+Alamo Drive × Royal Boulevard              score 0.28 res   2.6 m
+Cordova Avenue × Del Rey Drive             score 0.28 res   1.1 m
+Glenandale Terrace × Glenoaks Boulevard    score 0.28 res   0.6 m
+Cordova Avenue × Coronado Drive            score 0.27 res   1.9 m
+Bonita Drive × Hillside Drive              score 0.25 res   3.3 m
+Cabrillo Drive × Cordova Avenue            score 0.25 res   2.4 m
+North Verdugo Road × Rosita Drive          score 0.24 res   2.5 m
+Canyon Drive × East Chevy Chase Drive      score 0.23 res   0.9 m
+Hillside Drive × North Verdugo Road        score 0.22 res   1.5 m
+Cavanaugh Road × Cedar Court Road          score 0.22 res   6.8 m
+East Chevy Chase Drive × Lilac Lane        score 0.22 res   0.9 m
+Carmen Drive × Del Rey Drive               score 0.22 res   0.6 m
+Cañada Boulevard × Colina Drive            score 0.22 res   2.5 m
+Monterey Road × Portola Avenue             score 0.18 res   3.7 m
+East Doran Street × North Adams Street     score 0.18 res   3.9 m

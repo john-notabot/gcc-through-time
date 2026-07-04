@@ -1,0 +1,14 @@
+Kirkby Road × North Verdugo Road           score 0.40 res   2.5 m
+Cañada Boulevard × Towne Street            score 0.37 res   2.4 m
+Niodrara Drive × Wabasso Way               score 0.34 res   3.8 m
+Cañada Boulevard × Fernbrook Place         score 0.33 res   2.1 m
+Cathay Street × Haven Street × Hillside    score 0.32 res   5.4 m
+Bara Road × North Verdugo Road             score 0.31 res   3.9 m
+Cañada Boulevard × El Rito Avenue          score 0.30 res   0.8 m
+Bara Road × Conchita Street                score 0.29 res   1.4 m
+Fernbrook Place × Niodrara Drive           score 0.27 res   2.2 m
+Capistrano Avenue × Capistrano Circle ×    score 0.25 res   1.7 m
+Cañada Boulevard × Del Valle Avenue        score 0.25 res   1.7 m
+Camulos Avenue × Cañada Boulevard          score 0.22 res   2.2 m
+Cañada Boulevard × Don Carlos Avenue       score 0.21 res   3.8 m
+Arvin Drive × North Verdugo Road           score 0.20 res   3.3 m

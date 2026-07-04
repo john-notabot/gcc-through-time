@@ -1,0 +1,90 @@
+[
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 4914.403887338455,
+  "py": 3924.0232452583136,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.378
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 4775.476684255831,
+  "py": 2965.4528053665636,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.366
+ },
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 4488.52173777443,
+  "py": 3220.824467509247,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.309
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 5171.096818735911,
+  "py": 3533.9429386628467,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.298
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 4199.923034989571,
+  "py": 2949.178627631156,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.283
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 4780.181602364621,
+  "py": 3584.622634009441,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.266
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 5235.1024521696345,
+  "py": 3814.6225630500167,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.251
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 4893.0022487306305,
+  "py": 3403.592723674751,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.232
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 Glenvista Drive",
+  "px": 4115.270260047548,
+  "py": 3775.9266084684427,
+  "lon": -118.2348394,
+  "lat": 34.1577311,
+  "score": 0.199
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 5394.2563553000555,
+  "py": 3746.65538885781,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.186
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 4592.130101593143,
+  "py": 2833.7444588078774,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.161
+ }
+]

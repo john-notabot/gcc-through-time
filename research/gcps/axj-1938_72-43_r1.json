@@ -1,0 +1,258 @@
+[
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 1080.1962336230863,
+  "py": 517.7306579781546,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.418
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 1167.6482878703528,
+  "py": 305.9647057674728,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.353
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 1439.4326471956465,
+  "py": 720.0354530977488,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.346
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 1365.771238718401,
+  "py": 289.34740405293917,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.339
+ },
+ {
+  "id": "Imperial Drive \u00d7 Majestic Way",
+  "px": 2085.8016477226615,
+  "py": 634.565342247758,
+  "lon": -118.238812,
+  "lat": 34.1694003,
+  "score": 0.327
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 1878.1224359583616,
+  "py": 1075.20414926016,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.317
+ },
+ {
+  "id": "Cordova Avenue \u00d7 East Glenoaks Boulevard",
+  "px": 953.522497433295,
+  "py": 156.4638317290068,
+  "lon": -118.2433736,
+  "lat": 34.1597615,
+  "score": 0.314
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Rossmoyne Avenue",
+  "px": 1717.2448468216148,
+  "py": 804.159293963265,
+  "lon": -118.2371274,
+  "lat": 34.1663612,
+  "score": 0.314
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 832.5775240525863,
+  "py": 238.06272297606782,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.299
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 1715.4174930233644,
+  "py": 68.7677441690939,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.294
+ },
+ {
+  "id": "Arboles Drive \u00d7 Royal Boulevard",
+  "px": 2078.249612014735,
+  "py": 879.4008440068393,
+  "lon": -118.2364343,
+  "lat": 34.1693971,
+  "score": 0.279
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 1732.4995411955492,
+  "py": 407.7812978584031,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.277
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Towne Street",
+  "px": 2073.3395922741743,
+  "py": 1637.4134453921793,
+  "lon": -118.229072,
+  "lat": 34.1696171,
+  "score": 0.265
+ },
+ {
+  "id": "Bonita Drive \u00d7 Hillside Drive",
+  "px": 3007.43016343737,
+  "py": 1397.7189758104182,
+  "lon": -118.2315789,
+  "lat": 34.1772366,
+  "score": 0.264
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 1318.3020078798654,
+  "py": 884.8547719453436,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.259
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 1207.192494605708,
+  "py": 153.74407309900354,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.258
+ },
+ {
+  "id": "Hillside Drive \u00d7 North Verdugo Road",
+  "px": 2987.39733860531,
+  "py": 2006.1077245642143,
+  "lon": -118.2256895,
+  "lat": 34.1772802,
+  "score": 0.253
+ },
+ {
+  "id": "Colina Drive \u00d7 Sunshine Drive",
+  "px": 2664.557982173318,
+  "py": 1387.1537708254739,
+  "lon": -118.2315987,
+  "lat": 34.1744132,
+  "score": 0.242
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hiawatha Drive",
+  "px": 2860.5412495306614,
+  "py": 1664.040569388028,
+  "lon": -118.2289824,
+  "lat": 34.1761175,
+  "score": 0.241
+ },
+ {
+  "id": "Las Flores Drive \u00d7 Roca Drive",
+  "px": 2054.833764000123,
+  "py": 1275.4838252727254,
+  "lon": -118.2325322,
+  "lat": 34.1693597,
+  "score": 0.239
+ },
+ {
+  "id": "North Glendale Avenue \u00d7 North Verdugo Ro",
+  "px": 1166.5260096343764,
+  "py": 965.3391626896072,
+  "lon": -118.2354197,
+  "lat": 34.161843,
+  "score": 0.235
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 2408.6078736524983,
+  "py": 1893.7268612622245,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.216
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 2653.58456725563,
+  "py": 1660.2176966380523,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.215
+ },
+ {
+  "id": "Colina Drive \u00d7 Hillside Drive",
+  "px": 3087.9407004848376,
+  "py": 1148.2041551674108,
+  "lon": -118.2339739,
+  "lat": 34.1778307,
+  "score": 0.213
+ },
+ {
+  "id": "Andenes Drive \u00d7 Hermosita Drive",
+  "px": 3490.4020208915185,
+  "py": 1165.4963479349415,
+  "lon": -118.2338867,
+  "lat": 34.1811144,
+  "score": 0.205
+ },
+ {
+  "id": "Essex Lane \u00d7 Trafalger Drive",
+  "px": 2564.557598048957,
+  "py": 764.3655579539329,
+  "lon": -118.2376083,
+  "lat": 34.1734211,
+  "score": 0.2
+ },
+ {
+  "id": "Andenes Drive \u00d7 Capistrano Avenue \u00d7 El R",
+  "px": 3698.8760165236417,
+  "py": 886.7676299200627,
+  "lon": -118.2365882,
+  "lat": 34.1827643,
+  "score": 0.197
+ },
+ {
+  "id": "Armour Place \u00d7 Wabasso Way",
+  "px": 3173.587703609445,
+  "py": 1272.0252613103698,
+  "lon": -118.2328173,
+  "lat": 34.1785616,
+  "score": 0.192
+ },
+ {
+  "id": "Andenes Drive \u00d7 Opechee Way",
+  "px": 3616.7742552154195,
+  "py": 844.4726508318101,
+  "lon": -118.2369826,
+  "lat": 34.1820877,
+  "score": 0.189
+ },
+ {
+  "id": "Verdugo Knolls Drive \u00d7 Verdugo Knolls Pl",
+  "px": 2723.538515282656,
+  "py": 2140.159259061359,
+  "lon": -118.2242991,
+  "lat": 34.1751929,
+  "score": 0.182
+ },
+ {
+  "id": "Branta Drive \u00d7 Hillside Drive",
+  "px": 3227.5283609973553,
+  "py": 786.5019005120388,
+  "lon": -118.2375002,
+  "lat": 34.1788877,
+  "score": 0.177
+ },
+ {
+  "id": "Cedar Court Road \u00d7 East Mountain Street",
+  "px": 1593.46199643809,
+  "py": 152.15927424164093,
+  "lon": -118.2434649,
+  "lat": 34.165114,
+  "score": 0.168
+ }
+]

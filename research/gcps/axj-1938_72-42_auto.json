@@ -1,0 +1,274 @@
+[
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 1545.5988992277812,
+  "py": 2147.353006739971,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.454
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 1169.0464626516914,
+  "py": 2035.1967449223218,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.45
+ },
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 889.2134077969304,
+  "py": 2271.3845477670657,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.432
+ },
+ {
+  "id": "Imperial Drive \u00d7 Majestic Way",
+  "px": 1912.6205623926403,
+  "py": 2371.258768153085,
+  "lon": -118.238812,
+  "lat": 34.1694003,
+  "score": 0.382
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 623.2213292688884,
+  "py": 1999.0891622733564,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.38
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Glorietta Avenue",
+  "px": 4037.2419820674554,
+  "py": 3332.8839785372493,
+  "lon": -118.2290984,
+  "lat": 34.186779,
+  "score": 0.357
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 968.1906143655478,
+  "py": 2058.159742237786,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.34
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 3158.6982720370115,
+  "py": 3354.701016971261,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.337
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Rossmoyne Avenue",
+  "px": 1547.6591345203592,
+  "py": 2541.2345683346302,
+  "lon": -118.2371274,
+  "lat": 34.1663612,
+  "score": 0.334
+ },
+ {
+  "id": "Chudleigh Lane \u00d7 Greenbriar Road",
+  "px": 2151.3452066565615,
+  "py": 1964.9538808673424,
+  "lon": -118.2427196,
+  "lat": 34.1713901,
+  "score": 0.327
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 1569.95292500901,
+  "py": 2873.039648146617,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.327
+ },
+ {
+  "id": "Monterey Road \u00d7 North Adams Street",
+  "px": 252.60998715579535,
+  "py": 2218.955189509928,
+  "lon": -118.24044,
+  "lat": 34.155742,
+  "score": 0.316
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 1261.8186466807365,
+  "py": 2462.006023449914,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.314
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 1514.2276485606408,
+  "py": 1813.8234941375847,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.313
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 1145.7668497496634,
+  "py": 2632.3656254607395,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.312
+ },
+ {
+  "id": "Colina Drive \u00d7 Sunshine Drive",
+  "px": 2530.166149505417,
+  "py": 3101.058720784363,
+  "lon": -118.2315987,
+  "lat": 34.1744132,
+  "score": 0.296
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 3443.0645426811952,
+  "py": 3348.156332704962,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.288
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 1721.0043629368793,
+  "py": 2810.148044721896,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.281
+ },
+ {
+  "id": "Branta Drive \u00d7 Hillside Drive",
+  "px": 3062.2257892152884,
+  "py": 2489.751801009897,
+  "lon": -118.2375002,
+  "lat": 34.1788877,
+  "score": 0.28
+ },
+ {
+  "id": "Glorietta Avenue \u00d7 Hermosita Drive",
+  "px": 3994.0604509373425,
+  "py": 2999.5113392764765,
+  "lon": -118.2323399,
+  "lat": 34.1864527,
+  "score": 0.259
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hiawatha Drive",
+  "px": 2739.876500737449,
+  "py": 3363.0316438959253,
+  "lon": -118.2289824,
+  "lat": 34.1761175,
+  "score": 0.254
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Monterey Road",
+  "px": 420.25182023566595,
+  "py": 1868.9446800230662,
+  "lon": -118.2438575,
+  "lat": 34.1571147,
+  "score": 0.254
+ },
+ {
+  "id": "Del Valle Avenue \u00d7 Hermosita Drive",
+  "px": 3711.5516867260367,
+  "py": 2995.883813928507,
+  "lon": -118.2324352,
+  "lat": 34.1841465,
+  "score": 0.252
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 1001.5151659542598,
+  "py": 1902.7365380555527,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.251
+ },
+ {
+  "id": "Glorietta Avenue \u00d7 North Verdugo Road",
+  "px": 4116.725982964653,
+  "py": 3674.999453551259,
+  "lon": -118.2257247,
+  "lat": 34.1874242,
+  "score": 0.251
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 2531.830182493191,
+  "py": 3366.7175804401613,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.245
+ },
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 3435.3415357217787,
+  "py": 3689.5851524192444,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.233
+ },
+ {
+  "id": "Cedar Court Road \u00d7 East Mountain Street",
+  "px": 1393.086129351169,
+  "py": 1893.8453742387912,
+  "lon": -118.2434649,
+  "lat": 34.165114,
+  "score": 0.233
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 2292.845698441633,
+  "py": 3610.6653308417012,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.22
+ },
+ {
+  "id": "Hillside Drive \u00d7 North Verdugo Road",
+  "px": 2880.2436120683287,
+  "py": 3700.6484086583414,
+  "lon": -118.2256895,
+  "lat": 34.1772802,
+  "score": 0.22
+ },
+ {
+  "id": "Bonita Drive \u00d7 Hillside Drive",
+  "px": 2874.4775636832514,
+  "py": 3097.4078118131542,
+  "lon": -118.2315789,
+  "lat": 34.1772366,
+  "score": 0.219
+ },
+ {
+  "id": "Colina Drive \u00d7 Hillside Drive",
+  "px": 2939.9638860809914,
+  "py": 2850.2295790403946,
+  "lon": -118.2339739,
+  "lat": 34.1778307,
+  "score": 0.214
+ },
+ {
+  "id": "Andenes Drive \u00d7 Capistrano Avenue \u00d7 El R",
+  "px": 3535.191685396775,
+  "py": 2572.0298205639715,
+  "lon": -118.2365882,
+  "lat": 34.1827643,
+  "score": 0.19
+ },
+ {
+  "id": "Blanchard Drive \u00d7 Capistrano Avenue",
+  "px": 3435.0964100072206,
+  "py": 3068.7436588727323,
+  "lon": -118.2317411,
+  "lat": 34.1818348,
+  "score": 0.183
+ }
+]

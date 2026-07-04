@@ -1,0 +1,25 @@
+Brook Lane × North Verdugo Road            score 0.52 res   1.2 m
+Cañada Boulevard × Don Carlos Avenue       score 0.49 res   1.7 m
+Calafia Street × Carrie Lane               score 0.48 res   3.4 m
+Camulos Avenue × Cañada Boulevard          score 0.46 res   4.2 m
+Alpha Road × Los Encinos Avenue            score 0.45 res   3.9 m
+Cañada Boulevard × Ramona Avenue           score 0.45 res   2.3 m
+Bayberry Drive × Sparr Boulevard           score 0.37 res   3.0 m
+Cañada Boulevard × Country Club Drive ×    score 0.37 res   1.0 m
+Alpha Road × Oakwood Avenue                score 0.36 res   4.5 m
+Cañada Boulevard × Colina Drive            score 0.35 res   5.2 m
+Allanjay Place × Fern Lane                 score 0.34 res   3.2 m
+Alpha Road × North Verdugo Road            score 0.34 res   2.4 m
+Bara Road × Risa Drive                     score 0.33 res   2.8 m
+Cañada Boulevard × Hillside Drive          score 0.33 res   4.5 m
+Capistrano Avenue × Capistrano Circle ×    score 0.30 res   2.3 m
+North Verdugo Road × Towne Street          score 0.28 res   4.8 m
+Bara Road × Conchita Street                score 0.27 res   0.9 m
+Bagdad Place × Sparr Boulevard             score 0.27 res   2.9 m
+Bogue Drive × Mira Vista Drive × Pasa Gl   score 0.24 res   3.5 m
+Alpha Motorway × Descanso Motorway         score 0.22 res   5.1 m
+Samarkand Place × Tamerlane Drive          score 0.21 res   7.2 m
+Colina Drive × Hiawatha Drive              score 0.20 res   2.0 m
+Hillside Drive × North Verdugo Road        score 0.20 res   2.9 m
+Arvin Drive × North Verdugo Road           score 0.19 res   3.7 m
+Cañada Boulevard × Towne Street            score 0.19 res   5.8 m

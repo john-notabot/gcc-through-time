@@ -1,0 +1,106 @@
+[
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+  "px": 189.72727034801267,
+  "py": 3316.173790220897,
+  "lon": -118.2290663,
+  "lat": 34.1853235,
+  "score": 0.553
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Ramona Avenue",
+  "px": 208.34304781936066,
+  "py": 3002.871839863892,
+  "lon": -118.229107,
+  "lat": 34.187605,
+  "score": 0.498
+ },
+ {
+  "id": "Allanjay Place \u00d7 Fern Lane",
+  "px": 1169.131824943465,
+  "py": 3645.5469721349696,
+  "lon": -118.2205941,
+  "lat": 34.1836787,
+  "score": 0.485
+ },
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 550.5338370331993,
+  "py": 3835.3098572097947,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.478
+ },
+ {
+  "id": "Delisle Court \u00d7 Fern Lane",
+  "px": 1340.1478006424022,
+  "py": 3634.2987693825976,
+  "lon": -118.219138,
+  "lat": 34.1839119,
+  "score": 0.472
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 1130.415480102677,
+  "py": 2911.623003445564,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.414
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 571.6822494960867,
+  "py": 2459.3289675953206,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.379
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 565.6292263190726,
+  "py": 2896.5930357430516,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.364
+ },
+ {
+  "id": "El Arbolita Drive \u00d7 Montecito Drive",
+  "px": 790.5015863825772,
+  "py": 2197.974479931475,
+  "lon": -118.2247522,
+  "lat": 34.1938016,
+  "score": 0.362
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 247.86038045346498,
+  "py": 2695.7874145240885,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.345
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 157.26871772975568,
+  "py": 3789.320512871132,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.312
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 135.95258525323445,
+  "py": 4109.636998092566,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.31
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 614.1024258190741,
+  "py": 4110.93912349132,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.183
+ }
+]

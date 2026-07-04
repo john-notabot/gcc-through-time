@@ -1,0 +1,106 @@
+[
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+  "px": 189.40377510303077,
+  "py": 3316.0758870219715,
+  "lon": -118.2290663,
+  "lat": 34.1853235,
+  "score": 0.552
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Ramona Avenue",
+  "px": 208.67023098447646,
+  "py": 3002.78511295455,
+  "lon": -118.229107,
+  "lat": 34.187605,
+  "score": 0.495
+ },
+ {
+  "id": "Allanjay Place \u00d7 Fern Lane",
+  "px": 1169.617162654108,
+  "py": 3645.0567397010113,
+  "lon": -118.2205941,
+  "lat": 34.1836787,
+  "score": 0.49
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 177.98361787400833,
+  "py": 3475.120448386211,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.482
+ },
+ {
+  "id": "Delisle Court \u00d7 Fern Lane",
+  "px": 1339.9535049319754,
+  "py": 3633.76105164933,
+  "lon": -118.219138,
+  "lat": 34.1839119,
+  "score": 0.478
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 1130.251063680537,
+  "py": 2911.166138252752,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.413
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 572.1041221966865,
+  "py": 2459.4857633033466,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.367
+ },
+ {
+  "id": "El Arbolita Drive \u00d7 Montecito Drive",
+  "px": 789.8087819193362,
+  "py": 2197.7671726625335,
+  "lon": -118.2247522,
+  "lat": 34.1938016,
+  "score": 0.364
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 565.5383943719866,
+  "py": 2896.0723542142773,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.362
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 248.757130575498,
+  "py": 2695.786473819388,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.347
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 135.63535180943063,
+  "py": 4109.576507093305,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.305
+ },
+ {
+  "id": "El Rito Avenue \u00d7 North Verdugo Road",
+  "px": 526.789892560045,
+  "py": 3661.1510939077984,
+  "lon": -118.2259752,
+  "lat": 34.1830751,
+  "score": 0.228
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 615.204138628902,
+  "py": 4109.646095154191,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.191
+ }
+]

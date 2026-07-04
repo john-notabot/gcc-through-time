@@ -1,0 +1,90 @@
+[
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 4775.453853054926,
+  "py": 2965.863296511462,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.367
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 5186.974084904649,
+  "py": 3070.2562049585267,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.311
+ },
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 4488.840889711467,
+  "py": 3220.6406238169648,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.307
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 5172.144848877244,
+  "py": 3534.18595033349,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.293
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 4199.601816363053,
+  "py": 2949.3804638101565,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.29
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 4780.980897629945,
+  "py": 3584.3779390101954,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.264
+ },
+ {
+  "id": "Coronado Drive \u00d7 Portola Avenue",
+  "px": 4280.511092027302,
+  "py": 3118.9221871064174,
+  "lon": -118.240909,
+  "lat": 34.159348,
+  "score": 0.262
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 5235.080696458907,
+  "py": 3814.492579238884,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.252
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 5153.097643290665,
+  "py": 2728.2584037379283,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.23
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 4893.058250526728,
+  "py": 3403.7235548535673,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.228
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 5394.772726645634,
+  "py": 3746.8805984467344,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.18
+ }
+]

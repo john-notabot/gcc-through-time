@@ -1,0 +1,234 @@
+[
+ {
+  "id": "Allanjay Place \u00d7 Fern Lane",
+  "px": 3738.3998775215514,
+  "py": 2549.370143137603,
+  "lon": -118.2205941,
+  "lat": 34.1836787,
+  "score": 0.439
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 1683.8637218542785,
+  "py": 856.2547555680471,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.397
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 1366.4068512029744,
+  "py": 288.8246625331982,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.385
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 1732.7808044028843,
+  "py": 406.83215061022736,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.359
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 1878.1180264487666,
+  "py": 1075.3169128814147,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.352
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 1438.55451419994,
+  "py": 718.7222737310324,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.342
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 4514.613446872737,
+  "py": 1711.0730832883,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.332
+ },
+ {
+  "id": "Allanjay Place \u00d7 Delisle Court",
+  "px": 3911.207707127546,
+  "py": 2620.240883998261,
+  "lon": -118.2199536,
+  "lat": 34.1851323,
+  "score": 0.316
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 3280.0131584428877,
+  "py": 1670.289386085613,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.308
+ },
+ {
+  "id": "Bagdad Place \u00d7 Sparr Boulevard",
+  "px": 5026.165040713246,
+  "py": 1937.4510732214503,
+  "lon": -118.2269408,
+  "lat": 34.1941092,
+  "score": 0.3
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Lilac Lane",
+  "px": 416.25234490331695,
+  "py": 2189.3985896530326,
+  "lon": -118.2230925,
+  "lat": 34.156127,
+  "score": 0.292
+ },
+ {
+  "id": "Bonita Drive \u00d7 Hillside Drive",
+  "px": 3006.425267522506,
+  "py": 1397.4075461861473,
+  "lon": -118.2315789,
+  "lat": 34.1772366,
+  "score": 0.291
+ },
+ {
+  "id": "Arboles Drive \u00d7 Royal Boulevard",
+  "px": 2078.535126706811,
+  "py": 879.4668507690801,
+  "lon": -118.2364343,
+  "lat": 34.1693971,
+  "score": 0.28
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Towne Street",
+  "px": 2074.68503609841,
+  "py": 1637.3190195796562,
+  "lon": -118.229072,
+  "lat": 34.1696171,
+  "score": 0.277
+ },
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 1416.1873531860383,
+  "py": 1218.4359834360237,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.276
+ },
+ {
+  "id": "Glen Avenue \u00d7 Luring Drive",
+  "px": 583.7217191215232,
+  "py": 1486.5728896977084,
+  "lon": -118.2300359,
+  "lat": 34.157229,
+  "score": 0.275
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hiawatha Drive",
+  "px": 2860.4176714314194,
+  "py": 1663.3574220825224,
+  "lon": -118.2289824,
+  "lat": 34.1761175,
+  "score": 0.254
+ },
+ {
+  "id": "Hillside Drive \u00d7 North Verdugo Road",
+  "px": 2987.444983104126,
+  "py": 2006.2344566456918,
+  "lon": -118.2256895,
+  "lat": 34.1772802,
+  "score": 0.252
+ },
+ {
+  "id": "North Glendale Avenue \u00d7 North Verdugo Ro",
+  "px": 1163.4842275648662,
+  "py": 960.641602554439,
+  "lon": -118.2354197,
+  "lat": 34.161843,
+  "score": 0.235
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 2654.186709992059,
+  "py": 1660.4046471686343,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.224
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 4378.3595717150765,
+  "py": 2480.893678198122,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.217
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 2408.2062936869356,
+  "py": 1893.4977072404424,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.216
+ },
+ {
+  "id": "Atkins Drive \u00d7 Corwin Avenue",
+  "px": 372.8164536236254,
+  "py": 1529.767048374336,
+  "lon": -118.2295527,
+  "lat": 34.1555581,
+  "score": 0.214
+ },
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 3544.0701454907708,
+  "py": 2018.8254937177812,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.209
+ },
+ {
+  "id": "Las Flores Drive \u00d7 Roca Drive",
+  "px": 2055.2726246600114,
+  "py": 1274.7244189795083,
+  "lon": -118.2325322,
+  "lat": 34.1693597,
+  "score": 0.209
+ },
+ {
+  "id": "Cedar Court Road \u00d7 East Mountain Street",
+  "px": 1593.8736623505501,
+  "py": 152.51563292901736,
+  "lon": -118.2434649,
+  "lat": 34.165114,
+  "score": 0.204
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 4741.614894080667,
+  "py": 1982.3636303332726,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.198
+ },
+ {
+  "id": "Atkins Drive \u00d7 Glen Avenue",
+  "px": 684.9396494562798,
+  "py": 1573.9798868236517,
+  "lon": -118.2292914,
+  "lat": 34.1581187,
+  "score": 0.188
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 397.08546487598323,
+  "py": 1862.8543148322967,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.186
+ }
+]

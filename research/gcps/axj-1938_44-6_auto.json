@@ -1,0 +1,130 @@
+[
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 4498.103001590661,
+  "py": 3507.9693864988494,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.398
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 4789.490405294766,
+  "py": 3129.4583691233906,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.328
+ },
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 4126.390171126623,
+  "py": 2752.9173228370673,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.313
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 3857.340644003043,
+  "py": 2454.097461689169,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.282
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 4388.786254537503,
+  "py": 3150.1484048995967,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.276
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 4831.766936476526,
+  "py": 3423.469232640806,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.258
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Kirkton Place",
+  "px": 5281.152885969864,
+  "py": 2711.087539643798,
+  "lon": -118.2406221,
+  "lat": 34.1696992,
+  "score": 0.251
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 4834.65899178718,
+  "py": 2304.0897322094024,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.242
+ },
+ {
+  "id": "Imperial Drive \u00d7 Princess Drive",
+  "px": 5074.110160092689,
+  "py": 3059.3209129376028,
+  "lon": -118.2374134,
+  "lat": 34.1681724,
+  "score": 0.242
+ },
+ {
+  "id": "Carmen Drive \u00d7 East Mountain Street",
+  "px": 4605.75145688942,
+  "py": 2551.7311237856243,
+  "lon": -118.2418654,
+  "lat": 34.1645217,
+  "score": 0.23
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 4999.33357074217,
+  "py": 3365.7689561002694,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.229
+ },
+ {
+  "id": "Arboles Drive \u00d7 Royal Boulevard",
+  "px": 5220.26502704732,
+  "py": 3161.329846105108,
+  "lon": -118.2364343,
+  "lat": 34.1693971,
+  "score": 0.228
+ },
+ {
+  "id": "Cordova Avenue \u00d7 East Dryden Street",
+  "px": 4095.992636033131,
+  "py": 2333.62499230242,
+  "lon": -118.2437083,
+  "lat": 34.1606137,
+  "score": 0.226
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 4519.463204861991,
+  "py": 2975.735534159766,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.213
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Oakengate Drive",
+  "px": 5219.161853818116,
+  "py": 2769.408652350898,
+  "lon": -118.2400816,
+  "lat": 34.1692452,
+  "score": 0.198
+ },
+ {
+  "id": "Las Flores Drive \u00d7 Moreno Drive",
+  "px": 5271.661079364049,
+  "py": 3429.6037042131907,
+  "lon": -118.2340299,
+  "lat": 34.1698034,
+  "score": 0.197
+ }
+]

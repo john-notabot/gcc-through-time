@@ -1,0 +1,194 @@
+[
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 4009.781158599845,
+  "py": 485.10024910762314,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.55
+ },
+ {
+  "id": "Heather Ridge Drive \u00d7 Misty Isle Drive",
+  "px": 2516.4992839926854,
+  "py": 2827.8202679783813,
+  "lon": -118.2442683,
+  "lat": 34.1693765,
+  "score": 0.459
+ },
+ {
+  "id": "Calafia Street \u00d7 Carrie Lane",
+  "px": 4344.810756692843,
+  "py": 301.6471616739793,
+  "lon": -118.2225382,
+  "lat": 34.1822816,
+  "score": 0.455
+ },
+ {
+  "id": "Colina Drive \u00d7 Sunshine Drive",
+  "px": 3693.9144775528684,
+  "py": 1680.0263987591488,
+  "lon": -118.2315987,
+  "lat": 34.1744132,
+  "score": 0.428
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 3746.716646244503,
+  "py": 909.2775801062553,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.422
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 3459.089245179779,
+  "py": 3299.1722357642598,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.415
+ },
+ {
+  "id": "Bara Road \u00d7 Risa Drive",
+  "px": 4257.0034047169065,
+  "py": 602.0131488517561,
+  "lon": -118.2240979,
+  "lat": 34.180435,
+  "score": 0.392
+ },
+ {
+  "id": "San Luis Rey Drive \u00d7 Via Saldivar",
+  "px": 2366.2765828175875,
+  "py": 1115.592170219168,
+  "lon": -118.240985,
+  "lat": 34.1813323,
+  "score": 0.348
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 3031.2324370750484,
+  "py": 3559.932521736225,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.345
+ },
+ {
+  "id": "Descanso Place \u00d7 Opechee Way",
+  "px": 2881.6505269106165,
+  "py": 1095.7370640492973,
+  "lon": -118.2366457,
+  "lat": 34.180267,
+  "score": 0.326
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Oakengate Drive",
+  "px": 2987.400405150014,
+  "py": 2679.0262168661357,
+  "lon": -118.2400816,
+  "lat": 34.1692452,
+  "score": 0.311
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hillside Drive",
+  "px": 3851.814015583378,
+  "py": 1210.7759917292535,
+  "lon": -118.2289928,
+  "lat": 34.1772427,
+  "score": 0.304
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 3639.3012939197442,
+  "py": 607.4742318239687,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.293
+ },
+ {
+  "id": "East Mountain Street \u00d7 North Cedar Stree",
+  "px": 2751.1743983910274,
+  "py": 3376.689529459627,
+  "lon": -118.2438934,
+  "lat": 34.1651251,
+  "score": 0.276
+ },
+ {
+  "id": "Alcalde Drive \u00d7 Alcalde Way",
+  "px": 2955.5149995234797,
+  "py": 2285.051580868515,
+  "lon": -118.2392644,
+  "lat": 34.1719869,
+  "score": 0.275
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 3018.4771862557873,
+  "py": 3102.734095613949,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.263
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 3988.439940479142,
+  "py": 1581.2299897922999,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.259
+ },
+ {
+  "id": "Branta Drive \u00d7 Hillside Drive",
+  "px": 2848.8886143762347,
+  "py": 1308.6968784305127,
+  "lon": -118.2375002,
+  "lat": 34.1788877,
+  "score": 0.245
+ },
+ {
+  "id": "Las Positas Road \u00d7 Risa Place",
+  "px": 4187.619337257827,
+  "py": 83.28074522133312,
+  "lon": -118.2231809,
+  "lat": 34.1841526,
+  "score": 0.238
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 4178.879196144044,
+  "py": 702.7017917139634,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.23
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 2664.0681964611426,
+  "py": 3255.6631307417165,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.223
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 2950.5879853606884,
+  "py": 3788.0404906405324,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.214
+ },
+ {
+  "id": "Andenes Drive \u00d7 Hermosita Drive",
+  "px": 3147.7134053501322,
+  "py": 888.757660556376,
+  "lon": -118.2338867,
+  "lat": 34.1811144,
+  "score": 0.182
+ },
+ {
+  "id": "Andenes Drive \u00d7 Capistrano Avenue \u00d7 El R",
+  "px": 2778.372528068314,
+  "py": 767.4358402429784,
+  "lon": -118.2365882,
+  "lat": 34.1827643,
+  "score": 0.164
+ }
+]

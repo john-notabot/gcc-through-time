@@ -1,0 +1,31 @@
+Beaudry Boulevard × San Gabriel Avenue     score 0.58 res   0.8 m
+Cañada Boulevard × Don Carlos Avenue       score 0.58 res   2.3 m
+Beaudry Boulevard × Country Club Drive     score 0.58 res   0.8 m
+Cañada Boulevard × Del Valle Avenue        score 0.55 res   3.9 m
+Beaudry Boulevard × Beaudry Terrace        score 0.52 res   6.4 m
+Calafia Street × Carrie Lane               score 0.50 res   5.3 m
+Allanjay Place × Fern Lane                 score 0.49 res   6.5 m
+Cañada Boulevard × Fernbrook Place         score 0.46 res   3.4 m
+Alpha Road × Los Encinos Avenue            score 0.44 res   5.9 m
+Bayberry Drive × Sparr Boulevard           score 0.43 res   1.7 m
+Hermosita Drive × Santa Barbara Avenue     score 0.43 res   1.2 m
+Cañada Boulevard × Country Club Drive ×    score 0.42 res   3.8 m
+Cañada Boulevard × Colina Drive            score 0.39 res   3.3 m
+El Arbolita Drive × Montecito Drive        score 0.39 res   0.8 m
+Bara Road × North Verdugo Road             score 0.37 res   3.9 m
+Alpha Road × North Verdugo Road            score 0.34 res   4.2 m
+Glorietta Avenue × North Verdugo Road      score 0.34 res   4.2 m
+Blanchard Drive × Bonita Drive × Opechee   score 0.32 res   1.5 m
+Alamo Drive × Royal Boulevard              score 0.31 res   2.6 m
+Alpha Road × Oak Glen Road                 score 0.30 res   1.9 m
+Bonita Drive × Camulos Avenue              score 0.29 res   0.4 m
+North Verdugo Road × Opechee Way           score 0.29 res   2.4 m
+Bogue Drive × Mira Vista Drive × Pasa Gl   score 0.25 res   4.4 m
+Del Monte Drive × Royal Boulevard          score 0.24 res   4.4 m
+El Rito Avenue × North Verdugo Road        score 0.24 res   2.5 m
+Colina Drive × Hiawatha Drive              score 0.22 res   3.2 m
+Country Club Drive × Hermosita Drive       score 0.20 res   1.6 m
+Bara Road × Conchita Street                score 0.20 res   4.0 m
+Andenes Drive × Hermosita Drive            score 0.19 res   3.7 m
+Armour Place × Wabasso Way                 score 0.18 res   2.4 m
+Country Club Drive × Santa Rosa Avenue     score 0.18 res   3.6 m

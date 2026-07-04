@@ -1,0 +1,13 @@
+Cañada Boulevard × Don Carlos Avenue       score 0.47 res   2.0 m
+Cañada Boulevard × Del Valle Avenue        score 0.44 res   3.7 m
+Carrie Lane × Fern Lane                    score 0.43 res   1.0 m
+Bayberry Drive × Sparr Boulevard           score 0.42 res   1.2 m
+Alpha Road × Los Encinos Avenue            score 0.38 res   2.1 m
+Alpha Road × North Verdugo Road            score 0.34 res   3.6 m
+Alpha Road × Oakwood Avenue                score 0.33 res   1.7 m
+Bagdad Place × Sparr Boulevard             score 0.31 res   0.8 m
+Cañada Boulevard × Country Club Drive ×    score 0.30 res   2.0 m
+Calafia Street × Carrie Lane               score 0.28 res   3.8 m
+Country Club Drive × Hermosita Drive       score 0.23 res   7.4 m
+Hermosita Drive × Ramona Avenue            score 0.21 res   0.6 m
+Country Club Drive × Santa Rosa Avenue     score 0.20 res   0.9 m

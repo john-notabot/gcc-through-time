@@ -1,0 +1,114 @@
+[
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 4497.891063974674,
+  "py": 3507.4615104984528,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.389
+ },
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 4125.701779312361,
+  "py": 2753.283714282722,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.335
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 4789.578813844247,
+  "py": 3129.795746288188,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.314
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 3857.3136106362967,
+  "py": 2453.70013897774,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.289
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 4388.8076228487425,
+  "py": 3149.9569703388793,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.269
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 4831.916451180216,
+  "py": 3423.364349572778,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.263
+ },
+ {
+  "id": "Cordova Avenue \u00d7 East Dryden Street",
+  "px": 4096.437523351848,
+  "py": 2333.743812531583,
+  "lon": -118.2437083,
+  "lat": 34.1606137,
+  "score": 0.25
+ },
+ {
+  "id": "Carmen Drive \u00d7 East Mountain Street",
+  "px": 4606.52487208847,
+  "py": 2551.4192352455075,
+  "lon": -118.2418654,
+  "lat": 34.1645217,
+  "score": 0.244
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 4999.948870643602,
+  "py": 3365.7883188728456,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.239
+ },
+ {
+  "id": "Hillcroft Road \u00d7 Loreto Drive",
+  "px": 4868.627223186415,
+  "py": 2920.809266087344,
+  "lon": -118.2386079,
+  "lat": 34.1665543,
+  "score": 0.235
+ },
+ {
+  "id": "Imperial Drive \u00d7 Majestic Way",
+  "px": 5244.619971446339,
+  "py": 2915.2365048527304,
+  "lon": -118.238812,
+  "lat": 34.1694003,
+  "score": 0.234
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 4835.448321077471,
+  "py": 2304.571785920377,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.23
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 4519.119047114638,
+  "py": 2975.1049848852213,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.222
+ },
+ {
+  "id": "Las Flores Drive \u00d7 Moreno Drive",
+  "px": 5271.6114180463555,
+  "py": 3429.066075423032,
+  "lon": -118.2340299,
+  "lat": 34.1698034,
+  "score": 0.195
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 1360.8283525890774,
+  "py": 2751.3883788957855,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.565
+ },
+ {
+  "id": "North Verdugo Road \u00d7 Towne Street",
+  "px": 2379.8501227062407,
+  "py": 4710.689255769495,
+  "lon": -118.2277622,
+  "lat": 34.1694559,
+  "score": 0.467
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 1878.000449874979,
+  "py": 2907.153803656075,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.462
+ },
+ {
+  "id": "Crestmont Court \u00d7 North Verdugo Road",
+  "px": 3186.906667953376,
+  "py": 4936.557873996158,
+  "lon": -118.2261129,
+  "lat": 34.1743716,
+  "score": 0.435
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 2108.183620298861,
+  "py": 3796.5738541083765,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.42
+ },
+ {
+  "id": "Hillcroft Road \u00d7 Loreto Drive",
+  "px": 1916.1142589687588,
+  "py": 3235.221761049412,
+  "lon": -118.2386079,
+  "lat": 34.1665543,
+  "score": 0.41
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 1325.777749848291,
+  "py": 3550.043938221599,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.404
+ },
+ {
+  "id": "Arboles Drive \u00d7 Royal Boulevard",
+  "px": 2377.15007048756,
+  "py": 3532.5869782384334,
+  "lon": -118.2364343,
+  "lat": 34.1693971,
+  "score": 0.396
+ },
+ {
+  "id": "Calafia Street \u00d7 Risa Drive",
+  "px": 4385.840577532377,
+  "py": 5190.2737515155195,
+  "lon": -118.2242915,
+  "lat": 34.1817325,
+  "score": 0.387
+ },
+ {
+  "id": "Bara Road \u00d7 Risa Drive",
+  "px": 4177.386334373998,
+  "py": 5213.593454934037,
+  "lon": -118.2240979,
+  "lat": 34.180435,
+  "score": 0.383
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 4096.111767057277,
+  "py": 5098.151089129755,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.376
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Towne Street",
+  "px": 2404.3823687678864,
+  "py": 4533.438324644419,
+  "lon": -118.229072,
+  "lat": 34.1696171,
+  "score": 0.363
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 1899.3229903711322,
+  "py": 3877.3888374830794,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.347
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 1484.209580431284,
+  "py": 3323.372577609265,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.342
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 1849.2757036630023,
+  "py": 2464.142489951015,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.333
+ },
+ {
+  "id": "Hillside Drive \u00d7 Sierra Place",
+  "px": 3780.879963703339,
+  "py": 3760.516314567004,
+  "lon": -118.2348355,
+  "lat": 34.1779655,
+  "score": 0.329
+ },
+ {
+  "id": "Bonita Drive \u00d7 Hillside Drive",
+  "px": 3657.6991631772094,
+  "py": 4200.244842545741,
+  "lon": -118.2315789,
+  "lat": 34.1772366,
+  "score": 0.326
+ },
+ {
+  "id": "Armour Place \u00d7 Wabasso Way",
+  "px": 3874.516155146691,
+  "py": 4033.8390513803142,
+  "lon": -118.2328173,
+  "lat": 34.1785616,
+  "score": 0.325
+ },
+ {
+  "id": "Alcalde Way \u00d7 Royal Boulevard",
+  "px": 3028.8660619822754,
+  "py": 2681.051358660389,
+  "lon": -118.2427645,
+  "lat": 34.1732999,
+  "score": 0.319
+ },
+ {
+  "id": "Alcalde Drive \u00d7 Arboles Drive",
+  "px": 2751.9007957142403,
+  "py": 3556.6699188432717,
+  "lon": -118.2362841,
+  "lat": 34.1716472,
+  "score": 0.316
+ },
+ {
+  "id": "East Mountain Street \u00d7 North Cedar Stree",
+  "px": 1668.8364129045367,
+  "py": 2510.8600636627625,
+  "lon": -118.2438934,
+  "lat": 34.1651251,
+  "score": 0.311
+ },
+ {
+  "id": "Descanso Place \u00d7 Opechee Way",
+  "px": 4150.155880139403,
+  "py": 3519.1018640811794,
+  "lon": -118.2366457,
+  "lat": 34.180267,
+  "score": 0.3
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 3193.3145230633436,
+  "py": 4550.014094192539,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.294
+ },
+ {
+  "id": "Rosita Drive \u00d7 Wabasso Way",
+  "px": 3838.0881319685363,
+  "py": 5200.715806563006,
+  "lon": -118.2241798,
+  "lat": 34.1783541,
+  "score": 0.285
+ },
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 4400.666461856129,
+  "py": 4999.51253130087,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.282
+ },
+ {
+  "id": "Andenes Drive \u00d7 Hermosita Drive",
+  "px": 4287.189687275534,
+  "py": 3892.9782762353584,
+  "lon": -118.2338867,
+  "lat": 34.1811144,
+  "score": 0.271
+ },
+ {
+  "id": "Camino San Rafael \u00d7 East Mountain Street",
+  "px": 1530.0745707109968,
+  "py": 5154.982091238221,
+  "lon": -118.2244985,
+  "lat": 34.1642619,
+  "score": 0.264
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 4031.3750964117826,
+  "py": 4549.733344997532,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.252
+ },
+ {
+  "id": "Colina Drive \u00d7 Hiawatha Drive",
+  "px": 3470.22946736424,
+  "py": 4721.584071738668,
+  "lon": -118.2277244,
+  "lat": 34.1761212,
+  "score": 0.251
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hiawatha Drive",
+  "px": 3471.4399811452818,
+  "py": 4550.321535698968,
+  "lon": -118.2289824,
+  "lat": 34.1761175,
+  "score": 0.236
+ },
+ {
+  "id": "Verdugo Knolls Drive \u00d7 Verdugo Knolls Pl",
+  "px": 3323.623176233417,
+  "py": 5181.9806407490405,
+  "lon": -118.2242991,
+  "lat": 34.1751929,
+  "score": 0.224
+ },
+ {
+  "id": "Las Flores Drive \u00d7 Moreno Drive",
+  "px": 2444.668300186266,
+  "py": 3860.8167765482763,
+  "lon": -118.2340299,
+  "lat": 34.1698034,
+  "score": 0.223
+ },
+ {
+  "id": "Alcalde Drive \u00d7 Alcalde Way",
+  "px": 2803.778810355589,
+  "py": 3150.8027825242525,
+  "lon": -118.2392644,
+  "lat": 34.1719869,
+  "score": 0.208
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 4407.523936370484,
+  "py": 4549.356952396791,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.202
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 2874.9689045384475,
+  "py": 4866.333299842404,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.18
+ }
+]

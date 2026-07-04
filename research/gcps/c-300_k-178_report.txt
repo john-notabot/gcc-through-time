@@ -1,0 +1,24 @@
+Beaudry Boulevard × Country Club Drive     score 0.61 res   2.1 m
+Beaudry Boulevard × San Gabriel Avenue     score 0.53 res   1.5 m
+Brook Lane × North Verdugo Road            score 0.52 res   3.9 m
+Cañada Boulevard × Del Valle Avenue        score 0.48 res   4.0 m
+Cañada Boulevard × Don Carlos Avenue       score 0.44 res   3.0 m
+Mira Vista Drive × Vista del Verde Drive   score 0.38 res   3.2 m
+El Arbolita Drive × Montecito Drive        score 0.38 res   3.7 m
+Beaudry Boulevard × Beaudry Terrace        score 0.35 res   5.7 m
+Bayberry Drive × Sparr Boulevard           score 0.34 res   2.9 m
+Cañada Boulevard × Country Club Drive ×    score 0.33 res   3.9 m
+Alpha Road × Los Encinos Avenue            score 0.33 res   6.7 m
+Bara Road × Risa Drive                     score 0.33 res   7.8 m
+Bara Road × North Verdugo Road             score 0.32 res   4.6 m
+Sunshine Court × Sunshine Drive            score 0.30 res   6.9 m
+Alpha Road × Oak Glen Road                 score 0.28 res   1.5 m
+Hermosita Drive × Santa Barbara Avenue     score 0.28 res   1.5 m
+Alpha Road × North Verdugo Road            score 0.28 res   3.5 m
+Blanchard Drive × Bonita Drive × Opechee   score 0.25 res   3.6 m
+Del Monte Drive × Royal Boulevard          score 0.23 res   2.7 m
+Alamo Drive × Royal Boulevard              score 0.20 res   2.2 m
+Bonita Drive × Camulos Avenue              score 0.20 res   1.3 m
+Country Club Drive × Hermosita Drive       score 0.19 res   0.8 m
+Andenes Drive × Hermosita Drive            score 0.18 res   1.8 m
+Andenes Drive × Capistrano Avenue × El R   score 0.18 res   4.3 m

@@ -1,0 +1,202 @@
+[
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 862.7719636999027,
+  "py": 2558.4845067561614,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.52
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+  "px": 493.31246579523633,
+  "py": 2050.9241899394606,
+  "lon": -118.2290663,
+  "lat": 34.1853235,
+  "score": 0.494
+ },
+ {
+  "id": "Calafia Street \u00d7 Carrie Lane",
+  "px": 1231.9339373825678,
+  "py": 2522.3662001295506,
+  "lon": -118.2225382,
+  "lat": 34.1822816,
+  "score": 0.481
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 463.1696591850528,
+  "py": 2848.321510027702,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.46
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 1411.5428025082088,
+  "py": 1610.8173818432956,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.454
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Ramona Avenue",
+  "px": 502.6642079852253,
+  "py": 1735.7172600861131,
+  "lon": -118.229107,
+  "lat": 34.187605,
+  "score": 0.449
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 846.187092504833,
+  "py": 1180.0941470480993,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.369
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 533.7793138817958,
+  "py": 1426.1250614594107,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.368
+ },
+ {
+  "id": "Alpha Road \u00d7 Oakwood Avenue",
+  "px": 1191.7570569538136,
+  "py": 1598.0171311442393,
+  "lon": -118.2233214,
+  "lat": 34.188869,
+  "score": 0.358
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 431.99803428595885,
+  "py": 3560.734938567985,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.352
+ },
+ {
+  "id": "Allanjay Place \u00d7 Fern Lane",
+  "px": 1470.716686816022,
+  "py": 2342.80586512803,
+  "lon": -118.2205941,
+  "lat": 34.1836787,
+  "score": 0.342
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 851.8136472699847,
+  "py": 1616.4371894673886,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.339
+ },
+ {
+  "id": "Bara Road \u00d7 Risa Drive",
+  "px": 1037.0492510797853,
+  "py": 2769.100282406552,
+  "lon": -118.2240979,
+  "lat": 34.180435,
+  "score": 0.331
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hillside Drive",
+  "px": 448.3311596940949,
+  "py": 3168.334890151263,
+  "lon": -118.2289928,
+  "lat": 34.1772427,
+  "score": 0.331
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 473.9261969050327,
+  "py": 2525.960852753541,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.305
+ },
+ {
+  "id": "North Verdugo Road \u00d7 Towne Street",
+  "px": 534.3998481836301,
+  "py": 4267.6887673190095,
+  "lon": -118.2277622,
+  "lat": 34.1694559,
+  "score": 0.283
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 935.3841934922551,
+  "py": 2829.531433547185,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.273
+ },
+ {
+  "id": "Bagdad Place \u00d7 Sparr Boulevard",
+  "px": 800.6073700374211,
+  "py": 850.8149977079299,
+  "lon": -118.2269408,
+  "lat": 34.1941092,
+  "score": 0.27
+ },
+ {
+  "id": "Bogue Drive \u00d7 Mira Vista Drive \u00d7 Pasa Gl",
+  "px": 848.9561834539712,
+  "py": 1991.1093198688263,
+  "lon": -118.2260385,
+  "lat": 34.1859469,
+  "score": 0.245
+ },
+ {
+  "id": "Alpha Motorway \u00d7 Descanso Motorway",
+  "px": 2681.7747639977297,
+  "py": 1078.5475297460873,
+  "lon": -118.2109274,
+  "lat": 34.1933677,
+  "score": 0.224
+ },
+ {
+  "id": "Samarkand Place \u00d7 Tamerlane Drive",
+  "px": 979.9857015484042,
+  "py": 3326.50187167309,
+  "lon": -118.2243272,
+  "lat": 34.1764447,
+  "score": 0.211
+ },
+ {
+  "id": "Colina Drive \u00d7 Hiawatha Drive",
+  "px": 586.9468453794651,
+  "py": 3336.151640662564,
+  "lon": -118.2277244,
+  "lat": 34.1761212,
+  "score": 0.201
+ },
+ {
+  "id": "Hillside Drive \u00d7 North Verdugo Road",
+  "px": 831.1052245107974,
+  "py": 3196.3055555335227,
+  "lon": -118.2256895,
+  "lat": 34.1772802,
+  "score": 0.197
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 687.0647627702136,
+  "py": 3856.5537371658656,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.193
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Towne Street",
+  "px": 379.2254139616739,
+  "py": 4221.980862844468,
+  "lon": -118.229072,
+  "lat": 34.1696171,
+  "score": 0.187
+ }
+]

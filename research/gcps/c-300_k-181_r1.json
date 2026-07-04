@@ -1,0 +1,218 @@
+[
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Fernbrook Place",
+  "px": 4552.917469659103,
+  "py": 684.5247900985685,
+  "lon": -118.2289746,
+  "lat": 34.1752873,
+  "score": 0.438
+ },
+ {
+  "id": "Heather Ridge Drive \u00d7 Misty Isle Drive",
+  "px": 2762.157268203029,
+  "py": 1469.7743213719364,
+  "lon": -118.2442683,
+  "lat": 34.1693765,
+  "score": 0.402
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 4826.3016979270515,
+  "py": 3437.544072570572,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.397
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 3674.948933914878,
+  "py": 2383.565418858756,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.326
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 3482.7384413696304,
+  "py": 2246.2052169618128,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.302
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 3011.400593136851,
+  "py": 2579.897074365222,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.3
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 3645.6745412637474,
+  "py": 1955.946012322328,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.299
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 3963.6844501355645,
+  "py": 1903.2185433288894,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.298
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 3898.5270117770074,
+  "py": 1723.774347352398,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.295
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Ivy Bridge Road",
+  "px": 2846.0016196363244,
+  "py": 1099.5574934900983,
+  "lon": -118.2435765,
+  "lat": 34.1720394,
+  "score": 0.292
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Wabasso Way",
+  "px": 4557.453507929621,
+  "py": 251.1394444063035,
+  "lon": -118.2290065,
+  "lat": 34.1783947,
+  "score": 0.29
+ },
+ {
+  "id": "Glenandale Terrace \u00d7 Glenoaks Boulevard",
+  "px": 4308.049906066556,
+  "py": 3566.8896252708287,
+  "lon": -118.230746,
+  "lat": 34.1547955,
+  "score": 0.275
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Del Rey Drive",
+  "px": 2872.435132104847,
+  "py": 2319.5287447101846,
+  "lon": -118.2431234,
+  "lat": 34.163428,
+  "score": 0.271
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 2929.298864966407,
+  "py": 2978.4786411247574,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.269
+ },
+ {
+  "id": "East Lexington Drive \u00d7 Grove Place",
+  "px": 3495.1072519743825,
+  "py": 3984.424166278008,
+  "lon": -118.2376438,
+  "lat": 34.151719,
+  "score": 0.265
+ },
+ {
+  "id": "Bonita Drive \u00d7 Hillside Drive",
+  "px": 4258.225075896871,
+  "py": 400.71894251586946,
+  "lon": -118.2315789,
+  "lat": 34.1772366,
+  "score": 0.241
+ },
+ {
+  "id": "North Verdugo Road \u00d7 Rosita Drive",
+  "px": 4955.0813268999445,
+  "py": 319.3096048761995,
+  "lon": -118.2255975,
+  "lat": 34.1779325,
+  "score": 0.241
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 2840.147330097432,
+  "py": 2534.1754295982496,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.238
+ },
+ {
+  "id": "Colina Drive \u00d7 Niodrara Drive",
+  "px": 4362.782838253518,
+  "py": 794.8867019758442,
+  "lon": -118.2305688,
+  "lat": 34.1743976,
+  "score": 0.232
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 2754.1071979957323,
+  "py": 1930.3922781991005,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.225
+ },
+ {
+  "id": "Canyon Drive \u00d7 East Chevy Chase Drive",
+  "px": 3862.7364484250243,
+  "py": 4008.042634799943,
+  "lon": -118.2344922,
+  "lat": 34.1515996,
+  "score": 0.224
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Lilac Lane",
+  "px": 5207.364398606686,
+  "py": 3400.500774669699,
+  "lon": -118.2230925,
+  "lat": 34.156127,
+  "score": 0.224
+ },
+ {
+  "id": "Hillside Drive \u00d7 North Verdugo Road",
+  "px": 4943.363375346058,
+  "py": 410.4347483556952,
+  "lon": -118.2256895,
+  "lat": 34.1772802,
+  "score": 0.221
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 2993.32466640247,
+  "py": 2346.617001884031,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.22
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 3137.1020160524295,
+  "py": 1907.0232519229885,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.217
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 East Glenoaks B",
+  "px": 4489.056788225061,
+  "py": 3755.500845246442,
+  "lon": -118.229061,
+  "lat": 34.1535,
+  "score": 0.155
+ },
+ {
+  "id": "Holly Drive \u00d7 Merrill Avenue \u00d7 Vallejo D",
+  "px": 4595.792018071801,
+  "py": 4062.5916820089587,
+  "lon": -118.2282089,
+  "lat": 34.1513323,
+  "score": 0.155
+ }
+]

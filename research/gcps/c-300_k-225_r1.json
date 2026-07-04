@@ -1,0 +1,170 @@
+[
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 485.62592721285796,
+  "py": 2208.2750894876917,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.518
+ },
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 863.5906686592135,
+  "py": 2558.1332699239915,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.502
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Glorietta Avenue",
+  "px": 498.5066777635535,
+  "py": 1850.2400033741023,
+  "lon": -118.2290984,
+  "lat": 34.186779,
+  "score": 0.497
+ },
+ {
+  "id": "Calafia Street \u00d7 Carrie Lane",
+  "px": 1232.5097164537074,
+  "py": 2520.8793406158666,
+  "lon": -118.2225382,
+  "lat": 34.1822816,
+  "score": 0.478
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 462.68165372159126,
+  "py": 2847.9956949293855,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.467
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 1411.7749281990752,
+  "py": 1610.3463700074183,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.443
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hiawatha Drive",
+  "px": 442.87021447726966,
+  "py": 3321.4451748389192,
+  "lon": -118.2289824,
+  "lat": 34.1761175,
+  "score": 0.42
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 533.8915199144806,
+  "py": 1426.2054369677512,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.366
+ },
+ {
+  "id": "Alpha Road \u00d7 Oakwood Avenue",
+  "px": 1191.0919928935045,
+  "py": 1598.6197112575537,
+  "lon": -118.2233214,
+  "lat": 34.188869,
+  "score": 0.357
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 431.77249882417453,
+  "py": 3560.6910092150792,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.357
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 851.8150425539579,
+  "py": 1617.8070594041815,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.333
+ },
+ {
+  "id": "Allanjay Place \u00d7 Fern Lane",
+  "px": 1470.26258131224,
+  "py": 2343.2986640245376,
+  "lon": -118.2205941,
+  "lat": 34.1836787,
+  "score": 0.332
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 474.7890945968198,
+  "py": 2526.1016032213042,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.316
+ },
+ {
+  "id": "Bara Road \u00d7 Risa Drive",
+  "px": 1038.0332503264115,
+  "py": 2767.9549438580902,
+  "lon": -118.2240979,
+  "lat": 34.180435,
+  "score": 0.315
+ },
+ {
+  "id": "North Verdugo Road \u00d7 Towne Street",
+  "px": 534.0617899140796,
+  "py": 4269.09271499488,
+  "lon": -118.2277622,
+  "lat": 34.1694559,
+  "score": 0.277
+ },
+ {
+  "id": "Colina Drive \u00d7 Sunshine Drive",
+  "px": 129.55166288603442,
+  "py": 3541.53026449493,
+  "lon": -118.2315987,
+  "lat": 34.1744132,
+  "score": 0.26
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 934.8950092876061,
+  "py": 2829.669683453786,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.247
+ },
+ {
+  "id": "Bogue Drive \u00d7 Mira Vista Drive \u00d7 Pasa Gl",
+  "px": 848.7579262257775,
+  "py": 1991.8707627191975,
+  "lon": -118.2260385,
+  "lat": 34.1859469,
+  "score": 0.231
+ },
+ {
+  "id": "Lockwood Road \u00d7 Marcia Road",
+  "px": 913.5507657325784,
+  "py": 1428.8056290090194,
+  "lon": -118.2257501,
+  "lat": 34.1899897,
+  "score": 0.214
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 686.9004803583206,
+  "py": 3857.5020593452323,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.2
+ },
+ {
+  "id": "Colina Drive \u00d7 Hiawatha Drive",
+  "px": 586.7960458811018,
+  "py": 3336.329528807673,
+  "lon": -118.2277244,
+  "lat": 34.1761212,
+  "score": 0.197
+ }
+]

@@ -1,0 +1,178 @@
+[
+ {
+  "id": "Del Rey Drive \u00d7 Rossmoyne Avenue",
+  "px": 4177.963269313162,
+  "py": 636.347958982421,
+  "lon": -118.2415691,
+  "lat": 34.1631632,
+  "score": 0.397
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 4187.176080000949,
+  "py": 579.8264909919719,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.382
+ },
+ {
+  "id": "Chudleigh Lane \u00d7 Greenbriar Road",
+  "px": 5234.200414963142,
+  "py": 492.68297761544864,
+  "lon": -118.2427196,
+  "lat": 34.1713901,
+  "score": 0.377
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 4558.370956325274,
+  "py": 1152.865999903686,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.374
+ },
+ {
+  "id": "Cortez Drive \u00d7 Rossmoyne Avenue",
+  "px": 4052.2942456154246,
+  "py": 670.3642137303947,
+  "lon": -118.2412728,
+  "lat": 34.1621622,
+  "score": 0.365
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 4589.706116726355,
+  "py": 689.7293465337269,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.362
+ },
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 4292.9937802769155,
+  "py": 1547.1028622111776,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.353
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 3613.1295080714217,
+  "py": 544.6470613411261,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.337
+ },
+ {
+  "id": "Coronado Drive \u00d7 Portola Avenue",
+  "px": 3687.3898921718664,
+  "py": 716.8129421673696,
+  "lon": -118.240909,
+  "lat": 34.159348,
+  "score": 0.297
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Lilac Lane",
+  "px": 3281.697530139303,
+  "py": 2611.92513187118,
+  "lon": -118.2230925,
+  "lat": 34.156127,
+  "score": 0.294
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Solway Street",
+  "px": 3350.512207421877,
+  "py": 2693.3252688162097,
+  "lon": -118.2223222,
+  "lat": 34.156663,
+  "score": 0.273
+ },
+ {
+  "id": "Cascadia Drive \u00d7 Saint Andrews Drive",
+  "px": 3896.146414939775,
+  "py": 3469.8362836043516,
+  "lon": -118.214885,
+  "lat": 34.160849,
+  "score": 0.265
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 4287.3436882397455,
+  "py": 1018.4380417159957,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.261
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 4563.225875517416,
+  "py": 342.0206194512299,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.256
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Kirkton Place",
+  "px": 5017.618368019552,
+  "py": 719.0137468072598,
+  "lon": -118.2406221,
+  "lat": 34.1696992,
+  "score": 0.25
+ },
+ {
+  "id": "Arboles Drive \u00d7 Royal Boulevard",
+  "px": 4981.336362720877,
+  "py": 1162.131317845053,
+  "lon": -118.2364343,
+  "lat": 34.1693971,
+  "score": 0.238
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 4774.290712575524,
+  "py": 1377.830345456608,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.236
+ },
+ {
+  "id": "Acorn Place \u00d7 East Chevy Chase Drive",
+  "px": 3509.776896816804,
+  "py": 2925.662407210347,
+  "lon": -118.2200818,
+  "lat": 34.1579092,
+  "score": 0.235
+ },
+ {
+  "id": "Cascadia Drive \u00d7 Kennington Drive \u00d7 Some",
+  "px": 4112.3290849047635,
+  "py": 3732.0860318655555,
+  "lon": -118.2124268,
+  "lat": 34.1624826,
+  "score": 0.231
+ },
+ {
+  "id": "Las Flores Drive \u00d7 Moreno Drive",
+  "px": 5041.807866987495,
+  "py": 1423.3815625079255,
+  "lon": -118.2340299,
+  "lat": 34.1698034,
+  "score": 0.182
+ },
+ {
+  "id": "Lamego Drive \u00d7 Puebla Drive",
+  "px": 5282.017734682773,
+  "py": 1412.8496261582238,
+  "lon": -118.2340584,
+  "lat": 34.1715952,
+  "score": 0.17
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 4008.4101106214753,
+  "py": 444.29121173624833,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.162
+ }
+]

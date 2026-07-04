@@ -1,0 +1,202 @@
+[
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Fernbrook Place",
+  "px": 4553.066478720424,
+  "py": 685.3001376851316,
+  "lon": -118.2289746,
+  "lat": 34.1752873,
+  "score": 0.434
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 4826.769767203709,
+  "py": 3436.715310718071,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.389
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 3674.15691643899,
+  "py": 2383.7621914222177,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.331
+ },
+ {
+  "id": "Eastedge Drive \u00d7 Solway Street",
+  "px": 5247.697415814896,
+  "py": 3228.451022937656,
+  "lon": -118.222811,
+  "lat": 34.1573229,
+  "score": 0.327
+ },
+ {
+  "id": "Monterey Road \u00d7 North Adams Street",
+  "px": 3172.6696732930363,
+  "py": 3414.566383820758,
+  "lon": -118.24044,
+  "lat": 34.155742,
+  "score": 0.314
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 3644.9032291011795,
+  "py": 1954.0732688350477,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.309
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 3483.0632740216784,
+  "py": 2246.0541675912796,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.301
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 3962.700755120814,
+  "py": 1902.814594636133,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.3
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 3010.912966490246,
+  "py": 2580.0298540474532,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.298
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Wabasso Way",
+  "px": 4557.456319930148,
+  "py": 252.20745517693024,
+  "lon": -118.2290065,
+  "lat": 34.1783947,
+  "score": 0.297
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 3898.1945411683414,
+  "py": 1724.032135293493,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.284
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Del Rey Drive",
+  "px": 2873.0936428482296,
+  "py": 2319.8054221521907,
+  "lon": -118.2431234,
+  "lat": 34.163428,
+  "score": 0.279
+ },
+ {
+  "id": "Glenandale Terrace \u00d7 Glenoaks Boulevard",
+  "px": 4308.330047908955,
+  "py": 3567.163675714431,
+  "lon": -118.230746,
+  "lat": 34.1547955,
+  "score": 0.275
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 2929.3705433653763,
+  "py": 2977.7418294444005,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.268
+ },
+ {
+  "id": "Bonita Drive \u00d7 Hillside Drive",
+  "px": 4259.169889855771,
+  "py": 402.5220166643174,
+  "lon": -118.2315789,
+  "lat": 34.1772366,
+  "score": 0.252
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 2839.424685887432,
+  "py": 2535.086531769913,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.246
+ },
+ {
+  "id": "North Verdugo Road \u00d7 Rosita Drive",
+  "px": 4954.313449771098,
+  "py": 319.23753021693165,
+  "lon": -118.2255975,
+  "lat": 34.1779325,
+  "score": 0.244
+ },
+ {
+  "id": "Canyon Drive \u00d7 East Chevy Chase Drive",
+  "px": 3862.9266342391743,
+  "py": 4007.707858253638,
+  "lon": -118.2344922,
+  "lat": 34.1515996,
+  "score": 0.231
+ },
+ {
+  "id": "Hillside Drive \u00d7 North Verdugo Road",
+  "px": 4943.502027113598,
+  "py": 410.2374335279773,
+  "lon": -118.2256895,
+  "lat": 34.1772802,
+  "score": 0.224
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 2753.997111842999,
+  "py": 1931.0068646390741,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.222
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Lilac Lane",
+  "px": 5207.326834196733,
+  "py": 3400.569471262062,
+  "lon": -118.2230925,
+  "lat": 34.156127,
+  "score": 0.219
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 2993.4128757554554,
+  "py": 2346.7620044107216,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.217
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 4558.605490990489,
+  "py": 806.054089711035,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.217
+ },
+ {
+  "id": "Monterey Road \u00d7 Portola Avenue",
+  "px": 2876.7149462832967,
+  "py": 3269.14581801574,
+  "lon": -118.2429665,
+  "lat": 34.1567203,
+  "score": 0.183
+ },
+ {
+  "id": "East Doran Street \u00d7 North Adams Street",
+  "px": 3025.756932414322,
+  "py": 3691.1651024465823,
+  "lon": -118.2416455,
+  "lat": 34.153754,
+  "score": 0.182
+ }
+]

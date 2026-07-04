@@ -1,0 +1,218 @@
+[
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 4009.9009566650466,
+  "py": 485.21284843904397,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.538
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 Glenvista Drive",
+  "px": 4099.68597333898,
+  "py": 4025.2559480147984,
+  "lon": -118.2348394,
+  "lat": 34.1577311,
+  "score": 0.479
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Moncado Drive",
+  "px": 3574.870522371032,
+  "py": 3336.355109752814,
+  "lon": -118.237107,
+  "lat": 34.163506,
+  "score": 0.478
+ },
+ {
+  "id": "Ridge Drive \u00d7 Solway Street",
+  "px": 5352.763016599956,
+  "py": 3509.518953405254,
+  "lon": -118.2233928,
+  "lat": 34.1584327,
+  "score": 0.454
+ },
+ {
+  "id": "Calafia Street \u00d7 Carrie Lane",
+  "px": 4344.437941871995,
+  "py": 302.19361540549085,
+  "lon": -118.2225382,
+  "lat": 34.1822816,
+  "score": 0.444
+ },
+ {
+  "id": "Colina Drive \u00d7 Sunshine Drive",
+  "px": 3693.549735642874,
+  "py": 1679.8696480745634,
+  "lon": -118.2315987,
+  "lat": 34.1744132,
+  "score": 0.431
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 3459.2021954493075,
+  "py": 3299.075935975045,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.42
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 3746.7391964901826,
+  "py": 909.0516046228217,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.418
+ },
+ {
+  "id": "Avonglen Terrace \u00d7 Glenandale Terrace \u00d7 ",
+  "px": 4423.272187804896,
+  "py": 3928.1400176611146,
+  "lon": -118.232068,
+  "lat": 34.157672,
+  "score": 0.386
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 3031.8706013136107,
+  "py": 3559.731533730854,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.344
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 3688.249905225437,
+  "py": 3363.4580139137242,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.335
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Oakengate Drive",
+  "px": 2988.2155828042487,
+  "py": 2679.4825844751667,
+  "lon": -118.2400816,
+  "lat": 34.1692452,
+  "score": 0.318
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hillside Drive",
+  "px": 3851.572050021815,
+  "py": 1210.7814609883849,
+  "lon": -118.2289928,
+  "lat": 34.1772427,
+  "score": 0.299
+ },
+ {
+  "id": "Edinburgh Lane \u00d7 Sweetbriar Drive",
+  "px": 4045.1889280187597,
+  "py": 3689.939589323523,
+  "lon": -118.2344641,
+  "lat": 34.1600738,
+  "score": 0.295
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 3637.967839211512,
+  "py": 602.0900682218431,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.282
+ },
+ {
+  "id": "Alcalde Drive \u00d7 Alcalde Way",
+  "px": 2955.486436184222,
+  "py": 2284.158780241429,
+  "lon": -118.2392644,
+  "lat": 34.1719869,
+  "score": 0.281
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 3018.281063782384,
+  "py": 3103.104637652951,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.274
+ },
+ {
+  "id": "East Mountain Street \u00d7 North Cedar Stree",
+  "px": 2751.0261958089914,
+  "py": 3376.046439721999,
+  "lon": -118.2438934,
+  "lat": 34.1651251,
+  "score": 0.273
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 3676.261451413923,
+  "py": 2667.4395684378164,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.267
+ },
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 4018.5915852124263,
+  "py": 3115.0353019198287,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.25
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 3988.2090417032214,
+  "py": 1581.65445073359,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.25
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 3797.719613854554,
+  "py": 2811.21257975454,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.249
+ },
+ {
+  "id": "Las Positas Road \u00d7 Risa Place",
+  "px": 4187.896175272428,
+  "py": 82.72559695770445,
+  "lon": -118.2231809,
+  "lat": 34.1841526,
+  "score": 0.241
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 4178.277887856003,
+  "py": 703.9348540787721,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.228
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 2949.7437548819344,
+  "py": 3788.2157577392377,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.221
+ },
+ {
+  "id": "Fay Drive \u00d7 Mildred Drive",
+  "px": 4830.267948147746,
+  "py": 3629.493371112787,
+  "lon": -118.227954,
+  "lat": 34.158741,
+  "score": 0.221
+ },
+ {
+  "id": "Atkins Drive \u00d7 Glen Avenue",
+  "px": 4706.5024962088655,
+  "py": 3765.890629904406,
+  "lon": -118.2292914,
+  "lat": 34.1581187,
+  "score": 0.214
+ }
+]

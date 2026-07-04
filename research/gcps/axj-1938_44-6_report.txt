@@ -1,0 +1,16 @@
+Calle Vaquero × North Verdugo Road         score 0.40 res   1.9 m
+East Mountain Street × Greenbriar Road ×   score 0.33 res   0.7 m
+Ethel Street × Viscano Drive               score 0.31 res   1.6 m
+Cordova Avenue × Coronado Drive            score 0.28 res   5.1 m
+Don Jose Drive × Ethel Street              score 0.28 res   0.7 m
+Del Monte Drive × Royal Boulevard          score 0.26 res   3.4 m
+Greenbriar Road × Kirkton Place            score 0.25 res   3.0 m
+Cavanaugh Road × Cedar Court Road          score 0.24 res   3.0 m
+Imperial Drive × Princess Drive            score 0.24 res   8.4 m
+Carmen Drive × East Mountain Street        score 0.23 res   1.9 m
+Alamo Drive × Royal Boulevard              score 0.23 res   2.8 m
+Arboles Drive × Royal Boulevard            score 0.23 res   3.9 m
+Cordova Avenue × East Dryden Street        score 0.23 res   4.1 m
+Don Jose Drive × East Mountain Street      score 0.21 res   1.7 m
+Greenbriar Road × Oakengate Drive          score 0.20 res   1.5 m
+Las Flores Drive × Moreno Drive            score 0.20 res   5.8 m

@@ -1,0 +1,194 @@
+[
+ {
+  "id": "Beaudry Boulevard \u00d7 Country Club Drive",
+  "px": 2748.3617322005593,
+  "py": 644.1094798414372,
+  "lon": -118.2349384,
+  "lat": 34.1935038,
+  "score": 0.608
+ },
+ {
+  "id": "Beaudry Boulevard \u00d7 San Gabriel Avenue",
+  "px": 2682.3578431596748,
+  "py": 693.4891115135824,
+  "lon": -118.2356077,
+  "lat": 34.1933021,
+  "score": 0.528
+ },
+ {
+  "id": "Brook Lane \u00d7 North Verdugo Road",
+  "px": 4240.481780486986,
+  "py": 1881.9963731810099,
+  "lon": -118.2256911,
+  "lat": 34.18184,
+  "score": 0.521
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 3767.7388707695045,
+  "py": 1682.543744741294,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.48
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+  "px": 3724.0810884021157,
+  "py": 1530.8244189983325,
+  "lon": -118.2290663,
+  "lat": 34.1853235,
+  "score": 0.443
+ },
+ {
+  "id": "Mira Vista Drive \u00d7 Vista del Verde Drive",
+  "px": 4193.070740959074,
+  "py": 1085.309979273884,
+  "lon": -118.2242357,
+  "lat": 34.1874365,
+  "score": 0.382
+ },
+ {
+  "id": "El Arbolita Drive \u00d7 Montecito Drive",
+  "px": 3884.6253038726336,
+  "py": 253.07545807444637,
+  "lon": -118.2247522,
+  "lat": 34.1938016,
+  "score": 0.377
+ },
+ {
+  "id": "Beaudry Boulevard \u00d7 Beaudry Terrace",
+  "px": 2064.9545561666046,
+  "py": 864.1618560893185,
+  "lon": -118.2411071,
+  "lat": 34.193436,
+  "score": 0.35
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 3773.4517692556165,
+  "py": 583.3196430764131,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.336
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 3559.7633243731234,
+  "py": 925.2344369011781,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.332
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 4457.087410943338,
+  "py": 794.2678036342259,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.329
+ },
+ {
+  "id": "Bara Road \u00d7 Risa Drive",
+  "px": 4483.948396797799,
+  "py": 2015.1245080796396,
+  "lon": -118.2240979,
+  "lat": 34.180435,
+  "score": 0.325
+ },
+ {
+  "id": "Bara Road \u00d7 North Verdugo Road",
+  "px": 4303.071212475456,
+  "py": 2161.4832498820124,
+  "lon": -118.22584,
+  "lat": 34.1797775,
+  "score": 0.324
+ },
+ {
+  "id": "Sunshine Court \u00d7 Sunshine Drive",
+  "px": 3675.4742572105088,
+  "py": 3068.2704907144534,
+  "lon": -118.2332378,
+  "lat": 34.1747841,
+  "score": 0.299
+ },
+ {
+  "id": "Alpha Road \u00d7 Oak Glen Road",
+  "px": 4068.949940821866,
+  "py": 930.2199133023471,
+  "lon": -118.2248315,
+  "lat": 34.1887556,
+  "score": 0.282
+ },
+ {
+  "id": "Hermosita Drive \u00d7 Santa Barbara Avenue",
+  "px": 3177.8259998297835,
+  "py": 1220.6225528129858,
+  "lon": -118.232807,
+  "lat": 34.188605,
+  "score": 0.28
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 3920.917674306339,
+  "py": 997.1106905262742,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.276
+ },
+ {
+  "id": "Blanchard Drive \u00d7 Bonita Drive \u00d7 Opechee",
+  "px": 3590.1038541318785,
+  "py": 2236.448105763492,
+  "lon": -118.2318606,
+  "lat": 34.1806838,
+  "score": 0.248
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 3911.1620023896494,
+  "py": 4185.128292562684,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.23
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 3796.3500003493555,
+  "py": 4039.143853327795,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.203
+ },
+ {
+  "id": "Bonita Drive \u00d7 Camulos Avenue",
+  "px": 3637.826267297056,
+  "py": 2386.9801260491213,
+  "lon": -118.2318338,
+  "lat": 34.1795658,
+  "score": 0.201
+ },
+ {
+  "id": "Country Club Drive \u00d7 Hermosita Drive",
+  "px": 3123.682110505598,
+  "py": 861.270064779909,
+  "lon": -118.232405,
+  "lat": 34.1912013,
+  "score": 0.186
+ },
+ {
+  "id": "Andenes Drive \u00d7 Hermosita Drive",
+  "px": 3350.057716125646,
+  "py": 2249.5931867447243,
+  "lon": -118.2338867,
+  "lat": 34.1811144,
+  "score": 0.184
+ },
+ {
+  "id": "Andenes Drive \u00d7 Capistrano Avenue \u00d7 El R",
+  "px": 2985.3299856210324,
+  "py": 2120.7117816728205,
+  "lon": -118.2365882,
+  "lat": 34.1827643,
+  "score": 0.183
+ }
+]

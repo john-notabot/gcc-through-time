@@ -11,16 +11,19 @@ registered raster, but GCP coordinates always come from present-day OSM — so c
 errors do not accumulate geometrically, they only inherit the reference's local error
 at patch centers (~its own RMS).
 
-| Era layer | Source frames | GCPs | RMS (m) | Notes |
-|---|---|---|---|---|
-| 2022 (NAIP) | 2 COG quarter-quads | — | native | USDA orthoimagery, used as base truth |
-| 1981 frame 18-40 | TG-3800 | 32 | 3.6 | matched vs NAIP |
-| 1981 frame 18-39 | TG-3800 | 33 | 3.2 | SIFT-seeded from 18-40, matched vs NAIP |
-| 1971 | TG-2755 ×4 | (pending) | | |
-| 1956 | C-22555 ×5 | (pending) | | |
-| 1938 | AXJ-1938 ×6 | (pending) | | |
-| 1928 | C-300 ×7 | (pending) | | |
-| 1900 topo | USGS Pasadena 15' 1900 ed. | — | map-inherent | HTMC georeferencing used as-is; expect tens of meters (1890s survey); acceptable for a map-styled era |
+| Era layer | Source frames | GCPs | RMS (m) | AOI coverage | Notes |
+|---|---|---|---|---|---|
+| 2022 (NAIP) | 2 COG quarter-quads | — | native | 100% | USDA orthoimagery, base truth |
+| 1981 | TG-3800 18-39, 18-40 | 33+32 | 3.2–3.6 | 84.7% | matched vs NAIP; missing NE mountain corner |
+| 1971 composite | TG-2755 25-37/38/39 + TG-2400 1-88 fill | 13+11+46+35 | 2.7–3.7 | 98.9% | flight row 26 never scanned → campus strip filled with tone-matched 3/19/68 frame; labeled 1968–71 composite (John approved 2026-07-03). NW frame 27-48 unseedable, covered by fill |
+| 1968 (fill layer) | TG-2400 1-88 | 35 | 3.3 | 91.8% | single wide frame |
+| 1960 (extra, unused era) | C-23870 1195 | 45 | 3.4 | 65.5% | registered while investigating freeway history; available for story pins |
+| 1956 | C-22555 ×5 | 14–36 | 2.9–4.4 | 88.9% | |
+| 1938 | AXJ-1938 ×6 | 11–34 | 2.2–4.0 | 100% | |
+| 1928 | C-300 ×7 | 13–31 | 2.1–4.5 | 87.1% | missing NE mountains |
+| 1900 topo | USGS Pasadena 15' 1900 | — | map-inherent | 100% | HTMC georeferencing as-is |
+
+(previous provisional table replaced with final numbers 2026-07-03; per-frame GCP lists in research/gcps/)
 
 ## Known limitations
 

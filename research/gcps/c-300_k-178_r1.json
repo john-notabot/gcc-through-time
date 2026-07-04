@@ -1,0 +1,194 @@
+[
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 3767.6316542387117,
+  "py": 1682.6101633817002,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.47
+ },
+ {
+  "id": "Delisle Court \u00d7 Fern Lane",
+  "px": 4917.660338294296,
+  "py": 1388.6678984115033,
+  "lon": -118.219138,
+  "lat": 34.1839119,
+  "score": 0.441
+ },
+ {
+  "id": "Calafia Street \u00d7 Carrie Lane",
+  "px": 4587.275280976459,
+  "py": 1715.880638527861,
+  "lon": -118.2225382,
+  "lat": 34.1822816,
+  "score": 0.431
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Glorietta Avenue",
+  "px": 3664.5477845244927,
+  "py": 1339.3484518926282,
+  "lon": -118.2290984,
+  "lat": 34.186779,
+  "score": 0.426
+ },
+ {
+  "id": "Heather Ridge Drive \u00d7 Misty Isle Drive",
+  "px": 2635.5990717063214,
+  "py": 4155.306214151224,
+  "lon": -118.2442683,
+  "lat": 34.1693765,
+  "score": 0.426
+ },
+ {
+  "id": "Chudleigh Lane \u00d7 Greenbriar Road",
+  "px": 2737.0275111138976,
+  "py": 3826.371705373046,
+  "lon": -118.2427196,
+  "lat": 34.1713901,
+  "score": 0.4
+ },
+ {
+  "id": "Montecito Drive \u00d7 Sparr Boulevard",
+  "px": 3765.3475682395324,
+  "py": 463.23868271782663,
+  "lon": -118.2262103,
+  "lat": 34.1925914,
+  "score": 0.36
+ },
+ {
+  "id": "El Arbolita Drive \u00d7 Montecito Drive",
+  "px": 3885.438780069277,
+  "py": 253.02352680575046,
+  "lon": -118.2247522,
+  "lat": 34.1938016,
+  "score": 0.34
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 3953.776801704584,
+  "py": 2293.66384354509,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.339
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 3559.982203275585,
+  "py": 924.7586016718494,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.33
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 4457.200994047063,
+  "py": 794.7002995798141,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.323
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 3772.4764460928786,
+  "py": 583.2364191648253,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.319
+ },
+ {
+  "id": "Bara Road \u00d7 Risa Drive",
+  "px": 4484.707388238898,
+  "py": 2015.16066186454,
+  "lon": -118.2240979,
+  "lat": 34.180435,
+  "score": 0.297
+ },
+ {
+  "id": "Sunshine Court \u00d7 Sunshine Drive",
+  "px": 3675.8273316156633,
+  "py": 3068.0655705657264,
+  "lon": -118.2332378,
+  "lat": 34.1747841,
+  "score": 0.297
+ },
+ {
+  "id": "Hermosita Drive \u00d7 Santa Barbara Avenue",
+  "px": 3177.017206238517,
+  "py": 1220.4344462452161,
+  "lon": -118.232807,
+  "lat": 34.188605,
+  "score": 0.286
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 3922.344514660282,
+  "py": 997.2444432652951,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.271
+ },
+ {
+  "id": "Blanchard Drive \u00d7 Bonita Drive \u00d7 Opechee",
+  "px": 3589.4945419750425,
+  "py": 2236.7436275229225,
+  "lon": -118.2318606,
+  "lat": 34.1806838,
+  "score": 0.263
+ },
+ {
+  "id": "Kirkby Road \u00d7 North Verdugo Road",
+  "px": 4509.151885145235,
+  "py": 3280.4465909617506,
+  "lon": -118.2268668,
+  "lat": 34.1716495,
+  "score": 0.22
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 3860.4145657088798,
+  "py": 1987.1517529826801,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.218
+ },
+ {
+  "id": "Bonita Drive \u00d7 Camulos Avenue",
+  "px": 3637.7963481944257,
+  "py": 2386.3055385114535,
+  "lon": -118.2318338,
+  "lat": 34.1795658,
+  "score": 0.193
+ },
+ {
+  "id": "Haven Street \u00d7 Oakmont Terrace",
+  "px": 4701.37303434364,
+  "py": 2365.440518178983,
+  "lon": -118.223151,
+  "lat": 34.1775829,
+  "score": 0.193
+ },
+ {
+  "id": "Andenes Drive \u00d7 Capistrano Avenue \u00d7 El R",
+  "px": 2984.724265377087,
+  "py": 2120.465599737129,
+  "lon": -118.2365882,
+  "lat": 34.1827643,
+  "score": 0.179
+ },
+ {
+  "id": "Andenes Drive \u00d7 Hermosita Drive",
+  "px": 3352.353093433557,
+  "py": 2251.374352792936,
+  "lon": -118.2338867,
+  "lat": 34.1811144,
+  "score": 0.179
+ },
+ {
+  "id": "Bonita Drive \u00d7 Hillside Drive",
+  "px": 3754.353256543404,
+  "py": 2687.0097573297116,
+  "lon": -118.2315789,
+  "lat": 34.1772366,
+  "score": 0.166
+ }
+]

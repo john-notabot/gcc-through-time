@@ -1,0 +1,106 @@
+[
+ {
+  "id": "Beaudry Boulevard \u00d7 Country Club Drive",
+  "px": 3000.347847023073,
+  "py": 3225.606163854759,
+  "lon": -118.2349384,
+  "lat": 34.1935038,
+  "score": 0.629
+ },
+ {
+  "id": "Carrie Lane \u00d7 Fern Lane",
+  "px": 4666.218178983964,
+  "py": 4292.241841028158,
+  "lon": -118.2228593,
+  "lat": 34.1830294,
+  "score": 0.429
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 4011.927400938386,
+  "py": 3223.7337499478194,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.416
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 4663.329323883423,
+  "py": 3479.865099867989,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.378
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 4125.983818837097,
+  "py": 3636.182500142209,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.338
+ },
+ {
+  "id": "Alpha Road \u00d7 Oakwood Avenue",
+  "px": 4447.9090345656705,
+  "py": 3527.344869038478,
+  "lon": -118.2233214,
+  "lat": 34.188869,
+  "score": 0.325
+ },
+ {
+  "id": "Bagdad Place \u00d7 Sparr Boulevard",
+  "px": 3885.387714661273,
+  "py": 2926.3624460149645,
+  "lon": -118.2269408,
+  "lat": 34.1941092,
+  "score": 0.31
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 3776.469144152339,
+  "py": 3543.8230160062894,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.297
+ },
+ {
+  "id": "Calafia Street \u00d7 Carrie Lane",
+  "px": 4725.148825455517,
+  "py": 4386.393040707162,
+  "lon": -118.2225382,
+  "lat": 34.1822816,
+  "score": 0.279
+ },
+ {
+  "id": "Del Valle Avenue \u00d7 Hermosita Drive",
+  "px": 3551.455042982101,
+  "py": 4400.380973332094,
+  "lon": -118.2324352,
+  "lat": 34.1841465,
+  "score": 0.255
+ },
+ {
+  "id": "Country Club Drive \u00d7 Hermosita Drive",
+  "px": 3350.7189799624703,
+  "py": 3460.023201538367,
+  "lon": -118.232405,
+  "lat": 34.1912013,
+  "score": 0.226
+ },
+ {
+  "id": "Hermosita Drive \u00d7 Ramona Avenue",
+  "px": 3508.866488319054,
+  "py": 3893.267990830569,
+  "lon": -118.2318406,
+  "lat": 34.1877735,
+  "score": 0.21
+ },
+ {
+  "id": "Country Club Drive \u00d7 Santa Rosa Avenue",
+  "px": 3672.0543720005053,
+  "py": 3452.047417806941,
+  "lon": -118.2296752,
+  "lat": 34.1906714,
+  "score": 0.206
+ }
+]

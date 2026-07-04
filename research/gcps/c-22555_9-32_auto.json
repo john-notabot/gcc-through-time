@@ -1,0 +1,114 @@
+[
+ {
+  "id": "Kirkby Road \u00d7 North Verdugo Road",
+  "px": 2920.7362629687973,
+  "py": 699.8310792455027,
+  "lon": -118.2268668,
+  "lat": 34.1716495,
+  "score": 0.398
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Towne Street",
+  "px": 2586.5127621487136,
+  "py": 407.57828379068053,
+  "lon": -118.229072,
+  "lat": 34.1696171,
+  "score": 0.367
+ },
+ {
+  "id": "Niodrara Drive \u00d7 Wabasso Way",
+  "px": 4026.7810130500848,
+  "py": 244.34431202254794,
+  "lon": -118.2302736,
+  "lat": 34.1783798,
+  "score": 0.336
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Fernbrook Place",
+  "px": 3520.7526062773227,
+  "py": 422.10739994859824,
+  "lon": -118.2289746,
+  "lat": 34.1752873,
+  "score": 0.334
+ },
+ {
+  "id": "Cathay Street \u00d7 Haven Street \u00d7 Hillside ",
+  "px": 3797.535993662166,
+  "py": 1222.446957655725,
+  "lon": -118.2228361,
+  "lat": 34.1769402,
+  "score": 0.318
+ },
+ {
+  "id": "Bara Road \u00d7 North Verdugo Road",
+  "px": 4257.04391616657,
+  "py": 838.1795500054235,
+  "lon": -118.22584,
+  "lat": 34.1797775,
+  "score": 0.314
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 El Rito Avenue",
+  "px": 4781.367510822682,
+  "py": 408.1114125063259,
+  "lon": -118.2290518,
+  "lat": 34.1830104,
+  "score": 0.301
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 4283.426527497775,
+  "py": 951.4644470794811,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.286
+ },
+ {
+  "id": "Fernbrook Place \u00d7 Niodrara Drive",
+  "px": 3530.5931978679228,
+  "py": 195.72099617471616,
+  "lon": -118.2306729,
+  "lat": 34.1753551,
+  "score": 0.274
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 4598.491773142501,
+  "py": 413.4719469939807,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.251
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 4969.1597974717615,
+  "py": 403.94452598775274,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.251
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 4219.199348778332,
+  "py": 417.0778747207815,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.224
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+  "px": 5155.749675245438,
+  "py": 404.49110122076166,
+  "lon": -118.2290663,
+  "lat": 34.1853235,
+  "score": 0.215
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 3057.178358140129,
+  "py": 734.4288909004155,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.195
+ }
+]

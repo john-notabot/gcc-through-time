@@ -1,0 +1,122 @@
+[
+ {
+  "id": "North Verdugo Road \u00d7 Towne Street",
+  "px": 2562.0658217769196,
+  "py": 573.9816806554703,
+  "lon": -118.2277622,
+  "lat": 34.1694559,
+  "score": 0.404
+ },
+ {
+  "id": "Niodrara Drive \u00d7 Wabasso Way",
+  "px": 4026.4531109207783,
+  "py": 243.50898480234213,
+  "lon": -118.2302736,
+  "lat": 34.1783798,
+  "score": 0.385
+ },
+ {
+  "id": "Kirkby Road \u00d7 North Verdugo Road",
+  "px": 2921.0000198188914,
+  "py": 699.2017090199355,
+  "lon": -118.2268668,
+  "lat": 34.1716495,
+  "score": 0.359
+ },
+ {
+  "id": "Atkins Drive \u00d7 Herbert Avenue",
+  "px": 471.43293226612695,
+  "py": 415.15602249839753,
+  "lon": -118.228934,
+  "lat": 34.156924,
+  "score": 0.358
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Fernbrook Place",
+  "px": 3521.018670948055,
+  "py": 422.39657325096573,
+  "lon": -118.2289746,
+  "lat": 34.1752873,
+  "score": 0.348
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 El Rito Avenue",
+  "px": 4781.079613729796,
+  "py": 408.28397136766034,
+  "lon": -118.2290518,
+  "lat": 34.1830104,
+  "score": 0.31
+ },
+ {
+  "id": "Cathay Street \u00d7 Haven Street \u00d7 Hillside ",
+  "px": 3797.0313810080306,
+  "py": 1222.5496269749426,
+  "lon": -118.2228361,
+  "lat": 34.1769402,
+  "score": 0.303
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 4284.100893346102,
+  "py": 952.1691707392795,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.285
+ },
+ {
+  "id": "Hillside Drive \u00d7 Oakmont Drive",
+  "px": 3849.8632412450843,
+  "py": 1305.4871090833515,
+  "lon": -118.2222032,
+  "lat": 34.1772571,
+  "score": 0.263
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 4596.9924630712085,
+  "py": 413.7565746871145,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.262
+ },
+ {
+  "id": "Bara Road \u00d7 Risa Drive",
+  "px": 4366.026807602874,
+  "py": 1060.3022752392953,
+  "lon": -118.2240979,
+  "lat": 34.180435,
+  "score": 0.248
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 4219.120143747463,
+  "py": 416.3032405288204,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.245
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 4968.813915378533,
+  "py": 405.2078391315055,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.233
+ },
+ {
+  "id": "Atkins Drive \u00d7 Glen Avenue",
+  "px": 677.0243544772511,
+  "py": 362.62329448383383,
+  "lon": -118.2292914,
+  "lat": 34.1581187,
+  "score": 0.183
+ },
+ {
+  "id": "Calle Canta \u00d7 Calle Dulce",
+  "px": 2030.5493081916616,
+  "py": 2375.708533083122,
+  "lon": -118.214009,
+  "lat": 34.166286,
+  "score": 0.172
+ }
+]

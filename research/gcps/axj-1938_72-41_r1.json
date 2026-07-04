@@ -1,0 +1,90 @@
+[
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 1283.5481786823239,
+  "py": 3657.214561927854,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.425
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Del Rey Drive",
+  "px": 1309.248600794661,
+  "py": 3552.128501482725,
+  "lon": -118.2431234,
+  "lat": 34.163428,
+  "score": 0.356
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 1603.040079752318,
+  "py": 4244.640845432565,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.351
+ },
+ {
+  "id": "Chudleigh Lane \u00d7 Greenbriar Road",
+  "px": 2266.3527372502867,
+  "py": 3649.066900876296,
+  "lon": -118.2427196,
+  "lat": 34.1713901,
+  "score": 0.322
+ },
+ {
+  "id": "Carmen Drive \u00d7 East Mountain Street",
+  "px": 1436.2470743349159,
+  "py": 3690.121206369585,
+  "lon": -118.2418654,
+  "lat": 34.1645217,
+  "score": 0.3
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 1356.8719068999053,
+  "py": 4094.210360033257,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.238
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 1083.5283549205542,
+  "py": 3666.9846767094937,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.236
+ },
+ {
+  "id": "Branta Drive \u00d7 Hillside Drive",
+  "px": 3151.802416096259,
+  "py": 4238.57555574533,
+  "lon": -118.2375002,
+  "lat": 34.1788877,
+  "score": 0.226
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 1125.096684825985,
+  "py": 3512.773160179665,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.206
+ },
+ {
+  "id": "Arboles Drive \u00d7 Royal Boulevard",
+  "px": 1998.8032232468222,
+  "py": 4278.601805396573,
+  "lon": -118.2364343,
+  "lat": 34.1693971,
+  "score": 0.18
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 North Glendale Aven",
+  "px": 736.1943682433803,
+  "py": 3861.930983021077,
+  "lon": -118.2398944,
+  "lat": 34.1588034,
+  "score": 0.172
+ }
+]

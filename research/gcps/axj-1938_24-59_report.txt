@@ -1,0 +1,11 @@
+Carmen Drive × Del Rey Drive               score 0.37 res   6.7 m
+Carmen Drive × Rosemount Road              score 0.31 res   1.0 m
+Ethel Street × Viscano Drive               score 0.31 res   1.2 m
+East Mountain Street × Greenbriar Road ×   score 0.29 res   2.9 m
+Cordova Avenue × Coronado Drive            score 0.29 res   1.4 m
+Don Jose Drive × Ethel Street              score 0.26 res   2.6 m
+Coronado Drive × Portola Avenue            score 0.26 res   1.7 m
+Del Monte Drive × Royal Boulevard          score 0.25 res   1.5 m
+Cavanaugh Road × Cedar Court Road          score 0.23 res   3.4 m
+Don Jose Drive × East Mountain Street      score 0.23 res   1.5 m
+Alamo Drive × Royal Boulevard              score 0.18 res   1.1 m

@@ -1,0 +1,45 @@
+North Verdugo Road × Towne Street          score 0.60 res   2.9 m
+Glenoaks Boulevard × North Adams Street    score 0.54 res   2.3 m
+Calle Vaquero × North Verdugo Road         score 0.53 res   5.4 m
+Cabrillo Drive × Cordova Avenue            score 0.51 res   3.4 m
+Cathay Street × Haven Street × Hillside    score 0.50 res   2.5 m
+Cabrillo Drive × Rossmoyne Avenue          score 0.49 res   3.0 m
+Don Jose Drive × East Mountain Street      score 0.49 res   2.9 m
+Cañada Boulevard × Fernbrook Place         score 0.48 res   0.5 m
+East Mountain Street × Greenbriar Road ×   score 0.48 res   3.0 m
+Cordova Avenue × East Dryden Street        score 0.48 res   3.7 m
+Avonoak Terrace × Glenoaks Boulevard       score 0.47 res   3.4 m
+Bara Road × Conchita Street                score 0.47 res   2.5 m
+Del Monte Drive × Royal Boulevard          score 0.47 res   4.1 m
+Arboles Drive × Catalina Drive             score 0.47 res   2.2 m
+Crestmont Court × North Verdugo Road       score 0.46 res   1.1 m
+Glenoaks Boulevard × North Glendale Aven   score 0.46 res   2.0 m
+Alcalde Drive × Arboles Drive              score 0.45 res   2.3 m
+Lamego Drive × Puebla Drive                score 0.45 res   3.9 m
+Cortez Drive × Rossmoyne Avenue            score 0.44 res   2.7 m
+Carmen Drive × East Mountain Street        score 0.44 res   3.4 m
+Fay Drive × Glenmore Boulevard             score 0.42 res   2.2 m
+Armour Place × Wabasso Way                 score 0.42 res   2.0 m
+Camulos Avenue × Cañada Boulevard          score 0.42 res   1.6 m
+Arboles Drive × Royal Boulevard            score 0.41 res   1.6 m
+Alcalde Drive × Alcalde Way                score 0.39 res   2.3 m
+Bonita Drive × Hillside Drive              score 0.39 res   2.1 m
+Bonita Drive × Camulos Avenue              score 0.38 res   0.2 m
+Hillside Drive × North Verdugo Road        score 0.38 res   2.1 m
+Cañada Boulevard × Del Valle Avenue        score 0.37 res   3.2 m
+Bara Road × Risa Drive                     score 0.37 res   2.2 m
+Camino San Rafael × East Mountain Street   score 0.37 res   3.9 m
+Avonoak Terrace × Swarthmore Drive         score 0.36 res   4.7 m
+Cañada Boulevard × Towne Street            score 0.36 res   3.8 m
+Bonita Drive × El Rito Avenue              score 0.35 res   1.7 m
+East Mountain Street × North Verdugo Roa   score 0.35 res   5.3 m
+Atkins Drive × Glen Avenue                 score 0.35 res   4.1 m
+Arvin Drive × North Verdugo Road           score 0.34 res   1.5 m
+Cañada Boulevard × Don Carlos Avenue       score 0.33 res   3.1 m
+Colina Drive × Niodrara Drive              score 0.33 res   5.0 m
+Cordova Avenue × Hillcroft Road            score 0.32 res   6.0 m
+Andenes Drive × Hermosita Drive            score 0.32 res   2.5 m
+Alamo Drive × Royal Boulevard              score 0.31 res   2.7 m
+Branta Drive × Hillside Drive              score 0.31 res   7.9 m
+Atkins Drive × Corwin Avenue               score 0.30 res   5.3 m
+Capistrano Avenue × Capistrano Circle ×    score 0.30 res   3.5 m

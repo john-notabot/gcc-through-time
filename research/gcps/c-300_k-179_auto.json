@@ -1,0 +1,250 @@
+[
+ {
+  "id": "Beaudry Boulevard \u00d7 San Gabriel Avenue",
+  "px": 2909.892767840687,
+  "py": 3735.0426764472027,
+  "lon": -118.2356077,
+  "lat": 34.1933021,
+  "score": 0.583
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+  "px": 1855.270553377134,
+  "py": 2895.793261539193,
+  "lon": -118.2290663,
+  "lat": 34.1853235,
+  "score": 0.582
+ },
+ {
+  "id": "Beaudry Boulevard \u00d7 Country Club Drive",
+  "px": 2841.983886346323,
+  "py": 3784.04960170591,
+  "lon": -118.2349384,
+  "lat": 34.1935038,
+  "score": 0.578
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 1811.4714171379383,
+  "py": 2743.579775234027,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.548
+ },
+ {
+  "id": "Beaudry Boulevard \u00d7 Beaudry Terrace",
+  "px": 3536.9312141921578,
+  "py": 3562.754907579105,
+  "lon": -118.2411071,
+  "lat": 34.193436,
+  "score": 0.522
+ },
+ {
+  "id": "Calafia Street \u00d7 Carrie Lane",
+  "px": 982.5081534463216,
+  "py": 2710.6150159573845,
+  "lon": -118.2225382,
+  "lat": 34.1822816,
+  "score": 0.503
+ },
+ {
+  "id": "Allanjay Place \u00d7 Fern Lane",
+  "px": 814.0203152589647,
+  "py": 2961.9750857895556,
+  "lon": -118.2205941,
+  "lat": 34.1836787,
+  "score": 0.493
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Fernbrook Place",
+  "px": 1452.5443953951835,
+  "py": 1564.8528275807898,
+  "lon": -118.2289746,
+  "lat": 34.1752873,
+  "score": 0.458
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 1115.602117595501,
+  "py": 3633.240609849323,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.442
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 1803.8156613692026,
+  "py": 3841.81467433104,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.433
+ },
+ {
+  "id": "Hermosita Drive \u00d7 Santa Barbara Avenue",
+  "px": 2408.0977424115035,
+  "py": 3207.615696519521,
+  "lon": -118.232807,
+  "lat": 34.188605,
+  "score": 0.428
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 2020.8207283590145,
+  "py": 3502.133745907557,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.418
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 1417.1755986597109,
+  "py": 1448.7557176435407,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.392
+ },
+ {
+  "id": "El Arbolita Drive \u00d7 Montecito Drive",
+  "px": 1691.8082259576277,
+  "py": 4167.6492684894365,
+  "lon": -118.2247522,
+  "lat": 34.1938016,
+  "score": 0.386
+ },
+ {
+  "id": "Bara Road \u00d7 North Verdugo Road",
+  "px": 1270.716979371652,
+  "py": 2265.190371206353,
+  "lon": -118.22584,
+  "lat": 34.1797775,
+  "score": 0.37
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 1655.8335934053712,
+  "py": 3430.821961394918,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.339
+ },
+ {
+  "id": "Glorietta Avenue \u00d7 North Verdugo Road",
+  "px": 1557.9192803541173,
+  "py": 3291.3708420099124,
+  "lon": -118.2257247,
+  "lat": 34.1874242,
+  "score": 0.338
+ },
+ {
+  "id": "Blanchard Drive \u00d7 Bonita Drive \u00d7 Opechee",
+  "px": 1989.297527775535,
+  "py": 2188.1229336333217,
+  "lon": -118.2318606,
+  "lat": 34.1806838,
+  "score": 0.318
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 1779.9224977602553,
+  "py": 388.2937785288641,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.309
+ },
+ {
+  "id": "Alpha Road \u00d7 Oak Glen Road",
+  "px": 1506.0243002501384,
+  "py": 3496.5063469948736,
+  "lon": -118.2248315,
+  "lat": 34.1887556,
+  "score": 0.304
+ },
+ {
+  "id": "Bonita Drive \u00d7 Camulos Avenue",
+  "px": 1941.9849701458934,
+  "py": 2039.0916789721925,
+  "lon": -118.2318338,
+  "lat": 34.1795658,
+  "score": 0.288
+ },
+ {
+  "id": "North Verdugo Road \u00d7 Opechee Way",
+  "px": 1306.948592605917,
+  "py": 2391.7565211059946,
+  "lon": -118.2258493,
+  "lat": 34.1807261,
+  "score": 0.286
+ },
+ {
+  "id": "Bogue Drive \u00d7 Mira Vista Drive \u00d7 Pasa Gl",
+  "px": 1532.1911739443658,
+  "py": 3075.912594056552,
+  "lon": -118.2260385,
+  "lat": 34.1859469,
+  "score": 0.25
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 1664.321446549584,
+  "py": 245.48626956724092,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.239
+ },
+ {
+  "id": "El Rito Avenue \u00d7 North Verdugo Road",
+  "px": 1408.7201818532822,
+  "py": 2702.7221149369816,
+  "lon": -118.2259752,
+  "lat": 34.1830751,
+  "score": 0.236
+ },
+ {
+  "id": "Colina Drive \u00d7 Hiawatha Drive",
+  "px": 1340.193105177943,
+  "py": 1715.9907156491686,
+  "lon": -118.2277244,
+  "lat": 34.1761212,
+  "score": 0.219
+ },
+ {
+  "id": "Country Club Drive \u00d7 Hermosita Drive",
+  "px": 2463.8934357734215,
+  "py": 3566.4735976229886,
+  "lon": -118.232405,
+  "lat": 34.1912013,
+  "score": 0.205
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 1170.7869748115236,
+  "py": 2315.0736655333912,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.201
+ },
+ {
+  "id": "Andenes Drive \u00d7 Hermosita Drive",
+  "px": 2232.3170801688484,
+  "py": 2174.27101996281,
+  "lon": -118.2338867,
+  "lat": 34.1811144,
+  "score": 0.194
+ },
+ {
+  "id": "Armour Place \u00d7 Wabasso Way",
+  "px": 2011.956659728501,
+  "py": 1872.5860112074497,
+  "lon": -118.2328173,
+  "lat": 34.1785616,
+  "score": 0.185
+ },
+ {
+  "id": "Country Club Drive \u00d7 Santa Rosa Avenue",
+  "px": 2135.3300598890573,
+  "py": 3588.427387397585,
+  "lon": -118.2296752,
+  "lat": 34.1906714,
+  "score": 0.183
+ }
+]

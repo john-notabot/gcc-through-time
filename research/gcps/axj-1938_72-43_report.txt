@@ -1,0 +1,29 @@
+Allanjay Place × Fern Lane                 score 0.44 res   3.7 m
+East Mountain Street × Greenbriar Road ×   score 0.40 res   2.3 m
+Carmen Drive × Del Rey Drive               score 0.39 res   5.4 m
+Carmen Drive × Rosemount Road              score 0.36 res   0.8 m
+Alamo Drive × Royal Boulevard              score 0.35 res   1.3 m
+Don Jose Drive × East Mountain Street      score 0.34 res   6.5 m
+Cañada Boulevard × Country Club Drive ×    score 0.33 res   5.9 m
+Allanjay Place × Delisle Court             score 0.32 res   4.2 m
+Camulos Avenue × Cañada Boulevard          score 0.31 res   5.3 m
+Bagdad Place × Sparr Boulevard             score 0.30 res   2.1 m
+East Chevy Chase Drive × Lilac Lane        score 0.29 res   4.1 m
+Bonita Drive × Hillside Drive              score 0.29 res   6.8 m
+Arboles Drive × Royal Boulevard            score 0.28 res   4.0 m
+Cañada Boulevard × Towne Street            score 0.28 res   4.1 m
+Calle Vaquero × North Verdugo Road         score 0.28 res   4.0 m
+Glen Avenue × Luring Drive                 score 0.28 res   4.3 m
+Cañada Boulevard × Hiawatha Drive          score 0.25 res   1.7 m
+Hillside Drive × North Verdugo Road        score 0.25 res   1.9 m
+North Glendale Avenue × North Verdugo Ro   score 0.23 res   1.1 m
+Cañada Boulevard × Colina Drive            score 0.22 res   0.3 m
+Alpha Road × Los Encinos Avenue            score 0.22 res   5.3 m
+Arvin Drive × North Verdugo Road           score 0.22 res   2.7 m
+Atkins Drive × Corwin Avenue               score 0.21 res   6.0 m
+Brook Lane × North Verdugo Road            score 0.21 res   5.0 m
+Las Flores Drive × Roca Drive              score 0.21 res   6.1 m
+Cedar Court Road × East Mountain Street    score 0.20 res   0.2 m
+Bayberry Drive × Sparr Boulevard           score 0.20 res   0.7 m
+Atkins Drive × Glen Avenue                 score 0.19 res   3.9 m
+Academy Place × Kimlin Drive               score 0.19 res   2.4 m

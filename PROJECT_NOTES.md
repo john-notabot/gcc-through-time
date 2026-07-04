@@ -18,13 +18,14 @@ and surrounding Verdugo foothills across 5–7 era snapshots, ~1900 to today.
 
 ## Open question for John (era 5)
 
-Imagery evidence contradicts our Phase-1 freeway timeline: the 3/19/68 frame shows SR-2
-past the campus **complete and carrying traffic**, so the canyon segment at GCC opened
-in the mid-1960s. The famously late (1978) piece was the stretch *south* of Mountain St
-down to the 134. The 1971 flight (which we picked for "the freeway cut") also has a
-scanned-coverage gap right across the campus strip (flight row 26 was never scanned).
-Candidate fix: use the May **1960** flight (C-23870, 7 frames, 1:14,400) which may show
-the cut being carved at campus — verification in progress. Era 6 (1981) is unaffected.
+RESOLVED 2026-07-03: an earlier note here claimed the 3/19/68 frame showed the freeway
+open at campus — that was a misreading of Verdugo Rd (then the signed SR-2 surface
+route, a busy divided boulevard just west of campus). Georeferenced 1956/1960/1968
+comparison confirms the canyon east of campus is uncut through 1968. Original timeline
+stands (cut carved early 1970s, opened 1978), so era 5 = 1971 is historically right.
+Remaining issue: the 1971 flight's row 26 was never scanned — ~880 m coverage gap
+across the campus strip. Options A/B/C presented to John (see chat); recommendation A
+(1971 + 1968 fill, labeled as composite).
 
 ## Working area
 

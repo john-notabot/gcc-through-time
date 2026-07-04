@@ -1,0 +1,234 @@
+[
+ {
+  "id": "Delisle Court \u00d7 Fern Lane",
+  "px": 652.9469262823886,
+  "py": 3039.7879200733873,
+  "lon": -118.219138,
+  "lat": 34.1839119,
+  "score": 0.687
+ },
+ {
+  "id": "Beaudry Boulevard \u00d7 San Gabriel Avenue",
+  "px": 2909.861390045384,
+  "py": 3735.0527633139354,
+  "lon": -118.2356077,
+  "lat": 34.1933021,
+  "score": 0.583
+ },
+ {
+  "id": "Beaudry Boulevard \u00d7 Country Club Drive",
+  "px": 2841.4970144908334,
+  "py": 3784.0947127927984,
+  "lon": -118.2349384,
+  "lat": 34.1935038,
+  "score": 0.575
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 1811.048491790155,
+  "py": 2743.5675943784013,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.553
+ },
+ {
+  "id": "Beaudry Boulevard \u00d7 Beaudry Terrace",
+  "px": 3537.1092808951735,
+  "py": 3563.152951676651,
+  "lon": -118.2411071,
+  "lat": 34.193436,
+  "score": 0.519
+ },
+ {
+  "id": "Calafia Street \u00d7 Carrie Lane",
+  "px": 983.3773963165968,
+  "py": 2710.8609954115336,
+  "lon": -118.2225382,
+  "lat": 34.1822816,
+  "score": 0.505
+ },
+ {
+  "id": "Allanjay Place \u00d7 Fern Lane",
+  "px": 814.2339461215806,
+  "py": 2961.3793023652493,
+  "lon": -118.2205941,
+  "lat": 34.1836787,
+  "score": 0.491
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 1623.3859998808784,
+  "py": 2132.1969805778745,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.462
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Fernbrook Place",
+  "px": 1453.1844402824236,
+  "py": 1565.149957278898,
+  "lon": -118.2289746,
+  "lat": 34.1752873,
+  "score": 0.445
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 1115.6546565813214,
+  "py": 3632.9321136685844,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.436
+ },
+ {
+  "id": "Sunshine Court \u00d7 Sunshine Drive",
+  "px": 1902.5007355715125,
+  "py": 1355.0886468840804,
+  "lon": -118.2332378,
+  "lat": 34.1747841,
+  "score": 0.427
+ },
+ {
+  "id": "Hermosita Drive \u00d7 Santa Barbara Avenue",
+  "px": 2407.8469366761565,
+  "py": 3207.158448610907,
+  "lon": -118.232807,
+  "lat": 34.188605,
+  "score": 0.426
+ },
+ {
+  "id": "Colina Drive \u00d7 Niodrara Drive",
+  "px": 1601.7667603873288,
+  "py": 1394.8109275036882,
+  "lon": -118.2305688,
+  "lat": 34.1743976,
+  "score": 0.404
+ },
+ {
+  "id": "El Arbolita Drive \u00d7 Montecito Drive",
+  "px": 1691.595038697913,
+  "py": 4168.191316988189,
+  "lon": -118.2247522,
+  "lat": 34.1938016,
+  "score": 0.367
+ },
+ {
+  "id": "Branta Drive \u00d7 Hillside Drive",
+  "px": 2546.742504324623,
+  "py": 1758.5695612923787,
+  "lon": -118.2375002,
+  "lat": 34.1788877,
+  "score": 0.344
+ },
+ {
+  "id": "Blanchard Drive \u00d7 Bonita Drive \u00d7 Opechee",
+  "px": 1989.8352781245467,
+  "py": 2188.223495699519,
+  "lon": -118.2318606,
+  "lat": 34.1806838,
+  "score": 0.325
+ },
+ {
+  "id": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 ",
+  "px": 1717.0002725913182,
+  "py": 2439.0205768125325,
+  "lon": -118.2290325,
+  "lat": 34.1818821,
+  "score": 0.317
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 1779.1936114887412,
+  "py": 388.4753979397178,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.303
+ },
+ {
+  "id": "Alpha Road \u00d7 Oak Glen Road",
+  "px": 1506.2106617133386,
+  "py": 3497.042876068778,
+  "lon": -118.2248315,
+  "lat": 34.1887556,
+  "score": 0.3
+ },
+ {
+  "id": "Bonita Drive \u00d7 Camulos Avenue",
+  "px": 1942.5228252437428,
+  "py": 2038.7212869296018,
+  "lon": -118.2318338,
+  "lat": 34.1795658,
+  "score": 0.286
+ },
+ {
+  "id": "Fernbrook Place \u00d7 Niodrara Drive",
+  "px": 1648.913568132656,
+  "py": 1517.4932160190542,
+  "lon": -118.2306729,
+  "lat": 34.1753551,
+  "score": 0.263
+ },
+ {
+  "id": "Bogue Drive \u00d7 Mira Vista Drive \u00d7 Pasa Gl",
+  "px": 1532.3210593506783,
+  "py": 3075.621153317852,
+  "lon": -118.2260385,
+  "lat": 34.1859469,
+  "score": 0.248
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 1664.064838289779,
+  "py": 244.86511160788268,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.245
+ },
+ {
+  "id": "Country Club Drive \u00d7 Hermosita Drive",
+  "px": 2463.741805930237,
+  "py": 3565.870145016876,
+  "lon": -118.232405,
+  "lat": 34.1912013,
+  "score": 0.203
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 1170.2725686789408,
+  "py": 2314.352565216846,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.195
+ },
+ {
+  "id": "Andenes Drive \u00d7 Hermosita Drive",
+  "px": 2231.9173456343788,
+  "py": 2174.27835409998,
+  "lon": -118.2338867,
+  "lat": 34.1811144,
+  "score": 0.194
+ },
+ {
+  "id": "Armour Place \u00d7 Wabasso Way",
+  "px": 2012.9767655264177,
+  "py": 1872.9956484655054,
+  "lon": -118.2328173,
+  "lat": 34.1785616,
+  "score": 0.193
+ },
+ {
+  "id": "Lockwood Road \u00d7 Oak Glen Road",
+  "px": 1612.0609135204986,
+  "py": 3661.641394190619,
+  "lon": -118.225312,
+  "lat": 34.1901076,
+  "score": 0.164
+ },
+ {
+  "id": "Andenes Drive \u00d7 Capistrano Avenue \u00d7 El R",
+  "px": 2602.4893237965716,
+  "py": 2304.3289500836245,
+  "lon": -118.2365882,
+  "lat": 34.1827643,
+  "score": 0.156
+ }
+]

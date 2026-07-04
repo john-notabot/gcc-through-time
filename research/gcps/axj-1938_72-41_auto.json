@@ -1,0 +1,90 @@
+[
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 1283.6994872050045,
+  "py": 3656.600735402183,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.425
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 1651.907455531059,
+  "py": 3793.6843336078873,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.417
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 1602.9720799182123,
+  "py": 4244.516042312595,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.344
+ },
+ {
+  "id": "Chudleigh Lane \u00d7 Greenbriar Road",
+  "px": 2265.921841041617,
+  "py": 3649.5336054860877,
+  "lon": -118.2427196,
+  "lat": 34.1713901,
+  "score": 0.326
+ },
+ {
+  "id": "Carmen Drive \u00d7 East Mountain Street",
+  "px": 1436.036315182193,
+  "py": 3689.9634268935015,
+  "lon": -118.2418654,
+  "lat": 34.1645217,
+  "score": 0.302
+ },
+ {
+  "id": "Coronado Drive \u00d7 Portola Avenue",
+  "px": 806.3118988144352,
+  "py": 3759.8479036585477,
+  "lon": -118.240909,
+  "lat": 34.159348,
+  "score": 0.269
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 1356.7062401837175,
+  "py": 4094.5391862553315,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.24
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 1083.6292893486088,
+  "py": 3667.110085877646,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.239
+ },
+ {
+  "id": "Branta Drive \u00d7 Hillside Drive",
+  "px": 3151.643310519909,
+  "py": 4238.470935360691,
+  "lon": -118.2375002,
+  "lat": 34.1788877,
+  "score": 0.232
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 1125.2715136681109,
+  "py": 3513.252165649756,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.209
+ },
+ {
+  "id": "Arboles Drive \u00d7 Royal Boulevard",
+  "px": 1998.9811430935629,
+  "py": 4278.100564008725,
+  "lon": -118.2364343,
+  "lat": 34.1693971,
+  "score": 0.181
+ }
+]

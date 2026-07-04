@@ -1,0 +1,13 @@
+Cañada Boulevard × Don Carlos Avenue       score 0.55 res   0.9 m
+Cañada Boulevard × Ramona Avenue           score 0.49 res   2.6 m
+Allanjay Place × Fern Lane                 score 0.49 res   0.8 m
+Cañada Boulevard × Del Valle Avenue        score 0.48 res   1.0 m
+Delisle Court × Fern Lane                  score 0.48 res   3.5 m
+Alpha Road × Los Encinos Avenue            score 0.41 res   4.0 m
+Bayberry Drive × Sparr Boulevard           score 0.37 res   0.9 m
+El Arbolita Drive × Montecito Drive        score 0.36 res   0.3 m
+Alpha Road × North Verdugo Road            score 0.36 res   2.7 m
+Cañada Boulevard × Country Club Drive ×    score 0.35 res   1.6 m
+Camulos Avenue × Cañada Boulevard          score 0.30 res   2.3 m
+El Rito Avenue × North Verdugo Road        score 0.23 res   2.0 m
+Bara Road × Conchita Street                score 0.19 res   1.2 m

@@ -1,0 +1,138 @@
+[
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 4186.714369006274,
+  "py": 578.8603417669436,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.391
+ },
+ {
+  "id": "Chudleigh Lane \u00d7 Greenbriar Road",
+  "px": 5234.281652244049,
+  "py": 492.04301647013256,
+  "lon": -118.2427196,
+  "lat": 34.1713901,
+  "score": 0.381
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 4589.598376375552,
+  "py": 689.2597242122212,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.372
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 4558.054064275002,
+  "py": 1152.896422315584,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.366
+ },
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 4292.8186268434365,
+  "py": 1546.7091849938477,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.351
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 3613.472442788411,
+  "py": 544.1419324628552,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.334
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 3979.5598601185866,
+  "py": 604.7531292935505,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.314
+ },
+ {
+  "id": "Coronado Drive \u00d7 Portola Avenue",
+  "px": 3687.535562845053,
+  "py": 716.1173643498526,
+  "lon": -118.240909,
+  "lat": 34.159348,
+  "score": 0.303
+ },
+ {
+  "id": "Cascadia Drive \u00d7 Saint Andrews Drive",
+  "px": 3895.458566239233,
+  "py": 3470.2993371868183,
+  "lon": -118.214885,
+  "lat": 34.160849,
+  "score": 0.263
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 4287.467414172582,
+  "py": 1018.0423937689905,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.259
+ },
+ {
+  "id": "Cavanaugh Road \u00d7 Cedar Court Road",
+  "px": 4563.348750993362,
+  "py": 342.01465197530183,
+  "lon": -118.2442652,
+  "lat": 34.1661399,
+  "score": 0.253
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 4774.512469401401,
+  "py": 1377.394987749202,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.235
+ },
+ {
+  "id": "Carmen Drive \u00d7 East Mountain Street",
+  "px": 4352.9106448337425,
+  "py": 601.3913367544056,
+  "lon": -118.2418654,
+  "lat": 34.1645217,
+  "score": 0.234
+ },
+ {
+  "id": "Cascadia Drive \u00d7 Kennington Drive \u00d7 Some",
+  "px": 4113.11783184768,
+  "py": 3731.9316144579543,
+  "lon": -118.2124268,
+  "lat": 34.1624826,
+  "score": 0.234
+ },
+ {
+  "id": "Arboles Drive \u00d7 Royal Boulevard",
+  "px": 4981.396184628142,
+  "py": 1161.9125378947936,
+  "lon": -118.2364343,
+  "lat": 34.1693971,
+  "score": 0.233
+ },
+ {
+  "id": "North Glendale Avenue \u00d7 North Verdugo Ro",
+  "px": 4012.8093186548103,
+  "py": 1291.038455006364,
+  "lon": -118.2354197,
+  "lat": 34.161843,
+  "score": 0.198
+ },
+ {
+  "id": "Las Flores Drive \u00d7 Moreno Drive",
+  "px": 5041.638756735361,
+  "py": 1422.758122824428,
+  "lon": -118.2340299,
+  "lat": 34.1698034,
+  "score": 0.183
+ }
+]
