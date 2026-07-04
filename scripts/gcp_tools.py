@@ -89,8 +89,13 @@ def cmd_warp(a):
     T = Affine(RES, 0, b[0], 0, -RES, b[3])
     with rasterio.open(a.scan) as s:
         data = s.read(1)
+    mt, mr, mb, ml = [float(v) for v in a.margin.split(",")]
+    hh, ww = data.shape
+    data[:int(hh*mt)] = 0; data[hh-int(hh*mb):] = 0
+    data[:, :int(ww*ml)] = 0; data[:, ww-int(ww*mr):] = 0
     out = np.zeros((H, W), np.uint8)
     reproject(source=data, destination=out, src_crs="EPSG:3857", gcps=gcps,
+              src_nodata=0, dst_nodata=0,
               dst_crs="EPSG:3857", dst_transform=T, resampling=Resampling.bilinear,
               warp_extras={"POLYNOMIAL_ORDER": str(a.order)})
     prof = dict(driver="GTiff", height=H, width=W, count=1, dtype="uint8", crs="EPSG:3857",
@@ -125,6 +130,8 @@ c.add_argument("--cx", type=int, required=True); c.add_argument("--cy", type=int
 c.add_argument("--hw", type=int, default=300); c.add_argument("--scale", type=float, default=1.0)
 w = sub.add_parser("warp"); w.add_argument("scan"); w.add_argument("gcps"); w.add_argument("out")
 w.add_argument("--order", type=int, default=1); w.add_argument("--res", type=float, default=1.0)
+w.add_argument("--margin", default="0.085,0.035,0.03,0.035",
+               help="top,right,bottom,left fractions of scan to blank as film collar")
 q = sub.add_parser("qa"); q.add_argument("raster_a"); q.add_argument("raster_b"); q.add_argument("out")
 q.add_argument("--square", type=int, default=400); q.add_argument("--max-dim", type=int, default=1500)
 a = p.parse_args()

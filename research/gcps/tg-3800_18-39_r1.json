@@ -1,0 +1,282 @@
+[
+ {
+  "id": "East Chevy Chase Drive \u00d7 East Glenoaks B",
+  "px": 3312.536173975301,
+  "py": 2778.788006085506,
+  "lon": -118.229061,
+  "lat": 34.1535,
+  "score": 0.421
+ },
+ {
+  "id": "Galer Place \u00d7 Monterey Road",
+  "px": 2514.76578996564,
+  "py": 2504.5647665095275,
+  "lon": -118.2389011,
+  "lat": 34.155274,
+  "score": 0.365
+ },
+ {
+  "id": "Monterey Road \u00d7 North Adams Street",
+  "px": 2392.7460827128393,
+  "py": 2442.9057200638244,
+  "lon": -118.24044,
+  "lat": 34.155742,
+  "score": 0.354
+ },
+ {
+  "id": "East Doran Street \u00d7 Galer Place \u00d7 Naranj",
+  "px": 2439.096564824969,
+  "py": 2613.7924780587946,
+  "lon": -118.2396519,
+  "lat": 34.1541046,
+  "score": 0.352
+ },
+ {
+  "id": "East Doran Street \u00d7 North Adams Street",
+  "px": 2268.888296198921,
+  "py": 2629.8044135199593,
+  "lon": -118.2416455,
+  "lat": 34.153754,
+  "score": 0.338
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 North Adams Street ",
+  "px": 2562.4527009050034,
+  "py": 2211.863160344017,
+  "lon": -118.2387584,
+  "lat": 34.1581986,
+  "score": 0.335
+ },
+ {
+  "id": "Kirkby Road \u00d7 The Midway Street",
+  "px": 3644.365518298166,
+  "py": 933.1206394814848,
+  "lon": -118.227832,
+  "lat": 34.1718048,
+  "score": 0.324
+ },
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 2504.785432336261,
+  "py": 1926.1136996428322,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.322
+ },
+ {
+  "id": "East Glenoaks Boulevard \u00d7 Glenoaks Boule",
+  "px": 3575.6130382898064,
+  "py": 2910.3216828458435,
+  "lon": -118.2257784,
+  "lat": 34.1525012,
+  "score": 0.308
+ },
+ {
+  "id": "Holly Drive \u00d7 Merrill Avenue \u00d7 Vallejo D",
+  "px": 3358.734587065604,
+  "py": 3004.1699703647405,
+  "lon": -118.2282089,
+  "lat": 34.1513323,
+  "score": 0.307
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 3568.5550754545625,
+  "py": 2572.5013448850636,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.305
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 2340.914887382402,
+  "py": 1667.9537347453129,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.298
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 3753.492345199006,
+  "py": 873.6031560869798,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.291
+ },
+ {
+  "id": "Eden Avenue \u00d7 Mount Carmel Drive",
+  "px": 3762.2581973855763,
+  "py": 2918.3652974358815,
+  "lon": -118.2235745,
+  "lat": 34.1526513,
+  "score": 0.289
+ },
+ {
+  "id": "Briarwood Lane \u00d7 Glenoaks Boulevard",
+  "px": 2957.2267360167475,
+  "py": 2294.783027421328,
+  "lon": -118.233978,
+  "lat": 34.1577895,
+  "score": 0.281
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 2338.7349638118526,
+  "py": 1839.697104895757,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.28
+ },
+ {
+  "id": "Canyon Drive \u00d7 Luton Drive \u00d7 Millar Driv",
+  "px": 2885.465509126677,
+  "py": 2709.241608737078,
+  "lon": -118.234227,
+  "lat": 34.153675,
+  "score": 0.271
+ },
+ {
+  "id": "Canyon Drive \u00d7 East Chevy Chase Drive",
+  "px": 2841.5257228289984,
+  "py": 2916.360927591378,
+  "lon": -118.2344922,
+  "lat": 34.1515996,
+  "score": 0.267
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Lilac Lane",
+  "px": 3844.523752636564,
+  "py": 2572.6146489151643,
+  "lon": -118.2230925,
+  "lat": 34.156127,
+  "score": 0.263
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 2827.6984609969163,
+  "py": 1746.3069175182627,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.259
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 2836.318199243849,
+  "py": 1432.4594445332532,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.248
+ },
+ {
+  "id": "Atkins Drive \u00d7 Corwin Avenue",
+  "px": 3300.4713141614075,
+  "py": 2564.0335486723066,
+  "lon": -118.2295527,
+  "lat": 34.1555581,
+  "score": 0.241
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 2468.0858235330556,
+  "py": 1359.3402335676574,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.234
+ },
+ {
+  "id": "Elvina Drive \u00d7 Glenoaks Boulevard",
+  "px": 4106.910170476922,
+  "py": 3135.5606470188463,
+  "lon": -118.2192498,
+  "lat": 34.1509031,
+  "score": 0.226
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 2216.1292125322752,
+  "py": 1796.4007443240084,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.21
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Rossmoyne Avenue",
+  "px": 2796.2887226399484,
+  "py": 1399.6922001605267,
+  "lon": -118.2371274,
+  "lat": 34.1663612,
+  "score": 0.202
+ },
+ {
+  "id": "Hollister Terrace \u00d7 Scholl Drive",
+  "px": 4217.442169118393,
+  "py": 3043.949805882637,
+  "lon": -118.2181181,
+  "lat": 34.1519276,
+  "score": 0.193
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Sinclair Avenue",
+  "px": 3003.558276758864,
+  "py": 2897.923013323536,
+  "lon": -118.232554,
+  "lat": 34.151961,
+  "score": 0.19
+ },
+ {
+  "id": "Arch Place \u00d7 Hollister Terrace",
+  "px": 4429.74325195679,
+  "py": 3149.2235471742515,
+  "lon": -118.2155009,
+  "lat": 34.1511443,
+  "score": 0.189
+ },
+ {
+  "id": "Avonglen Terrace \u00d7 Glenandale Terrace \u00d7 ",
+  "px": 3116.012748254346,
+  "py": 2324.3611221528927,
+  "lon": -118.232068,
+  "lat": 34.157672,
+  "score": 0.186
+ },
+ {
+  "id": "Eastedge Drive \u00d7 Solway Street",
+  "px": 3885.796371650593,
+  "py": 2455.0340949652486,
+  "lon": -118.222811,
+  "lat": 34.1573229,
+  "score": 0.185
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 2699.4065705319304,
+  "py": 1632.5240701386865,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.17
+ },
+ {
+  "id": "Crestmont Court \u00d7 North Verdugo Road",
+  "px": 3823.2723166303454,
+  "py": 682.3502652520905,
+  "lon": -118.2261129,
+  "lat": 34.1743716,
+  "score": 0.168
+ },
+ {
+  "id": "Elvina Drive \u00d7 Hollister Terrace",
+  "px": 4146.724349042168,
+  "py": 3004.0013659748847,
+  "lon": -118.2189467,
+  "lat": 34.1522281,
+  "score": 0.163
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Fernbrook Place",
+  "px": 3591.9637531462004,
+  "py": 561.9542616199541,
+  "lon": -118.2289746,
+  "lat": 34.1752873,
+  "score": 0.155
+ }
+]

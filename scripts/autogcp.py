@@ -76,6 +76,9 @@ def ref_patch(x, y, P):
     p = refg_full[cy - half:cy + half, cx - half:cx + half]
     if p.shape != (2 * half, 2 * half) or half == 0:
         return None
+    raw = ref_full[cy - half:cy + half, cx - half:cx + half]
+    if (raw > 0).mean() < 0.85:   # reference has nodata here
+        return None
     return cv2.resize(p, (2 * P, 2 * P))
 
 with rasterio.open(a.reference) as rr:

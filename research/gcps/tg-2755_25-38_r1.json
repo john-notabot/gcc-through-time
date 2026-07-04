@@ -1,0 +1,82 @@
+[
+ {
+  "id": "Harvey Drive \u00d7 Hill Drive",
+  "px": 2734.26519183174,
+  "py": 403.6889610379203,
+  "lon": -118.2262058,
+  "lat": 34.1518284,
+  "score": 0.509
+ },
+ {
+  "id": "Elvina Drive \u00d7 Glenoaks Boulevard",
+  "px": 2593.2122148483204,
+  "py": 1851.4480739723683,
+  "lon": -118.2192498,
+  "lat": 34.1509031,
+  "score": 0.47
+ },
+ {
+  "id": "East Glenoaks Boulevard \u00d7 Glenoaks Boule",
+  "px": 2906.514053382271,
+  "py": 492.3648806156625,
+  "lon": -118.2257784,
+  "lat": 34.1525012,
+  "score": 0.433
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Solway Street",
+  "px": 3973.3121141291285,
+  "py": 1185.2340662165243,
+  "lon": -118.2223222,
+  "lat": 34.156663,
+  "score": 0.399
+ },
+ {
+  "id": "Acorn Place \u00d7 East Chevy Chase Drive",
+  "px": 4302.765573704505,
+  "py": 1636.930892412654,
+  "lon": -118.2200818,
+  "lat": 34.1579092,
+  "score": 0.397
+ },
+ {
+  "id": "Hollister Terrace \u00d7 Waltonia Drive",
+  "px": 2941.104128976078,
+  "py": 1720.335095571348,
+  "lon": -118.2198172,
+  "lat": 34.1523305,
+  "score": 0.386
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 3728.227156061264,
+  "py": 351.98249597610265,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.345
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 Mount Carmel Drive",
+  "px": 2765.131511072669,
+  "py": 942.2464503582814,
+  "lon": -118.2236326,
+  "lat": 34.1518301,
+  "score": 0.327
+ },
+ {
+  "id": "Corwin Avenue \u00d7 East Chevy Chase Drive",
+  "px": 3389.7785826413847,
+  "py": 236.37553218345928,
+  "lon": -118.226931,
+  "lat": 34.154472,
+  "score": 0.313
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Harvey Drive",
+  "px": 3560.155429046949,
+  "py": 573.2435195765826,
+  "lon": -118.2253099,
+  "lat": 34.1550833,
+  "score": 0.284
+ }
+]

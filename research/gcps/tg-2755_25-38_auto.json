@@ -1,0 +1,74 @@
+[
+ {
+  "id": "Harvey Drive \u00d7 Hill Drive",
+  "px": 2732.772745043304,
+  "py": 406.6660817019203,
+  "lon": -118.2262058,
+  "lat": 34.1518284,
+  "score": 0.541
+ },
+ {
+  "id": "Elvina Drive \u00d7 Glenoaks Boulevard",
+  "px": 2593.2957489567552,
+  "py": 1851.299874599229,
+  "lon": -118.2192498,
+  "lat": 34.1509031,
+  "score": 0.526
+ },
+ {
+  "id": "Arch Place \u00d7 Hollister Terrace",
+  "px": 2706.9812098127372,
+  "py": 2604.6713052054583,
+  "lon": -118.2155009,
+  "lat": 34.1511443,
+  "score": 0.422
+ },
+ {
+  "id": "Corwin Avenue \u00d7 East Chevy Chase Drive",
+  "px": 3388.4249614437394,
+  "py": 238.49769637131544,
+  "lon": -118.226931,
+  "lat": 34.154472,
+  "score": 0.397
+ },
+ {
+  "id": "Elvina Drive \u00d7 Hollister Terrace",
+  "px": 2924.6079036203782,
+  "py": 1901.2118865191696,
+  "lon": -118.2189467,
+  "lat": 34.1522281,
+  "score": 0.386
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 3726.8818842394485,
+  "py": 353.41817374246295,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.363
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 Mount Carmel Drive",
+  "px": 2766.788271284823,
+  "py": 940.3151829025392,
+  "lon": -118.2236326,
+  "lat": 34.1518301,
+  "score": 0.342
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Harvey Drive",
+  "px": 3558.803688187223,
+  "py": 575.2608947340365,
+  "lon": -118.2253099,
+  "lat": 34.1550833,
+  "score": 0.288
+ },
+ {
+  "id": "Ridge Drive \u00d7 Solway Street",
+  "px": 4430.847840348774,
+  "py": 917.8170395741922,
+  "lon": -118.2233928,
+  "lat": 34.1584327,
+  "score": 0.224
+ }
+]

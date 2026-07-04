@@ -1,0 +1,266 @@
+[
+ {
+  "id": "East Chevy Chase Drive \u00d7 East Glenoaks B",
+  "px": 3313.0031017165384,
+  "py": 2778.8590006305535,
+  "lon": -118.229061,
+  "lat": 34.1535,
+  "score": 0.428
+ },
+ {
+  "id": "Galer Place \u00d7 Monterey Road",
+  "px": 2515.07927290362,
+  "py": 2504.5638901104176,
+  "lon": -118.2389011,
+  "lat": 34.155274,
+  "score": 0.371
+ },
+ {
+  "id": "East Lexington Drive \u00d7 North Adams Stree",
+  "px": 2230.295807886001,
+  "py": 2828.103180976179,
+  "lon": -118.241839,
+  "lat": 34.1517623,
+  "score": 0.365
+ },
+ {
+  "id": "East Doran Street \u00d7 Galer Place \u00d7 Naranj",
+  "px": 2439.315299751162,
+  "py": 2613.8062827601893,
+  "lon": -118.2396519,
+  "lat": 34.1541046,
+  "score": 0.361
+ },
+ {
+  "id": "East Doran Street \u00d7 North Adams Street",
+  "px": 2268.740287734664,
+  "py": 2629.7558253901675,
+  "lon": -118.2416455,
+  "lat": 34.153754,
+  "score": 0.35
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 Mount Carmel Drive",
+  "px": 3748.0855348182486,
+  "py": 2999.2400431034544,
+  "lon": -118.2236326,
+  "lat": 34.1518301,
+  "score": 0.335
+ },
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 2504.712611921209,
+  "py": 1926.7070007029943,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.326
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 North Adams Street ",
+  "px": 2562.560794944789,
+  "py": 2212.3955596977803,
+  "lon": -118.2387584,
+  "lat": 34.1581986,
+  "score": 0.326
+ },
+ {
+  "id": "Holly Drive \u00d7 Merrill Avenue \u00d7 Vallejo D",
+  "px": 3358.290854796278,
+  "py": 3004.238779092851,
+  "lon": -118.2282089,
+  "lat": 34.1513323,
+  "score": 0.311
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 3568.3362746000503,
+  "py": 2572.8435080032855,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.31
+ },
+ {
+  "id": "Monterey Road \u00d7 North Glendale Avenue",
+  "px": 2272.9303864290787,
+  "py": 2380.126182589477,
+  "lon": -118.2419583,
+  "lat": 34.1562195,
+  "score": 0.3
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 2340.580929205123,
+  "py": 1668.0413005146056,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.296
+ },
+ {
+  "id": "Eden Avenue \u00d7 Mount Carmel Drive",
+  "px": 3762.3498257513193,
+  "py": 2919.010710971656,
+  "lon": -118.2235745,
+  "lat": 34.1526513,
+  "score": 0.295
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 Glenvista Drive",
+  "px": 2883.1797757204936,
+  "py": 2293.672086221555,
+  "lon": -118.2348394,
+  "lat": 34.1577311,
+  "score": 0.295
+ },
+ {
+  "id": "Canyon Drive \u00d7 East Chevy Chase Drive",
+  "px": 2839.350430859199,
+  "py": 2915.89748077326,
+  "lon": -118.2344922,
+  "lat": 34.1515996,
+  "score": 0.28
+ },
+ {
+  "id": "Harvey Drive \u00d7 Hill Drive",
+  "px": 3532.102396874124,
+  "py": 2974.1222422680025,
+  "lon": -118.2262058,
+  "lat": 34.1518284,
+  "score": 0.27
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Lilac Lane",
+  "px": 3844.6107528003,
+  "py": 2572.6361939589515,
+  "lon": -118.2230925,
+  "lat": 34.156127,
+  "score": 0.266
+ },
+ {
+  "id": "Canyon Drive \u00d7 Luton Drive \u00d7 Millar Driv",
+  "px": 2885.663885882861,
+  "py": 2709.2593251447056,
+  "lon": -118.234227,
+  "lat": 34.153675,
+  "score": 0.263
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 2827.967708077579,
+  "py": 1745.9412553048523,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.258
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 2836.045344588561,
+  "py": 1432.5035386822256,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.254
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 3068.5139197119634,
+  "py": 1415.8843607818512,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.249
+ },
+ {
+  "id": "Atkins Drive \u00d7 Corwin Avenue",
+  "px": 3300.0218655897806,
+  "py": 2564.005455014132,
+  "lon": -118.2295527,
+  "lat": 34.1555581,
+  "score": 0.243
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Glenmore Boulev",
+  "px": 3433.403594198828,
+  "py": 2729.71790485287,
+  "lon": -118.2277028,
+  "lat": 34.1541147,
+  "score": 0.242
+ },
+ {
+  "id": "East Lexington Drive \u00d7 Grove Place",
+  "px": 2578.1467400764896,
+  "py": 2873.4434704577616,
+  "lon": -118.2376438,
+  "lat": 34.151719,
+  "score": 0.241
+ },
+ {
+  "id": "Elvina Drive \u00d7 Glenoaks Boulevard",
+  "px": 4107.111752018434,
+  "py": 3135.326460704872,
+  "lon": -118.2192498,
+  "lat": 34.1509031,
+  "score": 0.235
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 2467.861486353293,
+  "py": 1359.6309696870244,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.233
+ },
+ {
+  "id": "La Loma Road \u00d7 Woodbury Road",
+  "px": 2734.9850645456754,
+  "py": 2737.3951395198324,
+  "lon": -118.2359806,
+  "lat": 34.1532297,
+  "score": 0.225
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 2215.9767623833745,
+  "py": 1796.2515885661646,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.214
+ },
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 3114.6322890446877,
+  "py": 1684.9535722601959,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.213
+ },
+ {
+  "id": "Eastedge Drive \u00d7 Solway Street",
+  "px": 3886.2891831781158,
+  "py": 2454.9614908030726,
+  "lon": -118.222811,
+  "lat": 34.1573229,
+  "score": 0.201
+ },
+ {
+  "id": "Hollister Terrace \u00d7 Scholl Drive",
+  "px": 4217.282789527506,
+  "py": 3044.495528076539,
+  "lon": -118.2181181,
+  "lat": 34.1519276,
+  "score": 0.193
+ },
+ {
+  "id": "Acorn Place \u00d7 East Chevy Chase Drive",
+  "px": 4119.16498883939,
+  "py": 2422.326627459816,
+  "lon": -118.2200818,
+  "lat": 34.1579092,
+  "score": 0.187
+ },
+ {
+  "id": "Avonglen Terrace \u00d7 Glenandale Terrace \u00d7 ",
+  "px": 3116.1145910369587,
+  "py": 2323.760609301004,
+  "lon": -118.232068,
+  "lat": 34.157672,
+  "score": 0.185
+ }
+]

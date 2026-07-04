@@ -1,0 +1,106 @@
+[
+ {
+  "id": "Glenoaks Boulevard \u00d7 North Adams Street ",
+  "px": 4310.228101319077,
+  "py": 318.2517310233533,
+  "lon": -118.2387584,
+  "lat": 34.1581986,
+  "score": 0.519
+ },
+ {
+  "id": "East Lexington Drive \u00d7 Naranja Drive",
+  "px": 2669.6138474484587,
+  "py": 262.72452894022115,
+  "lon": -118.2396441,
+  "lat": 34.1517427,
+  "score": 0.476
+ },
+ {
+  "id": "Monterey Road \u00d7 Naranja Drive",
+  "px": 3618.7275575630383,
+  "py": 181.28035992343177,
+  "lon": -118.2396574,
+  "lat": 34.1555037,
+  "score": 0.459
+ },
+ {
+  "id": "Canyon Drive \u00d7 Luton Drive \u00d7 Millar Driv",
+  "px": 3268.58811272727,
+  "py": 1360.127092838543,
+  "lon": -118.234227,
+  "lat": 34.153675,
+  "score": 0.457
+ },
+ {
+  "id": "Galer Place \u00d7 Richard Place",
+  "px": 2900.955630744672,
+  "py": 441.8874072549553,
+  "lon": -118.2387185,
+  "lat": 34.1525809,
+  "score": 0.454
+ },
+ {
+  "id": "Galer Place \u00d7 Monterey Road",
+  "px": 3573.088479971201,
+  "py": 347.0966127922359,
+  "lon": -118.2389011,
+  "lat": 34.155274,
+  "score": 0.453
+ },
+ {
+  "id": "Glen Avenue \u00d7 Luring Drive",
+  "px": 4247.823675221139,
+  "py": 2145.691089351006,
+  "lon": -118.2300359,
+  "lat": 34.157229,
+  "score": 0.411
+ },
+ {
+  "id": "East Doran Street \u00d7 Galer Place \u00d7 Naranj",
+  "px": 3273.0469273030194,
+  "py": 206.80496608195972,
+  "lon": -118.2396519,
+  "lat": 34.1541046,
+  "score": 0.408
+ },
+ {
+  "id": "Avonglen Terrace \u00d7 Glenandale Terrace \u00d7 ",
+  "px": 4322.23054277766,
+  "py": 1713.1111714302833,
+  "lon": -118.232068,
+  "lat": 34.157672,
+  "score": 0.354
+ },
+ {
+  "id": "Glenandale Terrace \u00d7 Glenoaks Boulevard",
+  "px": 3621.3144276713365,
+  "py": 2053.774455009702,
+  "lon": -118.230746,
+  "lat": 34.1547955,
+  "score": 0.339
+ },
+ {
+  "id": "Atkins Drive \u00d7 Corwin Avenue",
+  "px": 3825.2732749324423,
+  "py": 2286.843053326855,
+  "lon": -118.2295527,
+  "lat": 34.1555581,
+  "score": 0.333
+ },
+ {
+  "id": "Avonoak Terrace \u00d7 Glenoaks Boulevard",
+  "px": 4350.683709240166,
+  "py": 1484.3643048626,
+  "lon": -118.2331425,
+  "lat": 34.1578544,
+  "score": 0.322
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 North Glendale Aven",
+  "px": 4441.157116838058,
+  "py": 66.39065049356554,
+  "lon": -118.2398944,
+  "lat": 34.1588034,
+  "score": 0.196
+ }
+]

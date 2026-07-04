@@ -13,6 +13,8 @@ and surrounding Verdugo foothills across 5–7 era snapshots, ~1900 to today.
 | 2026-07-03 | Login-gated sources (USGS EarthExplorer) flagged with exact instructions for John rather than skipped | Best imagery sometimes lives behind free accounts |
 | 2026-07-03 | MapLibre GL JS over Leaflet | Better mobile touch performance and smooth layer crossfading |
 | 2026-07-03 | **Era list approved by John**: ~1900 (topo), 1928, 1938, 1956, 1971, 1979, 2022 | Max visual change between stops; all sources free + publishable. 1936 C-4051 reserved for story-pin detail; 1990s stop skipped (login-gated, low visual delta) |
+| 2026-07-03 | **Era 6 is 1981, not 1979**: TG-3800 film edge is date-stamped 4/28/81; UCSB index said 1979-07 | Trust the film over the index. Era labels updated. Film-edge dates verified for all key frames: 1928, 6/5/38, 8/22/56, 4/3/71, 4/28/81 |
+| 2026-07-03 | Georeferencing method: few manual seed GCPs → gradient template matching at OSM intersections → RANSAC → order-2 polynomial warp | Cross-era SIFT failed (5-10 inliers); local template matching with OSM ground truth gives 30-45 GCPs/frame at ~3-5 m consistency. Eras chain: each matches appearance against the next-later era but coordinates always come from OSM, so errors don't compound |
 
 ## Working area
 

@@ -1,0 +1,9 @@
+Harvey Drive × Hill Drive                  score 0.54 res   4.0 m
+Elvina Drive × Glenoaks Boulevard          score 0.53 res   2.1 m
+Arch Place × Hollister Terrace             score 0.42 res   3.0 m
+Corwin Avenue × East Chevy Chase Drive     score 0.40 res   1.8 m
+Elvina Drive × Hollister Terrace           score 0.39 res   3.5 m
+Academy Place × Kimlin Drive               score 0.36 res   3.1 m
+Glenoaks Boulevard × Mount Carmel Drive    score 0.34 res   0.5 m
+East Chevy Chase Drive × Harvey Drive      score 0.29 res   4.2 m
+Ridge Drive × Solway Street                score 0.22 res   3.4 m

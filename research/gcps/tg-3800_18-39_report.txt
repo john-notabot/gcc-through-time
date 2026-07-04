@@ -1,0 +1,33 @@
+East Chevy Chase Drive × East Glenoaks B   score 0.43 res   3.3 m
+Galer Place × Monterey Road                score 0.37 res   1.2 m
+East Lexington Drive × North Adams Stree   score 0.36 res   2.7 m
+East Doran Street × Galer Place × Naranj   score 0.36 res   1.0 m
+East Doran Street × North Adams Street     score 0.35 res   1.2 m
+Glenoaks Boulevard × Mount Carmel Drive    score 0.34 res   1.9 m
+Ethel Street × Viscano Drive               score 0.33 res   4.2 m
+Glenoaks Boulevard × North Adams Street    score 0.33 res   2.8 m
+Holly Drive × Merrill Avenue × Vallejo D   score 0.31 res   3.7 m
+Academy Place × Kimlin Drive               score 0.31 res   3.0 m
+Monterey Road × North Glendale Avenue      score 0.30 res   3.1 m
+Carmen Drive × Del Rey Drive               score 0.30 res   1.3 m
+Eden Avenue × Mount Carmel Drive           score 0.29 res   2.7 m
+Glenoaks Boulevard × Glenvista Drive       score 0.29 res   1.9 m
+Canyon Drive × East Chevy Chase Drive      score 0.28 res   1.2 m
+Harvey Drive × Hill Drive                  score 0.27 res   3.0 m
+East Chevy Chase Drive × Lilac Lane        score 0.27 res   1.6 m
+Canyon Drive × Luton Drive × Millar Driv   score 0.26 res   1.5 m
+Don Jose Drive × Ethel Street              score 0.26 res   3.1 m
+East Mountain Street × Greenbriar Road ×   score 0.25 res   2.4 m
+Del Monte Drive × Royal Boulevard          score 0.25 res   1.2 m
+Atkins Drive × Corwin Avenue               score 0.24 res   2.4 m
+East Chevy Chase Drive × Glenmore Boulev   score 0.24 res   3.7 m
+East Lexington Drive × Grove Place         score 0.24 res   0.8 m
+Elvina Drive × Glenoaks Boulevard          score 0.23 res   2.5 m
+Carmen Drive × Rosemount Road              score 0.23 res   8.1 m
+La Loma Road × Woodbury Road               score 0.23 res   0.8 m
+Cabrillo Drive × Cordova Avenue            score 0.21 res   3.7 m
+Calle Vaquero × North Verdugo Road         score 0.21 res   3.7 m
+Eastedge Drive × Solway Street             score 0.20 res   3.2 m
+Hollister Terrace × Scholl Drive           score 0.19 res   6.3 m
+Acorn Place × East Chevy Chase Drive       score 0.19 res   1.1 m
+Avonglen Terrace × Glenandale Terrace ×    score 0.18 res   5.5 m
