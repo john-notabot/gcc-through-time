@@ -1,0 +1,266 @@
+[
+ {
+  "id": "Bonnybrook Terrace \u00d7 Oakengate Drive",
+  "px": 2367.231928103155,
+  "py": 2301.5726139481753,
+  "lon": -118.2419541,
+  "lat": 34.1695595,
+  "score": 0.367
+ },
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 2795.493236607384,
+  "py": 3001.6703673437187,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.341
+ },
+ {
+  "id": "Avonoak Terrace \u00d7 Furman Place",
+  "px": 3153.730394366978,
+  "py": 3246.5197209211487,
+  "lon": -118.231842,
+  "lat": 34.160966,
+  "score": 0.34
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Solway Street",
+  "px": 3921.5751968066106,
+  "py": 3747.9129455399757,
+  "lon": -118.2223222,
+  "lat": 34.156663,
+  "score": 0.32
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Kirkton Place",
+  "px": 2482.7421138137997,
+  "py": 2298.992968937077,
+  "lon": -118.2406221,
+  "lat": 34.1696992,
+  "score": 0.316
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 Lilac Lane",
+  "px": 3850.066744179775,
+  "py": 3796.2224154164883,
+  "lon": -118.2230925,
+  "lat": 34.156127,
+  "score": 0.301
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 3687.8622056339145,
+  "py": 2108.8071443201065,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.3
+ },
+ {
+  "id": "Eden Avenue \u00d7 Mount Carmel Drive",
+  "px": 3781.407505680729,
+  "py": 4149.137662089439,
+  "lon": -118.2235745,
+  "lat": 34.1526513,
+  "score": 0.299
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 3570.3223623673657,
+  "py": 3803.5326061476903,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.292
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 Glenvista Drive",
+  "px": 2870.8062311658246,
+  "py": 3548.7987894040634,
+  "lon": -118.2348394,
+  "lat": 34.1577311,
+  "score": 0.291
+ },
+ {
+  "id": "East Mountain Street \u00d7 Greenbriar Road \u00d7",
+  "px": 2791.448973873735,
+  "py": 2693.174789849984,
+  "lon": -118.2366054,
+  "lat": 34.1660988,
+  "score": 0.286
+ },
+ {
+  "id": "Avonoak Terrace \u00d7 Swarthmore Drive",
+  "px": 3252.2369171464716,
+  "py": 3027.850136849669,
+  "lon": -118.230889,
+  "lat": 34.16315,
+  "score": 0.283
+ },
+ {
+  "id": "Kirkby Road \u00d7 North Verdugo Road",
+  "px": 3661.4719605883147,
+  "py": 2189.3598034738347,
+  "lon": -118.2268668,
+  "lat": 34.1716495,
+  "score": 0.283
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 3023.453493196782,
+  "py": 2666.9645323958566,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.264
+ },
+ {
+  "id": "Bara Road \u00d7 North Verdugo Road",
+  "px": 3818.6223807327983,
+  "py": 1363.0824245545555,
+  "lon": -118.22584,
+  "lat": 34.1797775,
+  "score": 0.263
+ },
+ {
+  "id": "Sunshine Court \u00d7 Sunshine Drive",
+  "px": 3149.669140813478,
+  "py": 1820.3686999959418,
+  "lon": -118.2332378,
+  "lat": 34.1747841,
+  "score": 0.253
+ },
+ {
+  "id": "Imperial Drive \u00d7 Princess Drive",
+  "px": 2739.764135135511,
+  "py": 2474.533308542368,
+  "lon": -118.2374134,
+  "lat": 34.1681724,
+  "score": 0.241
+ },
+ {
+  "id": "Alcalde Way \u00d7 Royal Boulevard",
+  "px": 2329.5650469437333,
+  "py": 1913.5989302553971,
+  "lon": -118.2427645,
+  "lat": 34.1732999,
+  "score": 0.24
+ },
+ {
+  "id": "East Glenoaks Boulevard \u00d7 Glenoaks Boule",
+  "px": 3593.6486602564737,
+  "py": 4144.8286814728945,
+  "lon": -118.2257784,
+  "lat": 34.1525012,
+  "score": 0.232
+ },
+ {
+  "id": "East Mountain Street \u00d7 Sinaloa Drive",
+  "px": 2426.794280836479,
+  "py": 2837.382044710708,
+  "lon": -118.2408073,
+  "lat": 34.1643915,
+  "score": 0.222
+ },
+ {
+  "id": "Calle Vaquero \u00d7 North Verdugo Road",
+  "px": 3080.5718854630545,
+  "py": 2929.9240288022343,
+  "lon": -118.232979,
+  "lat": 34.163997,
+  "score": 0.22
+ },
+ {
+  "id": "Atkins Drive \u00d7 Corwin Avenue",
+  "px": 3298.2899616913614,
+  "py": 3809.312589450405,
+  "lon": -118.2295527,
+  "lat": 34.1555581,
+  "score": 0.218
+ },
+ {
+  "id": "Heather Ridge Drive \u00d7 Misty Isle Drive",
+  "px": 2167.812071432839,
+  "py": 2300.6828307733786,
+  "lon": -118.2442683,
+  "lat": 34.1693765,
+  "score": 0.218
+ },
+ {
+  "id": "Hillcroft Road \u00d7 San Pablo Drive",
+  "px": 2563.509208124499,
+  "py": 2569.4934766147467,
+  "lon": -118.2393936,
+  "lat": 34.1671028,
+  "score": 0.217
+ },
+ {
+  "id": "Fay Drive \u00d7 Mildred Drive",
+  "px": 3462.809357208674,
+  "py": 3498.7647779363274,
+  "lon": -118.227954,
+  "lat": 34.158741,
+  "score": 0.205
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 3549.4142617952903,
+  "py": 1371.3972065231214,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.202
+ },
+ {
+  "id": "Colina Drive \u00d7 Sunshine Drive",
+  "px": 3283.043029251046,
+  "py": 1876.8853229769875,
+  "lon": -118.2315987,
+  "lat": 34.1744132,
+  "score": 0.188
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Hillcroft Road",
+  "px": 2358.30018750779,
+  "py": 2546.9069173554276,
+  "lon": -118.2418807,
+  "lat": 34.167188,
+  "score": 0.188
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 3582.151741883851,
+  "py": 893.4743495548292,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.187
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 2664.7699339439814,
+  "py": 2894.8099766393575,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.187
+ },
+ {
+  "id": "Acorn Place \u00d7 East Chevy Chase Drive",
+  "px": 4123.401643052062,
+  "py": 3637.266805225881,
+  "lon": -118.2200818,
+  "lat": 34.1579092,
+  "score": 0.184
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+  "px": 3592.7044971221694,
+  "py": 775.1634159087058,
+  "lon": -118.2290663,
+  "lat": 34.1853235,
+  "score": 0.183
+ },
+ {
+  "id": "Armour Place \u00d7 Wabasso Way",
+  "px": 3215.6116025484994,
+  "py": 1445.2944457736103,
+  "lon": -118.2328173,
+  "lat": 34.1785616,
+  "score": 0.182
+ }
+]

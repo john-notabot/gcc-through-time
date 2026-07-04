@@ -1,0 +1,2678 @@
+[
+{
+"streets": "Academy Place \u00d7 Kimlin Drive",
+"lon": -118.2263419,
+"lat": 34.1558166,
+"n_nodes": 1
+},
+{
+"streets": "Acorn Place \u00d7 East Chevy Chase Drive",
+"lon": -118.2200818,
+"lat": 34.1579092,
+"n_nodes": 1
+},
+{
+"streets": "Alamo Drive \u00d7 Royal Boulevard",
+"lon": -118.2344747,
+"lat": 34.167785,
+"n_nodes": 1
+},
+{
+"streets": "Alcalde Drive \u00d7 Alcalde Way",
+"lon": -118.2392644,
+"lat": 34.1719869,
+"n_nodes": 1
+},
+{
+"streets": "Alcalde Drive \u00d7 Arboles Drive",
+"lon": -118.2362841,
+"lat": 34.1716472,
+"n_nodes": 1
+},
+{
+"streets": "Alcalde Way \u00d7 Royal Boulevard",
+"lon": -118.2427645,
+"lat": 34.1732999,
+"n_nodes": 1
+},
+{
+"streets": "Allanjay Place \u00d7 Delisle Court",
+"lon": -118.2199536,
+"lat": 34.1851323,
+"n_nodes": 1
+},
+{
+"streets": "Allanjay Place \u00d7 Fern Lane",
+"lon": -118.2205941,
+"lat": 34.1836787,
+"n_nodes": 1
+},
+{
+"streets": "Allanjay Place \u00d7 Florena Court",
+"lon": -118.2220356,
+"lat": 34.1852566,
+"n_nodes": 1
+},
+{
+"streets": "Alpha Motorway \u00d7 Descanso Motorway",
+"lon": -118.2109274,
+"lat": 34.1933677,
+"n_nodes": 1
+},
+{
+"streets": "Alpha Motorway \u00d7 Forest Hill Edison Road",
+"lon": -118.2109498,
+"lat": 34.1947327,
+"n_nodes": 1
+},
+{
+"streets": "Alpha Road \u00d7 Los Encinos Avenue",
+"lon": -118.221423,
+"lat": 34.1888911,
+"n_nodes": 1
+},
+{
+"streets": "Alpha Road \u00d7 North Verdugo Road",
+"lon": -118.2261827,
+"lat": 34.1885901,
+"n_nodes": 1
+},
+{
+"streets": "Alpha Road \u00d7 Oak Glen Road",
+"lon": -118.2248315,
+"lat": 34.1887556,
+"n_nodes": 1
+},
+{
+"streets": "Alpha Road \u00d7 Oakwood Avenue",
+"lon": -118.2233214,
+"lat": 34.188869,
+"n_nodes": 1
+},
+{
+"streets": "Amarillo Drive \u00d7 el Arbolita Drive",
+"lon": -118.222042,
+"lat": 34.193502,
+"n_nodes": 1
+},
+{
+"streets": "Andenes Drive \u00d7 Capistrano Avenue \u00d7 El Rito Avenue",
+"lon": -118.2365882,
+"lat": 34.1827643,
+"n_nodes": 1
+},
+{
+"streets": "Andenes Drive \u00d7 Descanso Place",
+"lon": -118.2364131,
+"lat": 34.1814215,
+"n_nodes": 1
+},
+{
+"streets": "Andenes Drive \u00d7 Hermosita Drive",
+"lon": -118.2338867,
+"lat": 34.1811144,
+"n_nodes": 1
+},
+{
+"streets": "Andenes Drive \u00d7 Opechee Way",
+"lon": -118.2369826,
+"lat": 34.1820877,
+"n_nodes": 1
+},
+{
+"streets": "Arboles Drive \u00d7 Catalina Drive",
+"lon": -118.2364061,
+"lat": 34.1724648,
+"n_nodes": 1
+},
+{
+"streets": "Arboles Drive \u00d7 Esmeralda Drive",
+"lon": -118.2363795,
+"lat": 34.1727807,
+"n_nodes": 1
+},
+{
+"streets": "Arboles Drive \u00d7 Royal Boulevard",
+"lon": -118.2364343,
+"lat": 34.1693971,
+"n_nodes": 1
+},
+{
+"streets": "Arcade Place \u00d7 Glenoaks Boulevard",
+"lon": -118.2097473,
+"lat": 34.1513632,
+"n_nodes": 1
+},
+{
+"streets": "Arcade Place \u00d7 Hollister Terrace",
+"lon": -118.2104277,
+"lat": 34.152454,
+"n_nodes": 1
+},
+{
+"streets": "Arcade Place \u00d7 Story Place",
+"lon": -118.2100956,
+"lat": 34.1519156,
+"n_nodes": 1
+},
+{
+"streets": "Arch Place \u00d7 Hollister Terrace",
+"lon": -118.2155009,
+"lat": 34.1511443,
+"n_nodes": 1
+},
+{
+"streets": "Armour Place \u00d7 Wabasso Way",
+"lon": -118.2328173,
+"lat": 34.1785616,
+"n_nodes": 1
+},
+{
+"streets": "Arvin Drive \u00d7 North Verdugo Road",
+"lon": -118.2266311,
+"lat": 34.1724746,
+"n_nodes": 1
+},
+{
+"streets": "Atkins Drive \u00d7 Corwin Avenue",
+"lon": -118.2295527,
+"lat": 34.1555581,
+"n_nodes": 1
+},
+{
+"streets": "Atkins Drive \u00d7 Glen Avenue",
+"lon": -118.2292914,
+"lat": 34.1581187,
+"n_nodes": 1
+},
+{
+"streets": "Atkins Drive \u00d7 Herbert Avenue",
+"lon": -118.228934,
+"lat": 34.156924,
+"n_nodes": 1
+},
+{
+"streets": "Atwater Canyon Road \u00d7 Oakwood Avenue",
+"lon": -118.2238538,
+"lat": 34.1894063,
+"n_nodes": 1
+},
+{
+"streets": "Avonglen Terrace \u00d7 Glenandale Terrace \u00d7 Glenoaks Boulevard",
+"lon": -118.232068,
+"lat": 34.157672,
+"n_nodes": 1
+},
+{
+"streets": "Avonoak Terrace \u00d7 Furman Place",
+"lon": -118.231842,
+"lat": 34.160966,
+"n_nodes": 1
+},
+{
+"streets": "Avonoak Terrace \u00d7 Glenoaks Boulevard",
+"lon": -118.2331425,
+"lat": 34.1578544,
+"n_nodes": 2
+},
+{
+"streets": "Avonoak Terrace \u00d7 Principia Drive",
+"lon": -118.233517,
+"lat": 34.160056,
+"n_nodes": 1
+},
+{
+"streets": "Avonoak Terrace \u00d7 Swarthmore Drive",
+"lon": -118.230889,
+"lat": 34.16315,
+"n_nodes": 1
+},
+{
+"streets": "Avonoak Terrace \u00d7 Sweetbriar Drive",
+"lon": -118.233994,
+"lat": 34.159656,
+"n_nodes": 1
+},
+{
+"streets": "Bagdad Place \u00d7 North Verdugo Road",
+"lon": -118.2283427,
+"lat": 34.193563,
+"n_nodes": 2
+},
+{
+"streets": "Bagdad Place \u00d7 Sparr Boulevard",
+"lon": -118.2269408,
+"lat": 34.1941092,
+"n_nodes": 1
+},
+{
+"streets": "Balboa Avenue \u00d7 Monterey Road",
+"lon": -118.2447489,
+"lat": 34.1574751,
+"n_nodes": 1
+},
+{
+"streets": "Balmoral Drive \u00d7 Kildonan Drive",
+"lon": -118.240462,
+"lat": 34.1759287,
+"n_nodes": 1
+},
+{
+"streets": "Balmoral Drive \u00d7 Sandringham Drive",
+"lon": -118.2366476,
+"lat": 34.1751754,
+"n_nodes": 1
+},
+{
+"streets": "Bara Road \u00d7 Conchita Street",
+"lon": -118.2249535,
+"lat": 34.1799362,
+"n_nodes": 1
+},
+{
+"streets": "Bara Road \u00d7 North Verdugo Road",
+"lon": -118.22584,
+"lat": 34.1797775,
+"n_nodes": 1
+},
+{
+"streets": "Bara Road \u00d7 Risa Drive",
+"lon": -118.2240979,
+"lat": 34.180435,
+"n_nodes": 1
+},
+{
+"streets": "Barnett Drive \u00d7 Outlook Lane",
+"lon": -118.2170876,
+"lat": 34.1611808,
+"n_nodes": 1
+},
+{
+"streets": "Barnett Drive \u00d7 Ramsay Drive",
+"lon": -118.2189377,
+"lat": 34.1604862,
+"n_nodes": 1
+},
+{
+"streets": "Bayberry Drive \u00d7 El Arbolita Drive",
+"lon": -118.2216063,
+"lat": 34.1919525,
+"n_nodes": 1
+},
+{
+"streets": "Bayberry Drive \u00d7 Sparr Boulevard",
+"lon": -118.2264067,
+"lat": 34.1917649,
+"n_nodes": 1
+},
+{
+"streets": "Beaudry Boulevard \u00d7 Beaudry Terrace",
+"lon": -118.2411071,
+"lat": 34.193436,
+"n_nodes": 1
+},
+{
+"streets": "Beaudry Boulevard \u00d7 Country Club Drive",
+"lon": -118.2349384,
+"lat": 34.1935038,
+"n_nodes": 2
+},
+{
+"streets": "Beaudry Boulevard \u00d7 Glencrest Drive",
+"lon": -118.2387913,
+"lat": 34.1938159,
+"n_nodes": 1
+},
+{
+"streets": "Beaudry Boulevard \u00d7 San Gabriel Avenue",
+"lon": -118.2356077,
+"lat": 34.1933021,
+"n_nodes": 2
+},
+{
+"streets": "Beaudry Motorway \u00d7 Beaudry North Motorway \u00d7 Beaudry South Motorway",
+"lon": -118.2428214,
+"lat": 34.1907271,
+"n_nodes": 1
+},
+{
+"streets": "Beaudry South Motorway \u00d7 Las Flores Motorway",
+"lon": -118.2564085,
+"lat": 34.188447,
+"n_nodes": 1
+},
+{
+"streets": "Beaudry Terrace \u00d7 Daily Circle",
+"lon": -118.2419108,
+"lat": 34.1945428,
+"n_nodes": 1
+},
+{
+"streets": "Beaudry Terrace \u00d7 J Lee Circle",
+"lon": -118.2415835,
+"lat": 34.1939672,
+"n_nodes": 1
+},
+{
+"streets": "Beaudry Terrace \u00d7 Peters Circle",
+"lon": -118.2421136,
+"lat": 34.1949189,
+"n_nodes": 1
+},
+{
+"streets": "Belleau Road \u00d7 Bouquete Street",
+"lon": -118.212033,
+"lat": 34.172762,
+"n_nodes": 1
+},
+{
+"streets": "Belleau Road \u00d7 Sheridan Road",
+"lon": -118.2121185,
+"lat": 34.1749563,
+"n_nodes": 1
+},
+{
+"streets": "Blanchard Drive \u00d7 Bonita Drive \u00d7 Opechee Way",
+"lon": -118.2318606,
+"lat": 34.1806838,
+"n_nodes": 1
+},
+{
+"streets": "Blanchard Drive \u00d7 Capistrano Avenue",
+"lon": -118.2317411,
+"lat": 34.1818348,
+"n_nodes": 1
+},
+{
+"streets": "Bogue Drive \u00d7 Mira Vista Drive \u00d7 Pasa Glen Drive",
+"lon": -118.2260385,
+"lat": 34.1859469,
+"n_nodes": 1
+},
+{
+"streets": "Bogue Drive \u00d7 Risa Drive",
+"lon": -118.2250244,
+"lat": 34.1847926,
+"n_nodes": 1
+},
+{
+"streets": "Bonita Drive \u00d7 Camulos Avenue",
+"lon": -118.2318338,
+"lat": 34.1795658,
+"n_nodes": 1
+},
+{
+"streets": "Bonita Drive \u00d7 Capistrano Avenue",
+"lon": -118.2324078,
+"lat": 34.1818315,
+"n_nodes": 1
+},
+{
+"streets": "Bonita Drive \u00d7 El Rito Avenue",
+"lon": -118.2323993,
+"lat": 34.1829874,
+"n_nodes": 1
+},
+{
+"streets": "Bonita Drive \u00d7 Hillside Drive",
+"lon": -118.2315789,
+"lat": 34.1772366,
+"n_nodes": 2
+},
+{
+"streets": "Bonita Drive \u00d7 Opechee Way",
+"lon": -118.2323667,
+"lat": 34.1806866,
+"n_nodes": 1
+},
+{
+"streets": "Bonita Drive \u00d7 Wabasso Way",
+"lon": -118.2318299,
+"lat": 34.178376,
+"n_nodes": 1
+},
+{
+"streets": "Bonnybrook Terrace \u00d7 Oakengate Drive",
+"lon": -118.2419541,
+"lat": 34.1695595,
+"n_nodes": 1
+},
+{
+"streets": "Bouquete Street \u00d7 Thurlene Road",
+"lon": -118.212224,
+"lat": 34.172031,
+"n_nodes": 1
+},
+{
+"streets": "Bramford Drive \u00d7 Old Phillips Road",
+"lon": -118.2441483,
+"lat": 34.1767745,
+"n_nodes": 1
+},
+{
+"streets": "Branta Drive \u00d7 Hillside Drive",
+"lon": -118.2375002,
+"lat": 34.1788877,
+"n_nodes": 1
+},
+{
+"streets": "Branta Drive \u00d7 Polaris Drive",
+"lon": -118.2389625,
+"lat": 34.1792467,
+"n_nodes": 1
+},
+{
+"streets": "Briarwood Lane \u00d7 Glenoaks Boulevard",
+"lon": -118.233978,
+"lat": 34.1577895,
+"n_nodes": 1
+},
+{
+"streets": "Brook Lane \u00d7 North Verdugo Road",
+"lon": -118.2256911,
+"lat": 34.18184,
+"n_nodes": 1
+},
+{
+"streets": "Cabrillo Drive \u00d7 Cordova Avenue",
+"lon": -118.2434195,
+"lat": 34.1618847,
+"n_nodes": 1
+},
+{
+"streets": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+"lon": -118.2419129,
+"lat": 34.1615977,
+"n_nodes": 1
+},
+{
+"streets": "Calafia Street \u00d7 Carrie Lane",
+"lon": -118.2225382,
+"lat": 34.1822816,
+"n_nodes": 1
+},
+{
+"streets": "Calafia Street \u00d7 North Verdugo Road",
+"lon": -118.2256305,
+"lat": 34.1815421,
+"n_nodes": 1
+},
+{
+"streets": "Calafia Street \u00d7 Risa Drive",
+"lon": -118.2242915,
+"lat": 34.1817325,
+"n_nodes": 1
+},
+{
+"streets": "Calle Allegre \u00d7 Calle Azul",
+"lon": -118.2217546,
+"lat": 34.1644859,
+"n_nodes": 1
+},
+{
+"streets": "Calle Allegre \u00d7 Camino San Rafael",
+"lon": -118.220327,
+"lat": 34.164675,
+"n_nodes": 1
+},
+{
+"streets": "Calle Amable \u00d7 Camino San Rafael",
+"lon": -118.2206207,
+"lat": 34.1640148,
+"n_nodes": 1
+},
+{
+"streets": "Calle Bella \u00d7 Calle Simpatico",
+"lon": -118.2168604,
+"lat": 34.1655973,
+"n_nodes": 1
+},
+{
+"streets": "Calle Bella \u00d7 Calle del Pacifico",
+"lon": -118.216722,
+"lat": 34.164866,
+"n_nodes": 1
+},
+{
+"streets": "Calle Bella \u00d7 Camino San Rafael",
+"lon": -118.2170039,
+"lat": 34.166068,
+"n_nodes": 1
+},
+{
+"streets": "Calle Canta \u00d7 Calle Dulce",
+"lon": -118.214009,
+"lat": 34.166286,
+"n_nodes": 1
+},
+{
+"streets": "Calle Canta \u00d7 Calle Sirena",
+"lon": -118.213268,
+"lat": 34.165955,
+"n_nodes": 1
+},
+{
+"streets": "Calle Canta \u00d7 Calle la Costa",
+"lon": -118.212458,
+"lat": 34.164887,
+"n_nodes": 1
+},
+{
+"streets": "Calle Canta \u00d7 Calle la Primavera",
+"lon": -118.212869,
+"lat": 34.16343,
+"n_nodes": 1
+},
+{
+"streets": "Calle Canta \u00d7 Camino San Rafael",
+"lon": -118.2146211,
+"lat": 34.166906,
+"n_nodes": 1
+},
+{
+"streets": "Calle Contento \u00d7 Camino San Rafael",
+"lon": -118.2199177,
+"lat": 34.165453,
+"n_nodes": 1
+},
+{
+"streets": "Calle Fortuna \u00d7 Calle la Primavera",
+"lon": -118.2154327,
+"lat": 34.1645581,
+"n_nodes": 1
+},
+{
+"streets": "Calle Sonrisa \u00d7 Camino San Rafael",
+"lon": -118.2191187,
+"lat": 34.1658462,
+"n_nodes": 1
+},
+{
+"streets": "Calle Suenos \u00d7 Calle la Primavera",
+"lon": -118.2158624,
+"lat": 34.1655036,
+"n_nodes": 1
+},
+{
+"streets": "Calle Vaquero \u00d7 North Verdugo Road",
+"lon": -118.232979,
+"lat": 34.163997,
+"n_nodes": 1
+},
+{
+"streets": "Calle Vaquero \u00d7 Sweetbriar Drive",
+"lon": -118.2326965,
+"lat": 34.1638795,
+"n_nodes": 2
+},
+{
+"streets": "Calle del Pacifico \u00d7 Camino San Rafael",
+"lon": -118.2201726,
+"lat": 34.165115,
+"n_nodes": 1
+},
+{
+"streets": "Calle del Sol \u00d7 Camino San Rafael",
+"lon": -118.215194,
+"lat": 34.16659,
+"n_nodes": 1
+},
+{
+"streets": "Calle la Primavera \u00d7 Camino San Rafael",
+"lon": -118.2161715,
+"lat": 34.1663035,
+"n_nodes": 1
+},
+{
+"streets": "Camino San Rafael \u00d7 East Mountain Street",
+"lon": -118.2244985,
+"lat": 34.1642619,
+"n_nodes": 1
+},
+{
+"streets": "Camino San Rafael \u00d7 Emerald Isle Drive",
+"lon": -118.210411,
+"lat": 34.181329,
+"n_nodes": 1
+},
+{
+"streets": "Camino San Rafael \u00d7 Flintridge Drive",
+"lon": -118.210203,
+"lat": 34.1833006,
+"n_nodes": 1
+},
+{
+"streets": "Camino San Rafael \u00d7 Foxkirk Road",
+"lon": -118.2239271,
+"lat": 34.1642067,
+"n_nodes": 1
+},
+{
+"streets": "Camino San Rafael \u00d7 Ridge Lateral Mtrwy",
+"lon": -118.2127807,
+"lat": 34.1792132,
+"n_nodes": 1
+},
+{
+"streets": "Camino San Rafael \u00d7 Ridge Motorway",
+"lon": -118.2128329,
+"lat": 34.1797611,
+"n_nodes": 3
+},
+{
+"streets": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+"lon": -118.2290036,
+"lat": 34.1795523,
+"n_nodes": 1
+},
+{
+"streets": "Canyon Drive \u00d7 East Chevy Chase Drive",
+"lon": -118.2344922,
+"lat": 34.1515996,
+"n_nodes": 1
+},
+{
+"streets": "Canyon Drive \u00d7 Luton Drive \u00d7 Millar Drive",
+"lon": -118.234227,
+"lat": 34.153675,
+"n_nodes": 1
+},
+{
+"streets": "Capistrano Avenue \u00d7 Capistrano Circle \u00d7 Ca\u00f1ada Boulevard",
+"lon": -118.2290325,
+"lat": 34.1818821,
+"n_nodes": 1
+},
+{
+"streets": "Capistrano Avenue \u00d7 Hermosita Drive",
+"lon": -118.2337392,
+"lat": 34.181805,
+"n_nodes": 1
+},
+{
+"streets": "Carmen Drive \u00d7 Del Rey Drive",
+"lon": -118.24211,
+"lat": 34.1632553,
+"n_nodes": 1
+},
+{
+"streets": "Carmen Drive \u00d7 East Mountain Street",
+"lon": -118.2418654,
+"lat": 34.1645217,
+"n_nodes": 1
+},
+{
+"streets": "Carmen Drive \u00d7 Rosemount Road",
+"lon": -118.2409994,
+"lat": 34.1663501,
+"n_nodes": 1
+},
+{
+"streets": "Carrie Lane \u00d7 Fern Lane",
+"lon": -118.2228593,
+"lat": 34.1830294,
+"n_nodes": 1
+},
+{
+"streets": "Cascadia Drive \u00d7 East Chevy Chase Drive",
+"lon": -118.2179456,
+"lat": 34.1592253,
+"n_nodes": 1
+},
+{
+"streets": "Cascadia Drive \u00d7 Kennington Drive \u00d7 Somerset Road",
+"lon": -118.2124268,
+"lat": 34.1624826,
+"n_nodes": 1
+},
+{
+"streets": "Cascadia Drive \u00d7 Ramsay Drive",
+"lon": -118.2172169,
+"lat": 34.1601421,
+"n_nodes": 1
+},
+{
+"streets": "Cascadia Drive \u00d7 Saint Andrews Drive",
+"lon": -118.214885,
+"lat": 34.160849,
+"n_nodes": 1
+},
+{
+"streets": "Catalina Verdugo Trail \u00d7 Ridge Motorway",
+"lon": -118.215412,
+"lat": 34.1806156,
+"n_nodes": 1
+},
+{
+"streets": "Cathay Street \u00d7 Haven Street \u00d7 Hillside Drive",
+"lon": -118.2228361,
+"lat": 34.1769402,
+"n_nodes": 1
+},
+{
+"streets": "Cavanaugh Road \u00d7 Cedar Court Road",
+"lon": -118.2442652,
+"lat": 34.1661399,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+"lon": -118.2289664,
+"lat": 34.1744087,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 Santa Maria Avenue",
+"lon": -118.228968,
+"lat": 34.1898306,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+"lon": -118.229067,
+"lat": 34.1841589,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+"lon": -118.2290663,
+"lat": 34.1853235,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 El Rito Avenue",
+"lon": -118.2290518,
+"lat": 34.1830104,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Fernbrook Place",
+"lon": -118.2289746,
+"lat": 34.1752873,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Glorietta Avenue",
+"lon": -118.2290984,
+"lat": 34.186779,
+"n_nodes": 2
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Hiawatha Drive",
+"lon": -118.2289824,
+"lat": 34.1761175,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Hillside Drive",
+"lon": -118.2289928,
+"lat": 34.1772427,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 North Verdugo Road",
+"lon": -118.2288905,
+"lat": 34.1801449,
+"n_nodes": 6
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Opechee Way",
+"lon": -118.2290252,
+"lat": 34.180706,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Ramona Avenue",
+"lon": -118.229107,
+"lat": 34.187605,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Santa Barbara Avenue",
+"lon": -118.229107,
+"lat": 34.188405,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Santa Maria Avenue",
+"lon": -118.2291032,
+"lat": 34.1895672,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Santa Paula",
+"lon": -118.2291023,
+"lat": 34.1879514,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Sombra Drive",
+"lon": -118.229107,
+"lat": 34.188705,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Towne Street",
+"lon": -118.229072,
+"lat": 34.1696171,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Wabasso Way",
+"lon": -118.2290065,
+"lat": 34.1783947,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Willow Drive",
+"lon": -118.229114,
+"lat": 34.189346,
+"n_nodes": 1
+},
+{
+"streets": "Ca\u00f1ada Boulevard \u00d7 Woodland Avenue",
+"lon": -118.2290943,
+"lat": 34.1861442,
+"n_nodes": 1
+},
+{
+"streets": "Cedar Court Road \u00d7 East Mountain Street",
+"lon": -118.2434649,
+"lat": 34.165114,
+"n_nodes": 1
+},
+{
+"streets": "Cherry Canyon Motorway \u00d7 Descanso Motorway \u00d7 Ridge Motorway",
+"lon": -118.210546,
+"lat": 34.1922254,
+"n_nodes": 1
+},
+{
+"streets": "Chevy Oaks Circle \u00d7 Chevy Oaks Drive \u00d7 East Chevy Chase Drive",
+"lon": -118.2196005,
+"lat": 34.1581918,
+"n_nodes": 1
+},
+{
+"streets": "Chudleigh Lane \u00d7 Greenbriar Road",
+"lon": -118.2427196,
+"lat": 34.1713901,
+"n_nodes": 1
+},
+{
+"streets": "Colina Drive \u00d7 Hiawatha Drive",
+"lon": -118.2277244,
+"lat": 34.1761212,
+"n_nodes": 1
+},
+{
+"streets": "Colina Drive \u00d7 Hillside Drive",
+"lon": -118.2339739,
+"lat": 34.1778307,
+"n_nodes": 1
+},
+{
+"streets": "Colina Drive \u00d7 Niodrara Drive",
+"lon": -118.2305688,
+"lat": 34.1743976,
+"n_nodes": 1
+},
+{
+"streets": "Colina Drive \u00d7 Sunshine Drive",
+"lon": -118.2315987,
+"lat": 34.1744132,
+"n_nodes": 1
+},
+{
+"streets": "Cordova Avenue \u00d7 Coronado Drive",
+"lon": -118.242555,
+"lat": 34.158773,
+"n_nodes": 1
+},
+{
+"streets": "Cordova Avenue \u00d7 Del Rey Drive",
+"lon": -118.2431234,
+"lat": 34.163428,
+"n_nodes": 1
+},
+{
+"streets": "Cordova Avenue \u00d7 East Dryden Street",
+"lon": -118.2437083,
+"lat": 34.1606137,
+"n_nodes": 2
+},
+{
+"streets": "Cordova Avenue \u00d7 East Glenoaks Boulevard",
+"lon": -118.2433736,
+"lat": 34.1597615,
+"n_nodes": 1
+},
+{
+"streets": "Cordova Avenue \u00d7 East Mountain Street",
+"lon": -118.2427788,
+"lat": 34.1648965,
+"n_nodes": 1
+},
+{
+"streets": "Cordova Avenue \u00d7 East Stocker Street",
+"lon": -118.243272,
+"lat": 34.1625545,
+"n_nodes": 1
+},
+{
+"streets": "Cordova Avenue \u00d7 Hillcroft Road",
+"lon": -118.2418807,
+"lat": 34.167188,
+"n_nodes": 1
+},
+{
+"streets": "Cordova Avenue \u00d7 Monterey Road",
+"lon": -118.2438575,
+"lat": 34.1571147,
+"n_nodes": 1
+},
+{
+"streets": "Cordova Avenue \u00d7 Rosemount Road",
+"lon": -118.2418105,
+"lat": 34.1667407,
+"n_nodes": 1
+},
+{
+"streets": "Coro Terrace \u00d7 Risa Drive",
+"lon": -118.2241546,
+"lat": 34.1809363,
+"n_nodes": 1
+},
+{
+"streets": "Coronado Drive \u00d7 Monterey Road",
+"lon": -118.2452686,
+"lat": 34.1576622,
+"n_nodes": 1
+},
+{
+"streets": "Coronado Drive \u00d7 Portola Avenue",
+"lon": -118.240909,
+"lat": 34.159348,
+"n_nodes": 1
+},
+{
+"streets": "Cortez Drive \u00d7 Rossmoyne Avenue",
+"lon": -118.2412728,
+"lat": 34.1621622,
+"n_nodes": 2
+},
+{
+"streets": "Corwin Avenue \u00d7 East Chevy Chase Drive",
+"lon": -118.226931,
+"lat": 34.154472,
+"n_nodes": 1
+},
+{
+"streets": "Corwin Avenue \u00d7 Glenmore Boulevard",
+"lon": -118.227613,
+"lat": 34.155561,
+"n_nodes": 1
+},
+{
+"streets": "Country Club Drive \u00d7 Hermosita Drive",
+"lon": -118.232405,
+"lat": 34.1912013,
+"n_nodes": 1
+},
+{
+"streets": "Country Club Drive \u00d7 San Gabriel Avenue",
+"lon": -118.2328778,
+"lat": 34.1920181,
+"n_nodes": 2
+},
+{
+"streets": "Country Club Drive \u00d7 Santa Rosa Avenue",
+"lon": -118.2296752,
+"lat": 34.1906714,
+"n_nodes": 2
+},
+{
+"streets": "Crestmont Court \u00d7 North Verdugo Road",
+"lon": -118.2261129,
+"lat": 34.1743716,
+"n_nodes": 1
+},
+{
+"streets": "Crestshire Drive \u00d7 Hillfair Drive",
+"lon": -118.2179394,
+"lat": 34.1720027,
+"n_nodes": 1
+},
+{
+"streets": "Crestshire Drive \u00d7 Sherer Lane",
+"lon": -118.2204248,
+"lat": 34.1718932,
+"n_nodes": 1
+},
+{
+"streets": "Crestshire Drive \u00d7 Virden Drive",
+"lon": -118.2184684,
+"lat": 34.1717751,
+"n_nodes": 1
+},
+{
+"streets": "Del Court Place \u00d7 Edwards Place \u00d7 Hollister Terrace",
+"lon": -118.2117005,
+"lat": 34.1518464,
+"n_nodes": 1
+},
+{
+"streets": "Del Monte Drive \u00d7 Royal Boulevard",
+"lon": -118.2338759,
+"lat": 34.1665373,
+"n_nodes": 1
+},
+{
+"streets": "Del Rey Drive \u00d7 Rossmoyne Avenue",
+"lon": -118.2415691,
+"lat": 34.1631632,
+"n_nodes": 1
+},
+{
+"streets": "Del Valle Avenue \u00d7 Hermosita Drive",
+"lon": -118.2324352,
+"lat": 34.1841465,
+"n_nodes": 1
+},
+{
+"streets": "Del Valle Avenue \u00d7 Weston Place",
+"lon": -118.2299504,
+"lat": 34.1841345,
+"n_nodes": 1
+},
+{
+"streets": "Delisle Court \u00d7 Fern Lane",
+"lon": -118.219138,
+"lat": 34.1839119,
+"n_nodes": 2
+},
+{
+"streets": "Descanso Place \u00d7 Opechee Way",
+"lon": -118.2366457,
+"lat": 34.180267,
+"n_nodes": 1
+},
+{
+"streets": "Don Carlos Avenue \u00d7 Hermosita Drive",
+"lon": -118.2322903,
+"lat": 34.1853037,
+"n_nodes": 1
+},
+{
+"streets": "Don Carlos Avenue \u00d7 Rustic Lane",
+"lon": -118.227407,
+"lat": 34.185305,
+"n_nodes": 1
+},
+{
+"streets": "Don Jose Drive \u00d7 East Mountain Street",
+"lon": -118.2379293,
+"lat": 34.1640133,
+"n_nodes": 1
+},
+{
+"streets": "Don Jose Drive \u00d7 Ethel Street",
+"lon": -118.2362658,
+"lat": 34.1630707,
+"n_nodes": 1
+},
+{
+"streets": "Don Jose Drive \u00d7 Moncado Drive",
+"lon": -118.237107,
+"lat": 34.163506,
+"n_nodes": 1
+},
+{
+"streets": "Doverwood Drive \u00d7 Kildonan Drive",
+"lon": -118.2415867,
+"lat": 34.1750212,
+"n_nodes": 1
+},
+{
+"streets": "Doverwood Drive \u00d7 Trafalger Drive",
+"lon": -118.2408555,
+"lat": 34.1742939,
+"n_nodes": 1
+},
+{
+"streets": "Drury Lane \u00d7 East Chevy Chase Drive",
+"lon": -118.2159544,
+"lat": 34.1594579,
+"n_nodes": 1
+},
+{
+"streets": "Drury Lane \u00d7 Larkstone Lane",
+"lon": -118.214206,
+"lat": 34.159559,
+"n_nodes": 1
+},
+{
+"streets": "East California Avenue \u00d7 North Verdugo Road",
+"lon": -118.2361851,
+"lat": 34.1504055,
+"n_nodes": 1
+},
+{
+"streets": "East California Avenue \u00d7 Sinclair Avenue",
+"lon": -118.2324995,
+"lat": 34.1504407,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 East Glenoaks Boulevard \u00d7 Glenoaks Boulevard",
+"lon": -118.229061,
+"lat": 34.1535,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Glenmore Boulevard",
+"lon": -118.2277028,
+"lat": 34.1541147,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Harvey Drive",
+"lon": -118.2253099,
+"lat": 34.1550833,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Hill Drive",
+"lon": -118.226512,
+"lat": 34.154669,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Kennington Drive",
+"lon": -118.2066503,
+"lat": 34.165115,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Kimlin Drive",
+"lon": -118.2259235,
+"lat": 34.1548824,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 La Loma Road",
+"lon": -118.2350068,
+"lat": 34.1515084,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Laird Drive",
+"lon": -118.21283,
+"lat": 34.160565,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Larkstone Lane",
+"lon": -118.2143346,
+"lat": 34.1598577,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Leith Road",
+"lon": -118.2161316,
+"lat": 34.1596305,
+"n_nodes": 2
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Lilac Lane",
+"lon": -118.2230925,
+"lat": 34.156127,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 North Chevy Chase Drive \u00d7 North Verdugo Road",
+"lon": -118.2364472,
+"lat": 34.151259,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Saint Andrews Drive",
+"lon": -118.211488,
+"lat": 34.161301,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Sinclair Avenue",
+"lon": -118.232554,
+"lat": 34.151961,
+"n_nodes": 1
+},
+{
+"streets": "East Chevy Chase Drive \u00d7 Solway Street",
+"lon": -118.2223222,
+"lat": 34.156663,
+"n_nodes": 1
+},
+{
+"streets": "East Doran Street \u00d7 Galer Place \u00d7 Naranja Drive",
+"lon": -118.2396519,
+"lat": 34.1541046,
+"n_nodes": 1
+},
+{
+"streets": "East Doran Street \u00d7 North Adams Street",
+"lon": -118.2416455,
+"lat": 34.153754,
+"n_nodes": 2
+},
+{
+"streets": "East Doran Street \u00d7 North Glendale Avenue",
+"lon": -118.2436439,
+"lat": 34.1535359,
+"n_nodes": 1
+},
+{
+"streets": "East Dryden Street \u00d7 North Cedar Street",
+"lon": -118.2447684,
+"lat": 34.1605905,
+"n_nodes": 1
+},
+{
+"streets": "East Dryden Street \u00d7 North Everett Street",
+"lon": -118.2458229,
+"lat": 34.1606186,
+"n_nodes": 1
+},
+{
+"streets": "East Dryden Street \u00d7 Rossmoyne Avenue",
+"lon": -118.2420117,
+"lat": 34.1610592,
+"n_nodes": 1
+},
+{
+"streets": "East Glenoaks Boulevard \u00d7 Ethel Street \u00d7 Glenoaks Boulevard \u00d7 Rossmoyne Avenue",
+"lon": -118.2411804,
+"lat": 34.1604941,
+"n_nodes": 1
+},
+{
+"streets": "East Glenoaks Boulevard \u00d7 Glenoaks Boulevard \u00d7 Harvey Drive",
+"lon": -118.2257784,
+"lat": 34.1525012,
+"n_nodes": 1
+},
+{
+"streets": "East Glenoaks Boulevard \u00d7 Hill Drive",
+"lon": -118.2262075,
+"lat": 34.1526334,
+"n_nodes": 2
+},
+{
+"streets": "East Glenoaks Boulevard \u00d7 Merrill Avenue",
+"lon": -118.2281064,
+"lat": 34.1532107,
+"n_nodes": 1
+},
+{
+"streets": "East Glenoaks Boulevard \u00d7 North Cedar Street",
+"lon": -118.2447627,
+"lat": 34.1592375,
+"n_nodes": 1
+},
+{
+"streets": "East Glenoaks Boulevard \u00d7 North Everett Street",
+"lon": -118.2457348,
+"lat": 34.158762,
+"n_nodes": 1
+},
+{
+"streets": "East Lexington Drive \u00d7 Grove Place",
+"lon": -118.2376438,
+"lat": 34.151719,
+"n_nodes": 1
+},
+{
+"streets": "East Lexington Drive \u00d7 Naranja Drive",
+"lon": -118.2396441,
+"lat": 34.1517427,
+"n_nodes": 1
+},
+{
+"streets": "East Lexington Drive \u00d7 North Adams Street",
+"lon": -118.241839,
+"lat": 34.1517623,
+"n_nodes": 1
+},
+{
+"streets": "East Lexington Drive \u00d7 North Belmont Street",
+"lon": -118.2428837,
+"lat": 34.1517754,
+"n_nodes": 1
+},
+{
+"streets": "East Lexington Drive \u00d7 North Cedar Street",
+"lon": -118.2436588,
+"lat": 34.1517754,
+"n_nodes": 1
+},
+{
+"streets": "East Lexington Drive \u00d7 North Glendale Avenue",
+"lon": -118.244772,
+"lat": 34.1517976,
+"n_nodes": 1
+},
+{
+"streets": "East Lexington Drive \u00d7 North Verdugo Road",
+"lon": -118.2365691,
+"lat": 34.1517043,
+"n_nodes": 1
+},
+{
+"streets": "East Lexington Drive \u00d7 Piedmont Avenue",
+"lon": -118.2407415,
+"lat": 34.1517458,
+"n_nodes": 2
+},
+{
+"streets": "East Mountain Street \u00d7 Ethel Street \u00d7 Royal Boulevard",
+"lon": -118.2337955,
+"lat": 34.1661001,
+"n_nodes": 1
+},
+{
+"streets": "East Mountain Street \u00d7 Greenbriar Road \u00d7 La Zenja Drive",
+"lon": -118.2366054,
+"lat": 34.1660988,
+"n_nodes": 1
+},
+{
+"streets": "East Mountain Street \u00d7 North Cedar Street",
+"lon": -118.2438934,
+"lat": 34.1651251,
+"n_nodes": 1
+},
+{
+"streets": "East Mountain Street \u00d7 North Everett Street",
+"lon": -118.2448655,
+"lat": 34.1650008,
+"n_nodes": 1
+},
+{
+"streets": "East Mountain Street \u00d7 North Verdugo Road",
+"lon": -118.2320885,
+"lat": 34.1650321,
+"n_nodes": 2
+},
+{
+"streets": "East Mountain Street \u00d7 Rossmoyne Avenue",
+"lon": -118.2401743,
+"lat": 34.163971,
+"n_nodes": 1
+},
+{
+"streets": "East Mountain Street \u00d7 Sinaloa Drive",
+"lon": -118.2408073,
+"lat": 34.1643915,
+"n_nodes": 1
+},
+{
+"streets": "East Mountain Street \u00d7 Viscano Drive",
+"lon": -118.239341,
+"lat": 34.1634869,
+"n_nodes": 1
+},
+{
+"streets": "East Stocker Street \u00d7 North Cedar Street",
+"lon": -118.2443047,
+"lat": 34.1626403,
+"n_nodes": 1
+},
+{
+"streets": "East Stocker Street \u00d7 North Everett Street",
+"lon": -118.2453268,
+"lat": 34.1629227,
+"n_nodes": 1
+},
+{
+"streets": "East Stocker Street \u00d7 Rossmoyne Avenue",
+"lon": -118.241778,
+"lat": 34.1623374,
+"n_nodes": 1
+},
+{
+"streets": "Eastedge Drive \u00d7 Solway Street",
+"lon": -118.222811,
+"lat": 34.1573229,
+"n_nodes": 1
+},
+{
+"streets": "Eastgate Place \u00d7 Fern Lane",
+"lon": -118.2202386,
+"lat": 34.1836652,
+"n_nodes": 1
+},
+{
+"streets": "Eden Avenue \u00d7 Harvey Drive",
+"lon": -118.2254102,
+"lat": 34.1532236,
+"n_nodes": 1
+},
+{
+"streets": "Eden Avenue \u00d7 Hill Drive",
+"lon": -118.2263859,
+"lat": 34.1535143,
+"n_nodes": 1
+},
+{
+"streets": "Eden Avenue \u00d7 Mount Carmel Drive",
+"lon": -118.2235745,
+"lat": 34.1526513,
+"n_nodes": 1
+},
+{
+"streets": "Edinburgh Lane \u00d7 Sweetbriar Drive",
+"lon": -118.2344641,
+"lat": 34.1600738,
+"n_nodes": 1
+},
+{
+"streets": "Edwards Place \u00d7 Gardner Lane",
+"lon": -118.2121479,
+"lat": 34.1522336,
+"n_nodes": 1
+},
+{
+"streets": "Edwards Place \u00d7 Gardner Place",
+"lon": -118.2126747,
+"lat": 34.1525812,
+"n_nodes": 1
+},
+{
+"streets": "Edwards Place \u00d7 Glenoaks Boulevard",
+"lon": -118.2108744,
+"lat": 34.1508171,
+"n_nodes": 1
+},
+{
+"streets": "Edwards Place \u00d7 Story Place",
+"lon": -118.2112882,
+"lat": 34.1513481,
+"n_nodes": 1
+},
+{
+"streets": "El Arbolita Drive \u00d7 Menlo Drive",
+"lon": -118.2266684,
+"lat": 34.1951545,
+"n_nodes": 2
+},
+{
+"streets": "El Arbolita Drive \u00d7 Montecito Drive",
+"lon": -118.2247522,
+"lat": 34.1938016,
+"n_nodes": 1
+},
+{
+"streets": "El Arbolita Drive \u00d7 Rafael Terrace \u00d7 el Arbolita Drive",
+"lon": -118.2213366,
+"lat": 34.1915944,
+"n_nodes": 1
+},
+{
+"streets": "El Arbolita Drive \u00d7 Sparr Boulevard",
+"lon": -118.2273894,
+"lat": 34.1947853,
+"n_nodes": 1
+},
+{
+"streets": "El Rito Avenue \u00d7 Hermosita Drive",
+"lon": -118.2332427,
+"lat": 34.182795,
+"n_nodes": 2
+},
+{
+"streets": "El Rito Avenue \u00d7 North Verdugo Road",
+"lon": -118.2259752,
+"lat": 34.1830751,
+"n_nodes": 1
+},
+{
+"streets": "El Rito Avenue \u00d7 Sylvan Lane",
+"lon": -118.2281275,
+"lat": 34.1830061,
+"n_nodes": 1
+},
+{
+"streets": "El Rito Avenue \u00d7 Weston Place",
+"lon": -118.2300009,
+"lat": 34.183006,
+"n_nodes": 1
+},
+{
+"streets": "El Tovar Drive \u00d7 Montecito Drive",
+"lon": -118.2238296,
+"lat": 34.1944792,
+"n_nodes": 1
+},
+{
+"streets": "Eleanore Drive \u00d7 Lilac Lane",
+"lon": -118.2229272,
+"lat": 34.1546437,
+"n_nodes": 2
+},
+{
+"streets": "Elvina Drive \u00d7 Glenoaks Boulevard",
+"lon": -118.2192498,
+"lat": 34.1509031,
+"n_nodes": 1
+},
+{
+"streets": "Elvina Drive \u00d7 Hollister Terrace",
+"lon": -118.2189467,
+"lat": 34.1522281,
+"n_nodes": 1
+},
+{
+"streets": "Emerald Isle Drive \u00d7 Flintridge Drive",
+"lon": -118.207961,
+"lat": 34.1829365,
+"n_nodes": 1
+},
+{
+"streets": "Essex Lane \u00d7 Trafalger Drive",
+"lon": -118.2376083,
+"lat": 34.1734211,
+"n_nodes": 1
+},
+{
+"streets": "Ethel Street \u00d7 La Zenja Drive",
+"lon": -118.2349768,
+"lat": 34.1646964,
+"n_nodes": 1
+},
+{
+"streets": "Ethel Street \u00d7 Moncado Drive",
+"lon": -118.236251,
+"lat": 34.1636022,
+"n_nodes": 2
+},
+{
+"streets": "Ethel Street \u00d7 Viscano Drive",
+"lon": -118.2398325,
+"lat": 34.1609428,
+"n_nodes": 1
+},
+{
+"streets": "Fay Drive \u00d7 Glenmore Boulevard",
+"lon": -118.2285668,
+"lat": 34.1595952,
+"n_nodes": 1
+},
+{
+"streets": "Fay Drive \u00d7 Mildred Drive",
+"lon": -118.227954,
+"lat": 34.158741,
+"n_nodes": 1
+},
+{
+"streets": "Fern Lane \u00d7 Las Positas Road",
+"lon": -118.2222833,
+"lat": 34.1834014,
+"n_nodes": 1
+},
+{
+"streets": "Fern Lane \u00d7 North Verdugo Road",
+"lon": -118.2258145,
+"lat": 34.1824169,
+"n_nodes": 1
+},
+{
+"streets": "Fern Lane \u00d7 Risa Drive",
+"lon": -118.2248162,
+"lat": 34.1826005,
+"n_nodes": 1
+},
+{
+"streets": "Fernbrook Place \u00d7 Niodrara Drive",
+"lon": -118.2306729,
+"lat": 34.1753551,
+"n_nodes": 1
+},
+{
+"streets": "Foxkirk Road \u00d7 Parcher Place",
+"lon": -118.2242623,
+"lat": 34.1622775,
+"n_nodes": 1
+},
+{
+"streets": "Galer Place \u00d7 Monterey Road",
+"lon": -118.2389011,
+"lat": 34.155274,
+"n_nodes": 2
+},
+{
+"streets": "Galer Place \u00d7 Richard Place",
+"lon": -118.2387185,
+"lat": 34.1525809,
+"n_nodes": 1
+},
+{
+"streets": "Gardner Place \u00d7 Hollister Terrace",
+"lon": -118.2096387,
+"lat": 34.1528437,
+"n_nodes": 1
+},
+{
+"streets": "Gardner Place \u00d7 Pennerton Drive",
+"lon": -118.215039,
+"lat": 34.1526545,
+"n_nodes": 1
+},
+{
+"streets": "Gardner Place \u00d7 Suncourt Terrace",
+"lon": -118.2134965,
+"lat": 34.1520848,
+"n_nodes": 1
+},
+{
+"streets": "Gladys Drive \u00d7 Luring Drive",
+"lon": -118.2304533,
+"lat": 34.1583814,
+"n_nodes": 1
+},
+{
+"streets": "Glen Avenue \u00d7 Glenmore Boulevard",
+"lon": -118.228577,
+"lat": 34.15826,
+"n_nodes": 1
+},
+{
+"streets": "Glen Avenue \u00d7 Luring Drive",
+"lon": -118.2300359,
+"lat": 34.157229,
+"n_nodes": 1
+},
+{
+"streets": "Glen Ivy Drive \u00d7 Scholl Drive",
+"lon": -118.2185427,
+"lat": 34.1500884,
+"n_nodes": 1
+},
+{
+"streets": "Glen Ivy Drive \u00d7 Waltonia Drive",
+"lon": -118.2202224,
+"lat": 34.1504187,
+"n_nodes": 1
+},
+{
+"streets": "Glenandale Terrace \u00d7 Glenoaks Boulevard",
+"lon": -118.230746,
+"lat": 34.1547955,
+"n_nodes": 1
+},
+{
+"streets": "Glenandale Terrace \u00d7 Lorinda Drive",
+"lon": -118.231651,
+"lat": 34.15801,
+"n_nodes": 1
+},
+{
+"streets": "Glencrest Drive \u00d7 Glencrest Terrace",
+"lon": -118.2380902,
+"lat": 34.194386,
+"n_nodes": 1
+},
+{
+"streets": "Glenmore Boulevard \u00d7 Herbert Avenue",
+"lon": -118.228083,
+"lat": 34.156953,
+"n_nodes": 1
+},
+{
+"streets": "Glenmore Boulevard \u00d7 Ina Drive",
+"lon": -118.22867,
+"lat": 34.1589513,
+"n_nodes": 1
+},
+{
+"streets": "Glenmore Boulevard \u00d7 Trenton Avenue",
+"lon": -118.2279794,
+"lat": 34.1549296,
+"n_nodes": 1
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 Glenvista Drive",
+"lon": -118.2348394,
+"lat": 34.1577311,
+"n_nodes": 2
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 Lynglen Drive",
+"lon": -118.230493,
+"lat": 34.154127,
+"n_nodes": 1
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 Mount Carmel Drive",
+"lon": -118.2236326,
+"lat": 34.1518301,
+"n_nodes": 1
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 North Adams Street \u00d7 Verdugo Circle Drive",
+"lon": -118.2387584,
+"lat": 34.1581986,
+"n_nodes": 1
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 North Glendale Avenue",
+"lon": -118.2398944,
+"lat": 34.1588034,
+"n_nodes": 2
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 North Verdugo Road",
+"lon": -118.23706,
+"lat": 34.1577508,
+"n_nodes": 1
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 Scholl Drive",
+"lon": -118.2183787,
+"lat": 34.150776,
+"n_nodes": 1
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 Sylvanoak Drive",
+"lon": -118.2362274,
+"lat": 34.1576611,
+"n_nodes": 2
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 Tryon Place",
+"lon": -118.2150576,
+"lat": 34.1496845,
+"n_nodes": 1
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 Verdugo Circle Drive",
+"lon": -118.2376969,
+"lat": 34.1578504,
+"n_nodes": 1
+},
+{
+"streets": "Glenoaks Boulevard \u00d7 Waltonia Drive",
+"lon": -118.2201209,
+"lat": 34.1510276,
+"n_nodes": 1
+},
+{
+"streets": "Glorietta Avenue \u00d7 Hermosita Drive",
+"lon": -118.2323399,
+"lat": 34.1864527,
+"n_nodes": 1
+},
+{
+"streets": "Glorietta Avenue \u00d7 North Verdugo Road",
+"lon": -118.2257247,
+"lat": 34.1874242,
+"n_nodes": 1
+},
+{
+"streets": "Glorietta Avenue \u00d7 Rustic Lane",
+"lon": -118.227646,
+"lat": 34.1873233,
+"n_nodes": 1
+},
+{
+"streets": "Glorietta Avenue \u00d7 Woodland Avenue",
+"lon": -118.2262915,
+"lat": 34.1874259,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Heather Ridge Drive",
+"lon": -118.2470927,
+"lat": 34.1726906,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Ivy Bridge Road",
+"lon": -118.2435765,
+"lat": 34.1720394,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Kirkton Place",
+"lon": -118.2406221,
+"lat": 34.1696992,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Misty Isle Drive",
+"lon": -118.2418419,
+"lat": 34.1707236,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Oakengate Drive",
+"lon": -118.2400816,
+"lat": 34.1692452,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Old Phillips Road",
+"lon": -118.2445941,
+"lat": 34.1726875,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Pebbleshire Road",
+"lon": -118.2412372,
+"lat": 34.1702158,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Rossmoyne Avenue",
+"lon": -118.2371274,
+"lat": 34.1663612,
+"n_nodes": 1
+},
+{
+"streets": "Greenbriar Road \u00d7 Thorncrest Drive",
+"lon": -118.2449917,
+"lat": 34.1726906,
+"n_nodes": 1
+},
+{
+"streets": "Grove Place \u00d7 Monterey Road",
+"lon": -118.2381085,
+"lat": 34.1550549,
+"n_nodes": 2
+},
+{
+"streets": "Grove Place \u00d7 Richard Place",
+"lon": -118.2376493,
+"lat": 34.1525196,
+"n_nodes": 1
+},
+{
+"streets": "Grove Place \u00d7 Woodbury Road",
+"lon": -118.2380394,
+"lat": 34.1540848,
+"n_nodes": 1
+},
+{
+"streets": "Harvey Drive \u00d7 Hill Drive",
+"lon": -118.2262058,
+"lat": 34.1518284,
+"n_nodes": 1
+},
+{
+"streets": "Harvey Drive \u00d7 Holly Drive",
+"lon": -118.2267359,
+"lat": 34.1504791,
+"n_nodes": 1
+},
+{
+"streets": "Harvey Drive \u00d7 Orchard Avenue",
+"lon": -118.2262699,
+"lat": 34.1516394,
+"n_nodes": 1
+},
+{
+"streets": "Haven Street \u00d7 Hillside Drive",
+"lon": -118.2229939,
+"lat": 34.1772884,
+"n_nodes": 1
+},
+{
+"streets": "Haven Street \u00d7 Oakmont Drive",
+"lon": -118.2230127,
+"lat": 34.177337,
+"n_nodes": 1
+},
+{
+"streets": "Haven Street \u00d7 Oakmont Terrace",
+"lon": -118.223151,
+"lat": 34.1775829,
+"n_nodes": 1
+},
+{
+"streets": "Heather Ridge Drive \u00d7 Misty Isle Drive",
+"lon": -118.2442683,
+"lat": 34.1693765,
+"n_nodes": 1
+},
+{
+"streets": "Heather Ridge Drive \u00d7 Rasic Ridge Road",
+"lon": -118.2445485,
+"lat": 34.1702336,
+"n_nodes": 1
+},
+{
+"streets": "Hermosita Drive \u00d7 Opechee Way",
+"lon": -118.233518,
+"lat": 34.1806677,
+"n_nodes": 1
+},
+{
+"streets": "Hermosita Drive \u00d7 Ramona Avenue",
+"lon": -118.2318406,
+"lat": 34.1877735,
+"n_nodes": 1
+},
+{
+"streets": "Hermosita Drive \u00d7 Santa Barbara Avenue",
+"lon": -118.232807,
+"lat": 34.188605,
+"n_nodes": 1
+},
+{
+"streets": "Hermosita Drive \u00d7 Santa Maria Avenue",
+"lon": -118.2325729,
+"lat": 34.1890492,
+"n_nodes": 1
+},
+{
+"streets": "Hermosita Drive \u00d7 Santa Rosa Avenue",
+"lon": -118.2329021,
+"lat": 34.1899351,
+"n_nodes": 2
+},
+{
+"streets": "Hillcroft Road \u00d7 Loreto Drive",
+"lon": -118.2386079,
+"lat": 34.1665543,
+"n_nodes": 1
+},
+{
+"streets": "Hillcroft Road \u00d7 Rossmoyne Avenue",
+"lon": -118.2381332,
+"lat": 34.1657309,
+"n_nodes": 1
+},
+{
+"streets": "Hillcroft Road \u00d7 San Pablo Drive",
+"lon": -118.2393936,
+"lat": 34.1671028,
+"n_nodes": 1
+},
+{
+"streets": "Hillside Drive \u00d7 Niodrara Drive",
+"lon": -118.2303013,
+"lat": 34.1772448,
+"n_nodes": 1
+},
+{
+"streets": "Hillside Drive \u00d7 North Verdugo Road",
+"lon": -118.2256895,
+"lat": 34.1772802,
+"n_nodes": 2
+},
+{
+"streets": "Hillside Drive \u00d7 Oakmont Drive",
+"lon": -118.2222032,
+"lat": 34.1772571,
+"n_nodes": 1
+},
+{
+"streets": "Hillside Drive \u00d7 Sierra Place",
+"lon": -118.2348355,
+"lat": 34.1779655,
+"n_nodes": 1
+},
+{
+"streets": "Hillside Drive \u00d7 Wabasso Way",
+"lon": -118.2356365,
+"lat": 34.1796569,
+"n_nodes": 1
+},
+{
+"streets": "Hollister Terrace \u00d7 Scholl Drive",
+"lon": -118.2181181,
+"lat": 34.1519276,
+"n_nodes": 2
+},
+{
+"streets": "Hollister Terrace \u00d7 Tryon Place",
+"lon": -118.21483,
+"lat": 34.1507059,
+"n_nodes": 1
+},
+{
+"streets": "Hollister Terrace \u00d7 Waltonia Drive",
+"lon": -118.2198172,
+"lat": 34.1523305,
+"n_nodes": 1
+},
+{
+"streets": "Holly Drive \u00d7 Merrill Avenue \u00d7 Vallejo Drive",
+"lon": -118.2282089,
+"lat": 34.1513323,
+"n_nodes": 1
+},
+{
+"streets": "Imperial Drive \u00d7 Majestic Way",
+"lon": -118.238812,
+"lat": 34.1694003,
+"n_nodes": 1
+},
+{
+"streets": "Imperial Drive \u00d7 Princess Drive",
+"lon": -118.2374134,
+"lat": 34.1681724,
+"n_nodes": 1
+},
+{
+"streets": "Imperial Drive \u00d7 Royal Boulevard",
+"lon": -118.2368934,
+"lat": 34.1693913,
+"n_nodes": 2
+},
+{
+"streets": "Imperial Drive \u00d7 Toledo Drive",
+"lon": -118.2359448,
+"lat": 34.1674555,
+"n_nodes": 1
+},
+{
+"streets": "Ina Drive \u00d7 Luring Drive",
+"lon": -118.230378,
+"lat": 34.1581774,
+"n_nodes": 1
+},
+{
+"streets": "June Lane \u00d7 North Verdugo Road",
+"lon": -118.2256871,
+"lat": 34.1811333,
+"n_nodes": 1
+},
+{
+"streets": "Kildonan Drive \u00d7 Old Phillips Road",
+"lon": -118.2421455,
+"lat": 34.1751075,
+"n_nodes": 2
+},
+{
+"streets": "Kildonan Drive \u00d7 Sunshine Drive",
+"lon": -118.2384498,
+"lat": 34.1764352,
+"n_nodes": 1
+},
+{
+"streets": "Kilmary Lane \u00d7 Old Phillips Road",
+"lon": -118.2435401,
+"lat": 34.1775653,
+"n_nodes": 1
+},
+{
+"streets": "Kirkby Road \u00d7 North Verdugo Road",
+"lon": -118.2268668,
+"lat": 34.1716495,
+"n_nodes": 1
+},
+{
+"streets": "Kirkby Road \u00d7 The Midway Street",
+"lon": -118.227832,
+"lat": 34.1718048,
+"n_nodes": 1
+},
+{
+"streets": "La Loma Road \u00d7 Woodbury Road",
+"lon": -118.2359806,
+"lat": 34.1532297,
+"n_nodes": 2
+},
+{
+"streets": "La Vista Terrace \u00d7 Wabasso Way",
+"lon": -118.2347956,
+"lat": 34.1794525,
+"n_nodes": 1
+},
+{
+"streets": "La Zenja Drive \u00d7 Moncado Drive",
+"lon": -118.2359121,
+"lat": 34.1654682,
+"n_nodes": 1
+},
+{
+"streets": "Lamego Drive \u00d7 Puebla Drive",
+"lon": -118.2340584,
+"lat": 34.1715952,
+"n_nodes": 1
+},
+{
+"streets": "Las Flores Drive \u00d7 Moreno Drive",
+"lon": -118.2340299,
+"lat": 34.1698034,
+"n_nodes": 1
+},
+{
+"streets": "Las Flores Drive \u00d7 Orosco Drive",
+"lon": -118.2346689,
+"lat": 34.1698123,
+"n_nodes": 1
+},
+{
+"streets": "Las Flores Drive \u00d7 Puebla Drive",
+"lon": -118.2351332,
+"lat": 34.1700826,
+"n_nodes": 1
+},
+{
+"streets": "Las Flores Drive \u00d7 Roca Drive",
+"lon": -118.2325322,
+"lat": 34.1693597,
+"n_nodes": 1
+},
+{
+"streets": "Las Flores Motorway \u00d7 Sunshine Drive",
+"lon": -118.2405223,
+"lat": 34.1781358,
+"n_nodes": 1
+},
+{
+"streets": "Las Positas Road \u00d7 Risa Place",
+"lon": -118.2231809,
+"lat": 34.1841526,
+"n_nodes": 1
+},
+{
+"streets": "Leeridge Terrace \u00d7 Lynglen Drive",
+"lon": -118.2315102,
+"lat": 34.1536498,
+"n_nodes": 1
+},
+{
+"streets": "Leith Road \u00d7 Saint Martin Lane",
+"lon": -118.2156954,
+"lat": 34.1600148,
+"n_nodes": 1
+},
+{
+"streets": "Lockwood Road \u00d7 Marcia Road",
+"lon": -118.2257501,
+"lat": 34.1899897,
+"n_nodes": 2
+},
+{
+"streets": "Lockwood Road \u00d7 Oak Glen Road",
+"lon": -118.225312,
+"lat": 34.1901076,
+"n_nodes": 1
+},
+{
+"streets": "Loma Vista Drive \u00d7 Sherer Lane",
+"lon": -118.2218042,
+"lat": 34.1715699,
+"n_nodes": 1
+},
+{
+"streets": "Loreto Drive \u00d7 Rosemount Road",
+"lon": -118.2390157,
+"lat": 34.16602,
+"n_nodes": 1
+},
+{
+"streets": "Loreto Drive \u00d7 Sinaloa Drive",
+"lon": -118.240537,
+"lat": 34.1649738,
+"n_nodes": 1
+},
+{
+"streets": "Los Encinos Avenue \u00d7 Mira Vista Drive",
+"lon": -118.2238835,
+"lat": 34.1881629,
+"n_nodes": 1
+},
+{
+"streets": "Los Encinos Avenue \u00d7 North Verdugo Road",
+"lon": -118.2257369,
+"lat": 34.1880221,
+"n_nodes": 1
+},
+{
+"streets": "Luton Drive \u00d7 Sinclair Avenue",
+"lon": -118.232745,
+"lat": 34.154064,
+"n_nodes": 1
+},
+{
+"streets": "Majestic Way \u00d7 Royal Boulevard",
+"lon": -118.2383497,
+"lat": 34.1704964,
+"n_nodes": 1
+},
+{
+"streets": "Majestic Way \u00d7 Verde Drive",
+"lon": -118.2384466,
+"lat": 34.1700313,
+"n_nodes": 1
+},
+{
+"streets": "Marcia Road \u00d7 Oakwood Avenue",
+"lon": -118.2255855,
+"lat": 34.1894119,
+"n_nodes": 1
+},
+{
+"streets": "Melwood Drive \u00d7 Remah Vista Drive",
+"lon": -118.2455035,
+"lat": 34.1683934,
+"n_nodes": 1
+},
+{
+"streets": "Menlo Drive \u00d7 North Verdugo Road",
+"lon": -118.2275892,
+"lat": 34.1922182,
+"n_nodes": 2
+},
+{
+"streets": "Menlo Drive \u00d7 Sparr Boulevard",
+"lon": -118.2264684,
+"lat": 34.1934061,
+"n_nodes": 2
+},
+{
+"streets": "Merrill Avenue \u00d7 Orchard Avenue",
+"lon": -118.2283709,
+"lat": 34.1522755,
+"n_nodes": 1
+},
+{
+"streets": "Millar Drive \u00d7 Sinclair Avenue",
+"lon": -118.232661,
+"lat": 34.15305,
+"n_nodes": 1
+},
+{
+"streets": "Mira Vista Drive \u00d7 Vista del Verde Drive",
+"lon": -118.2242357,
+"lat": 34.1874365,
+"n_nodes": 1
+},
+{
+"streets": "Misty Isle Drive \u00d7 Oakengate Drive",
+"lon": -118.2426224,
+"lat": 34.1700968,
+"n_nodes": 1
+},
+{
+"streets": "Misty Isle Drive \u00d7 Remah Vista Drive",
+"lon": -118.2451045,
+"lat": 34.1692187,
+"n_nodes": 1
+},
+{
+"streets": "Montecito Drive \u00d7 Sparr Boulevard",
+"lon": -118.2262103,
+"lat": 34.1925914,
+"n_nodes": 1
+},
+{
+"streets": "Monterey Road \u00d7 Naranja Drive",
+"lon": -118.2396574,
+"lat": 34.1555037,
+"n_nodes": 1
+},
+{
+"streets": "Monterey Road \u00d7 North Adams Street",
+"lon": -118.24044,
+"lat": 34.155742,
+"n_nodes": 1
+},
+{
+"streets": "Monterey Road \u00d7 North Glendale Avenue",
+"lon": -118.2419583,
+"lat": 34.1562195,
+"n_nodes": 3
+},
+{
+"streets": "Monterey Road \u00d7 North Verdugo Road",
+"lon": -118.2374633,
+"lat": 34.1548772,
+"n_nodes": 2
+},
+{
+"streets": "Monterey Road \u00d7 Portola Avenue",
+"lon": -118.2429665,
+"lat": 34.1567203,
+"n_nodes": 1
+},
+{
+"streets": "Moorside Drive \u00d7 Old Phillips Road",
+"lon": -118.2439855,
+"lat": 34.1750143,
+"n_nodes": 1
+},
+{
+"streets": "Moreno Drive \u00d7 Royal Boulevard",
+"lon": -118.2348531,
+"lat": 34.168137,
+"n_nodes": 1
+},
+{
+"streets": "Mountbatten Drive \u00d7 Old Phillips Road",
+"lon": -118.2416431,
+"lat": 34.1760268,
+"n_nodes": 1
+},
+{
+"streets": "Naranja Drive \u00d7 Richard Place",
+"lon": -118.2396497,
+"lat": 34.1525882,
+"n_nodes": 1
+},
+{
+"streets": "Niodrara Drive \u00d7 Wabasso Way",
+"lon": -118.2302736,
+"lat": 34.1783798,
+"n_nodes": 1
+},
+{
+"streets": "North Glendale Avenue \u00d7 North Verdugo Road",
+"lon": -118.2354197,
+"lat": 34.161843,
+"n_nodes": 3
+},
+{
+"streets": "North Verdugo Road \u00d7 Oak Knoll Road",
+"lon": -118.2260177,
+"lat": 34.1750102,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Oakwood Avenue",
+"lon": -118.2266139,
+"lat": 34.1890731,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Opechee Way",
+"lon": -118.2258493,
+"lat": 34.1807261,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Rosita Drive",
+"lon": -118.2255975,
+"lat": 34.1779325,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Sherer Lane",
+"lon": -118.2264026,
+"lat": 34.1733103,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Sparr Boulevard",
+"lon": -118.2271282,
+"lat": 34.1912935,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Tamerlane Drive",
+"lon": -118.2258532,
+"lat": 34.176205,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Towne Street",
+"lon": -118.2277622,
+"lat": 34.1694559,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Verdugo Knolls Drive",
+"lon": -118.225935,
+"lat": 34.175621,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Verdugo Loma Drive",
+"lon": -118.2272467,
+"lat": 34.1703618,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Verdugo Vista Drive",
+"lon": -118.2270236,
+"lat": 34.1710789,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Wabasso Way",
+"lon": -118.2255579,
+"lat": 34.1784294,
+"n_nodes": 1
+},
+{
+"streets": "North Verdugo Road \u00d7 Woodbury Road",
+"lon": -118.2372544,
+"lat": 34.1541328,
+"n_nodes": 2
+},
+{
+"streets": "Oak Glen Road \u00d7 Oakwood Avenue",
+"lon": -118.2251134,
+"lat": 34.1895473,
+"n_nodes": 1
+},
+{
+"streets": "Old Phillips Road \u00d7 Penshore Terrace",
+"lon": -118.244224,
+"lat": 34.1763047,
+"n_nodes": 1
+},
+{
+"streets": "Old Phillips Road \u00d7 Royal Boulevard",
+"lon": -118.2435149,
+"lat": 34.173744,
+"n_nodes": 1
+},
+{
+"streets": "Old Phillips Road \u00d7 Stewarton Way",
+"lon": -118.2441029,
+"lat": 34.1770658,
+"n_nodes": 1
+},
+{
+"streets": "Old Phillips Road \u00d7 Whitehaven Terrace",
+"lon": -118.244296,
+"lat": 34.1754779,
+"n_nodes": 1
+},
+{
+"streets": "Old Phillips Road \u00d7 Wolverton Drive",
+"lon": -118.2442733,
+"lat": 34.1758944,
+"n_nodes": 1
+},
+{
+"streets": "Opechee Way \u00d7 San Luis Rey Drive",
+"lon": -118.2368534,
+"lat": 34.1804214,
+"n_nodes": 1
+},
+{
+"streets": "Opechee Way \u00d7 Selvas Place",
+"lon": -118.2384115,
+"lat": 34.1821981,
+"n_nodes": 1
+},
+{
+"streets": "Opechee Way \u00d7 Sylvan Lane",
+"lon": -118.2278234,
+"lat": 34.180715,
+"n_nodes": 1
+},
+{
+"streets": "Opechee Way \u00d7 Verdugo Court",
+"lon": -118.233016,
+"lat": 34.1806819,
+"n_nodes": 1
+},
+{
+"streets": "Opechee Way \u00d7 Wabasso Way",
+"lon": -118.2361419,
+"lat": 34.1801271,
+"n_nodes": 1
+},
+{
+"streets": "Parcher Place \u00d7 Ridge Drive",
+"lon": -118.2233656,
+"lat": 34.162125,
+"n_nodes": 1
+},
+{
+"streets": "Parkmount Drive \u00d7 Ridge Drive",
+"lon": -118.2234692,
+"lat": 34.1632999,
+"n_nodes": 1
+},
+{
+"streets": "Pasa Glen Drive \u00d7 Pasa Glen Edison Road",
+"lon": -118.2237304,
+"lat": 34.1865691,
+"n_nodes": 1
+},
+{
+"streets": "Polaris Drive \u00d7 Sunshine Drive",
+"lon": -118.2361457,
+"lat": 34.1763084,
+"n_nodes": 1
+},
+{
+"streets": "Princess Drive \u00d7 Royal Boulevard",
+"lon": -118.2365781,
+"lat": 34.1696157,
+"n_nodes": 1
+},
+{
+"streets": "Puebla Drive \u00d7 Royal Boulevard",
+"lon": -118.2360148,
+"lat": 34.1687478,
+"n_nodes": 1
+},
+{
+"streets": "Ridge Drive \u00d7 Solway Street",
+"lon": -118.2233928,
+"lat": 34.1584327,
+"n_nodes": 1
+},
+{
+"streets": "Risa Drive \u00d7 Risa Place",
+"lon": -118.2249959,
+"lat": 34.1836322,
+"n_nodes": 1
+},
+{
+"streets": "Rosemount Road \u00d7 Sinaloa Drive",
+"lon": -118.2400563,
+"lat": 34.1660727,
+"n_nodes": 1
+},
+{
+"streets": "Rosita Drive \u00d7 Wabasso Way",
+"lon": -118.2241798,
+"lat": 34.1783541,
+"n_nodes": 1
+},
+{
+"streets": "Rustic Lane \u00d7 Woodland Avenue",
+"lon": -118.2274936,
+"lat": 34.1863251,
+"n_nodes": 1
+},
+{
+"streets": "Samarkand Place \u00d7 Tamerlane Drive",
+"lon": -118.2243272,
+"lat": 34.1764447,
+"n_nodes": 1
+},
+{
+"streets": "San Gabriel Avenue \u00d7 Santa Rosa Avenue",
+"lon": -118.229163,
+"lat": 34.1919134,
+"n_nodes": 1
+},
+{
+"streets": "San Luis Rey Drive \u00d7 Via Saldivar",
+"lon": -118.240985,
+"lat": 34.1813323,
+"n_nodes": 1
+},
+{
+"streets": "San Luis Rey Drive \u00d7 Via Salvidar",
+"lon": -118.2407083,
+"lat": 34.1813298,
+"n_nodes": 1
+},
+{
+"streets": "Sandringham Drive \u00d7 Sunshine Drive",
+"lon": -118.2368048,
+"lat": 34.175689,
+"n_nodes": 1
+},
+{
+"streets": "Santa Maria Avenue \u00d7 Willow Drive",
+"lon": -118.228114,
+"lat": 34.1899571,
+"n_nodes": 1
+},
+{
+"streets": "Sherer Lane \u00d7 Tambor Drive",
+"lon": -118.2209461,
+"lat": 34.1728114,
+"n_nodes": 1
+},
+{
+"streets": "Sierra Place \u00d7 Wabasso Way",
+"lon": -118.2343727,
+"lat": 34.178972,
+"n_nodes": 1
+},
+{
+"streets": "Sinclair Avenue \u00d7 Wilson Terrace",
+"lon": -118.2324926,
+"lat": 34.1500065,
+"n_nodes": 1
+},
+{
+"streets": "Sunshine Court \u00d7 Sunshine Drive",
+"lon": -118.2332378,
+"lat": 34.1747841,
+"n_nodes": 1
+},
+{
+"streets": "Swarthmore Drive \u00d7 Sweetbriar Drive",
+"lon": -118.233612,
+"lat": 34.162221,
+"n_nodes": 1
+},
+{
+"streets": "The Midway Street \u00d7 Towne Street",
+"lon": -118.228423,
+"lat": 34.1696864,
+"n_nodes": 1
+},
+{
+"streets": "Toledo Drive \u00d7 Torres Drive",
+"lon": -118.2359839,
+"lat": 34.1670492,
+"n_nodes": 1
+},
+{
+"streets": "Vallejo Drive \u00d7 Wilson Terrace",
+"lon": -118.2293104,
+"lat": 34.1489468,
+"n_nodes": 1
+},
+{
+"streets": "Verdugo Knolls Drive \u00d7 Verdugo Knolls Place",
+"lon": -118.2242991,
+"lat": 34.1751929,
+"n_nodes": 1
+}
+]

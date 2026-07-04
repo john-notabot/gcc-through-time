@@ -1,0 +1,191 @@
+[
+ {
+  "flight": "AXJ-1938",
+  "frame": "24-59",
+  "url": "https://mil.library.ucsb.edu/ap_images/axj-1938/axj-1938_24-59.tif",
+  "lon": -118.2446982349188,
+  "lat": 34.15614254611553
+ },
+ {
+  "flight": "AXJ-1938",
+  "frame": "44-6",
+  "url": "https://mil.library.ucsb.edu/ap_images/axj-1938/axj-1938_44-6.tif",
+  "lon": -118.23701114782241,
+  "lat": 34.15592857933227
+ },
+ {
+  "flight": "AXJ-1938",
+  "frame": "44-7",
+  "url": "https://mil.library.ucsb.edu/ap_images/axj-1938/axj-1938_44-7.tif",
+  "lon": -118.2217776968858,
+  "lat": 34.15435632949801
+ },
+ {
+  "flight": "AXJ-1938",
+  "frame": "72-41",
+  "url": "https://mil.library.ucsb.edu/ap_images/axj-1938/axj-1938_72-41.tif",
+  "lon": -118.2437936926713,
+  "lat": 34.17676176559177
+ },
+ {
+  "flight": "AXJ-1938",
+  "frame": "72-42",
+  "url": "https://mil.library.ucsb.edu/ap_images/axj-1938/axj-1938_72-42.tif",
+  "lon": -118.22987356435699,
+  "lat": 34.17788240095797
+ },
+ {
+  "flight": "AXJ-1938",
+  "frame": "72-43",
+  "url": "https://mil.library.ucsb.edu/ap_images/axj-1938/axj-1938_72-43.tif",
+  "lon": -118.2186278957957,
+  "lat": 34.17751655862486
+ },
+ {
+  "flight": "C-22555",
+  "frame": "8-31",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-22555/c-22555_8-31.tif",
+  "lon": -118.23726876971931,
+  "lat": 34.18839634176101
+ },
+ {
+  "flight": "C-22555",
+  "frame": "8-32",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-22555/c-22555_8-32.tif",
+  "lon": -118.22076601783598,
+  "lat": 34.188080598077754
+ },
+ {
+  "flight": "C-22555",
+  "frame": "9-30",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-22555/c-22555_9-30.tif",
+  "lon": -118.24090472592441,
+  "lat": 34.171321673686286
+ },
+ {
+  "flight": "C-22555",
+  "frame": "9-31",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-22555/c-22555_9-31.tif",
+  "lon": -118.228330306131,
+  "lat": 34.17212891473944
+ },
+ {
+  "flight": "C-22555",
+  "frame": "9-32",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-22555/c-22555_9-32.tif",
+  "lon": -118.21264755303753,
+  "lat": 34.17175549576712
+ },
+ {
+  "flight": "C-300",
+  "frame": "K-177",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-300/c-300_k-177.tif",
+  "lon": -118.23708494639526,
+  "lat": 34.194288177792046
+ },
+ {
+  "flight": "C-300",
+  "frame": "K-178",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-300/c-300_k-178.tif",
+  "lon": -118.23617981699944,
+  "lat": 34.185962149127505
+ },
+ {
+  "flight": "C-300",
+  "frame": "K-179",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-300/c-300_k-179.tif",
+  "lon": -118.23365190360285,
+  "lat": 34.177006405675954
+ },
+ {
+  "flight": "C-300",
+  "frame": "K-180",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-300/c-300_k-180.tif",
+  "lon": -118.2305757287162,
+  "lat": 34.1681931422791
+ },
+ {
+  "flight": "C-300",
+  "frame": "K-181",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-300/c-300_k-181.tif",
+  "lon": -118.23810514013825,
+  "lat": 34.15682361110914
+ },
+ {
+  "flight": "C-300",
+  "frame": "K-224",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-300/c-300_k-224.tif",
+  "lon": -118.21194663548307,
+  "lat": 34.18965632794687
+ },
+ {
+  "flight": "C-300",
+  "frame": "K-225",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-300/c-300_k-225.tif",
+  "lon": -118.21035239387237,
+  "lat": 34.17894539496722
+ },
+ {
+  "flight": "C-4051",
+  "frame": "7",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-4051/c-4051_7.tif",
+  "lon": -118.23413394597542,
+  "lat": 34.169380094713894
+ },
+ {
+  "flight": "C-4051",
+  "frame": "8",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-4051/c-4051_8.tif",
+  "lon": -118.23002795784714,
+  "lat": 34.166871546783504
+ },
+ {
+  "flight": "C-4051",
+  "frame": "9",
+  "url": "https://mil.library.ucsb.edu/ap_images/c-4051/c-4051_9.tif",
+  "lon": -118.22634995792117,
+  "lat": 34.16448876129475
+ },
+ {
+  "flight": "TG-2755",
+  "frame": "25-37",
+  "url": "https://mil.library.ucsb.edu/ap_images/tg-2755/tg-2755_25-37.tif",
+  "lon": -118.23473077478772,
+  "lat": 34.154206268930395
+ },
+ {
+  "flight": "TG-2755",
+  "frame": "25-38",
+  "url": "https://mil.library.ucsb.edu/ap_images/tg-2755/tg-2755_25-38.tif",
+  "lon": -118.22379873742102,
+  "lat": 34.154198016295126
+ },
+ {
+  "flight": "TG-2755",
+  "frame": "25-39",
+  "url": "https://mil.library.ucsb.edu/ap_images/tg-2755/tg-2755_25-39.tif",
+  "lon": -118.21286670248907,
+  "lat": 34.15418871601496
+ },
+ {
+  "flight": "TG-2755",
+  "frame": "27-48",
+  "url": "https://mil.library.ucsb.edu/ap_images/tg-2755/tg-2755_27-48.tif",
+  "lon": -118.24056848594952,
+  "lat": 34.18360246607835
+ },
+ {
+  "flight": "TG-3800",
+  "frame": "18-39",
+  "url": "https://mil.library.ucsb.edu/ap_images/tg-3800/tg-3800_18-39.tif",
+  "lon": -118.23375319149484,
+  "lat": 34.15770230962197
+ },
+ {
+  "flight": "TG-3800",
+  "frame": "18-40",
+  "url": "https://mil.library.ucsb.edu/ap_images/tg-3800/tg-3800_18-40.tif",
+  "lon": -118.23346244350331,
+  "lat": 34.17066887864001
+ }
+]

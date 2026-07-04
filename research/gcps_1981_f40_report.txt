@@ -1,0 +1,33 @@
+Bonnybrook Terrace × Oakengate Drive       score 0.37 res   1.2 m
+Don Jose Drive × Ethel Street              score 0.34 res   0.7 m
+Avonoak Terrace × Furman Place             score 0.34 res   2.7 m
+East Chevy Chase Drive × Solway Street     score 0.32 res   1.3 m
+Greenbriar Road × Kirkton Place            score 0.32 res   3.1 m
+East Chevy Chase Drive × Lilac Lane        score 0.30 res   1.4 m
+Arvin Drive × North Verdugo Road           score 0.30 res   4.0 m
+Eden Avenue × Mount Carmel Drive           score 0.30 res   1.4 m
+Academy Place × Kimlin Drive               score 0.29 res   5.1 m
+Glenoaks Boulevard × Glenvista Drive       score 0.29 res   7.1 m
+East Mountain Street × Greenbriar Road ×   score 0.29 res   3.4 m
+Avonoak Terrace × Swarthmore Drive         score 0.28 res   1.9 m
+Kirkby Road × North Verdugo Road           score 0.28 res   1.8 m
+Del Monte Drive × Royal Boulevard          score 0.26 res   5.1 m
+Bara Road × North Verdugo Road             score 0.26 res   2.9 m
+Sunshine Court × Sunshine Drive            score 0.25 res   6.3 m
+Imperial Drive × Princess Drive            score 0.24 res   1.9 m
+Alcalde Way × Royal Boulevard              score 0.24 res   2.2 m
+East Glenoaks Boulevard × Glenoaks Boule   score 0.23 res   4.1 m
+East Mountain Street × Sinaloa Drive       score 0.22 res   5.4 m
+Calle Vaquero × North Verdugo Road         score 0.22 res   1.7 m
+Atkins Drive × Corwin Avenue               score 0.22 res   3.3 m
+Heather Ridge Drive × Misty Isle Drive     score 0.22 res   5.9 m
+Hillcroft Road × San Pablo Drive           score 0.22 res   1.0 m
+Fay Drive × Mildred Drive                  score 0.20 res   1.5 m
+Camulos Avenue × Cañada Boulevard          score 0.20 res   4.4 m
+Colina Drive × Sunshine Drive              score 0.19 res   3.3 m
+Cordova Avenue × Hillcroft Road            score 0.19 res   5.0 m
+Cañada Boulevard × Del Valle Avenue        score 0.19 res   4.1 m
+Don Jose Drive × East Mountain Street      score 0.19 res   2.8 m
+Acorn Place × East Chevy Chase Drive       score 0.18 res   3.9 m
+Cañada Boulevard × Don Carlos Avenue       score 0.18 res   3.8 m
+Armour Place × Wabasso Way                 score 0.18 res   2.5 m

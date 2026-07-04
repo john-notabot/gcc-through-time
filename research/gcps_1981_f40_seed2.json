@@ -1,0 +1,66 @@
+[
+ {
+  "id": "Avonoak Terrace \u00d7 Swarthmore Drive",
+  "px": 3253.159982510619,
+  "py": 3027.667928450626,
+  "lon": -118.230889,
+  "lat": 34.16315,
+  "score": 0.285
+ },
+ {
+  "id": "East Doran Street \u00d7 Galer Place \u00d7 Naranj",
+  "px": 2441.869420177772,
+  "py": 3873.2752151157206,
+  "lon": -118.2396519,
+  "lat": 34.1541046,
+  "score": 0.254
+ },
+ {
+  "id": "Avonoak Terrace \u00d7 Furman Place",
+  "px": 3153.366730309359,
+  "py": 3245.306421623206,
+  "lon": -118.231842,
+  "lat": 34.160966,
+  "score": 0.248
+ },
+ {
+  "id": "Canyon Drive \u00d7 East Chevy Chase Drive",
+  "px": 2850.307667100909,
+  "py": 4166.3669430315185,
+  "lon": -118.2344922,
+  "lat": 34.1515996,
+  "score": 0.227
+ },
+ {
+  "id": "Academy Place \u00d7 Kimlin Drive",
+  "px": 3575.1095200037903,
+  "py": 3802.5327721181447,
+  "lon": -118.2263419,
+  "lat": 34.1558166,
+  "score": 0.224
+ },
+ {
+  "id": "East Chevy Chase Drive \u00d7 East Glenoaks B",
+  "px": 3324.0824918137628,
+  "py": 4019.3198369408806,
+  "lon": -118.229061,
+  "lat": 34.1535,
+  "score": 0.215
+ },
+ {
+  "id": "Briarwood Lane \u00d7 Glenoaks Boulevard",
+  "px": 2945.0004760814227,
+  "py": 3546.8972210207994,
+  "lon": -118.233978,
+  "lat": 34.1577895,
+  "score": 0.158
+ },
+ {
+  "id": "East Lexington Drive \u00d7 North Adams Stree",
+  "px": 2243.5129307164784,
+  "py": 4087.3442505116705,
+  "lon": -118.241839,
+  "lat": 34.1517623,
+  "score": 0.151
+ }
+]

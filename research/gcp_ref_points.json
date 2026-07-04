@@ -1,0 +1,11 @@
+[
+ {"id":"A","lon":-118.23209,"lat":34.16503,"name":"Verdugo x Mountain"},
+ {"id":"B","lon":-118.22889,"lat":34.18014,"name":"Verdugo x Canada fork"},
+ {"id":"C","lon":-118.23706,"lat":34.15775,"name":"Glenoaks x Verdugo"},
+ {"id":"D","lon":-118.22897,"lat":34.18983,"name":"Canada x Country Club"},
+ {"id":"E","lon":-118.24389,"lat":34.16513,"name":"Mountain x N Cedar"},
+ {"id":"F","lon":-118.22713,"lat":34.19129,"name":"Verdugo x Sparr"},
+ {"id":"G","lon":-118.22450,"lat":34.16426,"name":"Camino San Rafael x Mountain"},
+ {"id":"H","lon":-118.23545,"lat":34.15140,"name":"Verdugo x Chevy Chase (approx)"},
+ {"id":"K","lon":-118.23000,"lat":34.16800,"name":"campus quad approx"}
+]
