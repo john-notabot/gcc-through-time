@@ -48,8 +48,12 @@ to the west, Verdugo Rd / Cañada Blvd corridor. Campus at ~34.167 N, -118.230 W
 ## Phase status
 
 - **Phase 1 — Research & source inventory:** COMPLETE 2026-07-03, era list approved
-- **Phase 2 — Georeferencing:** IN PROGRESS (started 2026-07-03). John is pursuing the two
-  archive to-dos (History Room + GCC Archives) in parallel.
+- **Phase 2 — Georeferencing:** COMPLETE 2026-07-03. All 7 era layers registered
+  (RMS 2.1–4.5 m/frame), tiled (25 MB), accuracy documented. John is pursuing the two
+  archive to-dos (History Room + GCC Archives) in parallel — photos will slot into pins.
+- **Phase 3 — Website:** BUILT & tested locally 2026-07-03 (desktop + mobile viewports).
+  **Awaiting: GitHub repo creation + push by John, then phone test = definition of done.**
+- Phase 4 — 3D stretch: not started
 - Phase 3 — Website: not started
 - Phase 4 — 3D stretch: not started
 
