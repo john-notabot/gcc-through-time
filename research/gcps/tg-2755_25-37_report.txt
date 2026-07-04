@@ -1,13 +1,13 @@
-Glenoaks Boulevard × North Adams Street    score 0.52 res   1.0 m
-East Lexington Drive × Naranja Drive       score 0.46 res   1.5 m
-Galer Place × Monterey Road                score 0.45 res   1.1 m
-Galer Place × Richard Place                score 0.44 res   1.9 m
-Grove Place × Monterey Road                score 0.42 res   3.8 m
-Academy Place × Kimlin Drive               score 0.41 res   4.7 m
-East Doran Street × Galer Place × Naranj   score 0.41 res   4.5 m
-Corwin Avenue × East Chevy Chase Drive     score 0.36 res   1.6 m
-East Chevy Chase Drive × Kimlin Drive      score 0.35 res   2.1 m
-Atkins Drive × Corwin Avenue               score 0.33 res   8.7 m
-Atkins Drive × Glen Avenue                 score 0.24 res   2.8 m
-East Chevy Chase Drive × Harvey Drive      score 0.23 res   3.4 m
-Glenoaks Boulevard × North Glendale Aven   score 0.20 res   2.3 m
+Canyon Drive × East Chevy Chase Drive      score 0.48 res   4.8 m
+Canyon Drive × Luton Drive × Millar Driv   score 0.45 res   4.2 m
+East Lexington Drive × Naranja Drive       score 0.42 res   3.6 m
+Galer Place × Monterey Road                score 0.42 res   4.6 m
+Glen Avenue × Luring Drive                 score 0.41 res   2.4 m
+Glenoaks Boulevard × Lynglen Drive         score 0.41 res   2.8 m
+Galer Place × Richard Place                score 0.40 res   0.6 m
+Monterey Road × Naranja Drive              score 0.40 res   3.6 m
+Atkins Drive × Corwin Avenue               score 0.39 res   0.9 m
+Avonglen Terrace × Glenandale Terrace ×    score 0.39 res   2.2 m
+Corwin Avenue × East Chevy Chase Drive     score 0.36 res   7.3 m
+East Doran Street × Galer Place × Naranj   score 0.32 res   3.0 m
+Avonoak Terrace × Glenoaks Boulevard       score 0.29 res   2.0 m

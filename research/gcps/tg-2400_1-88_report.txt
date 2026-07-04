@@ -1,0 +1,35 @@
+Don Jose Drive × Ethel Street              score 0.50 res   0.5 m
+Carmen Drive × Del Rey Drive               score 0.50 res   1.2 m
+East Doran Street × North Glendale Avenu   score 0.48 res   3.6 m
+Galer Place × Monterey Road                score 0.47 res   1.0 m
+Glenoaks Boulevard × North Adams Street    score 0.44 res   0.6 m
+Cordova Avenue × Coronado Drive            score 0.42 res   1.7 m
+Bara Road × Risa Drive                     score 0.42 res   3.7 m
+Alamo Drive × Royal Boulevard              score 0.41 res   1.5 m
+Greenbriar Road × Ivy Bridge Road          score 0.41 res   4.0 m
+Cordova Avenue × Del Rey Drive             score 0.41 res   3.7 m
+Ethel Street × Viscano Drive               score 0.40 res   1.1 m
+Del Monte Drive × Royal Boulevard          score 0.40 res   0.8 m
+Don Jose Drive × East Mountain Street      score 0.39 res   0.9 m
+Carmen Drive × Rosemount Road              score 0.38 res   2.6 m
+Cabrillo Drive × Cordova Avenue            score 0.38 res   3.3 m
+Chudleigh Lane × Greenbriar Road           score 0.37 res   5.4 m
+Cabrillo Drive × Rossmoyne Avenue          score 0.37 res   0.8 m
+East Doran Street × North Adams Street     score 0.36 res   2.7 m
+Cañada Boulevard × Colina Drive            score 0.35 res   6.2 m
+East Doran Street × Galer Place × Naranj   score 0.35 res   2.3 m
+Monterey Road × North Adams Street         score 0.34 res   2.0 m
+Bara Road × Conchita Street                score 0.34 res   5.1 m
+Canyon Drive × Luton Drive × Millar Driv   score 0.32 res   5.5 m
+Greenbriar Road × Rossmoyne Avenue         score 0.32 res   1.3 m
+Alcalde Way × Royal Boulevard              score 0.32 res   4.6 m
+Arvin Drive × North Verdugo Road           score 0.31 res   4.9 m
+Kirkby Road × The Midway Street            score 0.31 res   2.2 m
+Alcalde Drive × Arboles Drive              score 0.29 res   3.8 m
+Hillside Drive × North Verdugo Road        score 0.25 res   1.0 m
+Rosita Drive × Wabasso Way                 score 0.21 res   2.1 m
+Alcalde Drive × Alcalde Way                score 0.20 res   4.4 m
+Cañada Boulevard × Towne Street            score 0.20 res   3.2 m
+Crestmont Court × North Verdugo Road       score 0.19 res   3.2 m
+San Luis Rey Drive × Via Saldivar          score 0.18 res   5.7 m
+East Mountain Street × North Verdugo Roa   score 0.18 res   2.8 m

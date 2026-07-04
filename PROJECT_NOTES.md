@@ -16,6 +16,16 @@ and surrounding Verdugo foothills across 5–7 era snapshots, ~1900 to today.
 | 2026-07-03 | **Era 6 is 1981, not 1979**: TG-3800 film edge is date-stamped 4/28/81; UCSB index said 1979-07 | Trust the film over the index. Era labels updated. Film-edge dates verified for all key frames: 1928, 6/5/38, 8/22/56, 4/3/71, 4/28/81 |
 | 2026-07-03 | Georeferencing method: few manual seed GCPs → gradient template matching at OSM intersections → RANSAC → order-2 polynomial warp | Cross-era SIFT failed (5-10 inliers); local template matching with OSM ground truth gives 30-45 GCPs/frame at ~3-5 m consistency. Eras chain: each matches appearance against the next-later era but coordinates always come from OSM, so errors don't compound |
 
+## Open question for John (era 5)
+
+Imagery evidence contradicts our Phase-1 freeway timeline: the 3/19/68 frame shows SR-2
+past the campus **complete and carrying traffic**, so the canyon segment at GCC opened
+in the mid-1960s. The famously late (1978) piece was the stretch *south* of Mountain St
+down to the 134. The 1971 flight (which we picked for "the freeway cut") also has a
+scanned-coverage gap right across the campus strip (flight row 26 was never scanned).
+Candidate fix: use the May **1960** flight (C-23870, 7 frames, 1:14,400) which may show
+the cut being carved at campus — verification in progress. Era 6 (1981) is unaffected.
+
 ## Working area
 
 Bounding box (approx): Verdugo foothills north of campus, SR-2 (Glendale Freeway) corridor

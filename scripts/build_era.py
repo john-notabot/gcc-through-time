@@ -27,6 +27,9 @@ ap.add_argument("--sift-dim", type=int, default=3000)
 ap.add_argument("--min-inliers", type=int, default=10)
 ap.add_argument("--margin", default="0.085,0.035,0.03,0.035",
                 help="film-collar blanking passed to warp (top,right,bottom,left)")
+ap.add_argument("--use-seed-gcps", action="store_true",
+                help="warp directly from the SIFT seed correspondences (for frames "
+                     "with too little street coverage for template matching)")
 ap.add_argument("--skip-frames-done", action="store_true")
 a = ap.parse_args()
 frames = a.frames.split(",")
@@ -111,6 +114,11 @@ for f in frames:
     g1 = f"research/gcps/{f}_r1.json"
     g2 = f"research/gcps/{f}_auto.json"
     agref = a.autogcp_reference or a.reference
+    if a.use_seed_gcps:
+        if not run([PY, "scripts/gcp_tools.py", "warp", scan, seed, out_tif,
+                    "--order", "2", "--res", "1.0", "--margin", a.margin]):
+            print(f"   !! warp failed for {f}"); continue
+        ok_frames.append(out_tif); continue
     if not run([PY, "scripts/autogcp.py", scan, agref, seed, g1,
                 "--score", "0.15", "--patch", "80", "--search", "100"]):
         print(f"   !! round1 failed for {f}"); continue

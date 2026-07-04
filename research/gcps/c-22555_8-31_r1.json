@@ -1,0 +1,306 @@
+[
+ {
+  "id": "Crestmont Court \u00d7 North Verdugo Road",
+  "px": 856.744505953664,
+  "py": 4120.516380606909,
+  "lon": -118.2261129,
+  "lat": 34.1743716,
+  "score": 0.604
+ },
+ {
+  "id": "Country Club Drive \u00d7 Santa Rosa Avenue",
+  "px": 3339.877393744563,
+  "py": 3648.3129185582357,
+  "lon": -118.2296752,
+  "lat": 34.1906714,
+  "score": 0.558
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Hillside Drive",
+  "px": 1296.9786819971687,
+  "py": 3747.6788043791466,
+  "lon": -118.2289928,
+  "lat": 34.1772427,
+  "score": 0.538
+ },
+ {
+  "id": "Alpha Road \u00d7 North Verdugo Road",
+  "px": 3036.564173283944,
+  "py": 4099.968247708208,
+  "lon": -118.2261827,
+  "lat": 34.1885901,
+  "score": 0.535
+ },
+ {
+  "id": "Bagdad Place \u00d7 North Verdugo Road",
+  "px": 3782.7801106392926,
+  "py": 3818.8247665639674,
+  "lon": -118.2283427,
+  "lat": 34.193563,
+  "score": 0.518
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Del Valle Avenue",
+  "px": 2353.3893733243785,
+  "py": 3732.405033314694,
+  "lon": -118.229067,
+  "lat": 34.1841589,
+  "score": 0.501
+ },
+ {
+  "id": "Bayberry Drive \u00d7 Sparr Boulevard",
+  "px": 3515.7541771198235,
+  "py": 4068.385370395431,
+  "lon": -118.2264067,
+  "lat": 34.1917649,
+  "score": 0.5
+ },
+ {
+  "id": "Armour Place \u00d7 Wabasso Way",
+  "px": 1492.1361489020437,
+  "py": 3255.111269248635,
+  "lon": -118.2328173,
+  "lat": 34.1785616,
+  "score": 0.499
+ },
+ {
+  "id": "Lamego Drive \u00d7 Puebla Drive",
+  "px": 427.02961526707077,
+  "py": 3100.849637759753,
+  "lon": -118.2340584,
+  "lat": 34.1715952,
+  "score": 0.49
+ },
+ {
+  "id": "Camulos Avenue \u00d7 Ca\u00f1ada Boulevard",
+  "px": 1650.6485205150193,
+  "py": 3744.501510292719,
+  "lon": -118.2290036,
+  "lat": 34.1795523,
+  "score": 0.475
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 1713.1271732560995,
+  "py": 4263.282257428407,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.474
+ },
+ {
+  "id": "Country Club Drive \u00d7 Hermosita Drive",
+  "px": 3407.3896202673,
+  "py": 3298.3735392993576,
+  "lon": -118.232405,
+  "lat": 34.1912013,
+  "score": 0.463
+ },
+ {
+  "id": "Hillside Drive \u00d7 North Verdugo Road",
+  "px": 1303.9750645435106,
+  "py": 4171.024849329857,
+  "lon": -118.2256895,
+  "lat": 34.1772802,
+  "score": 0.461
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 862.8620098602223,
+  "py": 3754.7773265641617,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.459
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Don Carlos Avenue",
+  "px": 2530.230735615448,
+  "py": 3731.3931696741524,
+  "lon": -118.2290663,
+  "lat": 34.1853235,
+  "score": 0.459
+ },
+ {
+  "id": "El Rito Avenue \u00d7 Hermosita Drive",
+  "px": 2134.2679538356583,
+  "py": 3196.0623274370478,
+  "lon": -118.2332427,
+  "lat": 34.182795,
+  "score": 0.437
+ },
+ {
+  "id": "Alcalde Drive \u00d7 Arboles Drive",
+  "px": 434.07491580240367,
+  "py": 2818.1673937018213,
+  "lon": -118.2362841,
+  "lat": 34.1716472,
+  "score": 0.435
+ },
+ {
+  "id": "Kirkby Road \u00d7 North Verdugo Road",
+  "px": 437.3642388264743,
+  "py": 4026.010215646161,
+  "lon": -118.2268668,
+  "lat": 34.1716495,
+  "score": 0.434
+ },
+ {
+  "id": "Don Carlos Avenue \u00d7 Hermosita Drive",
+  "px": 2517.6565631380026,
+  "py": 3316.1545238877957,
+  "lon": -118.2322903,
+  "lat": 34.1853037,
+  "score": 0.429
+ },
+ {
+  "id": "Bonita Drive \u00d7 El Rito Avenue",
+  "px": 2166.0864027368502,
+  "py": 3304.3224768939663,
+  "lon": -118.2323993,
+  "lat": 34.1829874,
+  "score": 0.421
+ },
+ {
+  "id": "Kirkby Road \u00d7 The Midway Street",
+  "px": 460.9374824888355,
+  "py": 3903.589435561091,
+  "lon": -118.227832,
+  "lat": 34.1718048,
+  "score": 0.413
+ },
+ {
+  "id": "Colina Drive \u00d7 Hillside Drive",
+  "px": 1378.2475974625677,
+  "py": 3106.943295592596,
+  "lon": -118.2339739,
+  "lat": 34.1778307,
+  "score": 0.412
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Country Club Drive \u00d7 ",
+  "px": 3215.065961962404,
+  "py": 3740.16467607854,
+  "lon": -118.228968,
+  "lat": 34.1898306,
+  "score": 0.409
+ },
+ {
+  "id": "Andenes Drive \u00d7 Descanso Place",
+  "px": 1913.18897811858,
+  "py": 2788.938562674166,
+  "lon": -118.2364131,
+  "lat": 34.1814215,
+  "score": 0.397
+ },
+ {
+  "id": "Andenes Drive \u00d7 Hermosita Drive",
+  "px": 1877.159787644367,
+  "py": 3115.624989275285,
+  "lon": -118.2338867,
+  "lat": 34.1811144,
+  "score": 0.396
+ },
+ {
+  "id": "Andenes Drive \u00d7 Capistrano Avenue \u00d7 El R",
+  "px": 2114.711785600825,
+  "py": 2764.712664208194,
+  "lon": -118.2365882,
+  "lat": 34.1827643,
+  "score": 0.391
+ },
+ {
+  "id": "Blanchard Drive \u00d7 Bonita Drive \u00d7 Opechee",
+  "px": 1817.7112359169228,
+  "py": 3375.5342672741754,
+  "lon": -118.2318606,
+  "lat": 34.1806838,
+  "score": 0.39
+ },
+ {
+  "id": "El Rito Avenue \u00d7 North Verdugo Road",
+  "px": 2194.583998863262,
+  "py": 4130.166042329138,
+  "lon": -118.2259752,
+  "lat": 34.1830751,
+  "score": 0.378
+ },
+ {
+  "id": "Hermosita Drive \u00d7 Ramona Avenue",
+  "px": 2893.5219619828395,
+  "py": 3371.6858970715716,
+  "lon": -118.2318406,
+  "lat": 34.1877735,
+  "score": 0.336
+ },
+ {
+  "id": "Alpha Road \u00d7 Los Encinos Avenue",
+  "px": 3088.750612470148,
+  "py": 4712.252769130693,
+  "lon": -118.221423,
+  "lat": 34.1888911,
+  "score": 0.329
+ },
+ {
+  "id": "El Arbolita Drive \u00d7 Montecito Drive",
+  "px": 3829.877679975023,
+  "py": 4280.011495402468,
+  "lon": -118.2247522,
+  "lat": 34.1938016,
+  "score": 0.322
+ },
+ {
+  "id": "Colina Drive \u00d7 Niodrara Drive",
+  "px": 860.5682904168634,
+  "py": 3549.4424352128144,
+  "lon": -118.2305688,
+  "lat": 34.1743976,
+  "score": 0.283
+ },
+ {
+  "id": "Balmoral Drive \u00d7 Kildonan Drive",
+  "px": 1068.5531489109608,
+  "py": 2276.9404998669465,
+  "lon": -118.240462,
+  "lat": 34.1759287,
+  "score": 0.266
+ },
+ {
+  "id": "Amarillo Drive \u00d7 el Arbolita Drive",
+  "px": 3784.985878719628,
+  "py": 4625.206881332206,
+  "lon": -118.222042,
+  "lat": 34.193502,
+  "score": 0.249
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 564.6751918994432,
+  "py": 4056.4300531870012,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.248
+ },
+ {
+  "id": "Bogue Drive \u00d7 Mira Vista Drive \u00d7 Pasa Gl",
+  "px": 2629.7956112835673,
+  "py": 4119.6003334227,
+  "lon": -118.2260385,
+  "lat": 34.1859469,
+  "score": 0.227
+ },
+ {
+  "id": "Balmoral Drive \u00d7 Sandringham Drive",
+  "px": 959.4331916205747,
+  "py": 2758.6329745398616,
+  "lon": -118.2366476,
+  "lat": 34.1751754,
+  "score": 0.198
+ },
+ {
+  "id": "Doverwood Drive \u00d7 Trafalger Drive",
+  "px": 823.1288912177088,
+  "py": 2227.5846023956083,
+  "lon": -118.2408555,
+  "lat": 34.1742939,
+  "score": 0.153
+ }
+]

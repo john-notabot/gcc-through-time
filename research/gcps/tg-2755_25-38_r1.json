@@ -1,82 +1,66 @@
 [
  {
-  "id": "Harvey Drive \u00d7 Hill Drive",
-  "px": 2734.26519183174,
-  "py": 403.6889610379203,
-  "lon": -118.2262058,
-  "lat": 34.1518284,
-  "score": 0.509
- },
- {
-  "id": "Elvina Drive \u00d7 Glenoaks Boulevard",
-  "px": 2593.2122148483204,
-  "py": 1851.4480739723683,
-  "lon": -118.2192498,
-  "lat": 34.1509031,
-  "score": 0.47
- },
- {
   "id": "East Glenoaks Boulevard \u00d7 Glenoaks Boule",
-  "px": 2906.514053382271,
-  "py": 492.3648806156625,
+  "px": 2898.1644918966604,
+  "py": 492.06845294814366,
   "lon": -118.2257784,
   "lat": 34.1525012,
-  "score": 0.433
+  "score": 0.464
  },
  {
-  "id": "East Chevy Chase Drive \u00d7 Solway Street",
-  "px": 3973.3121141291285,
-  "py": 1185.2340662165243,
-  "lon": -118.2223222,
-  "lat": 34.156663,
-  "score": 0.399
- },
- {
-  "id": "Acorn Place \u00d7 East Chevy Chase Drive",
-  "px": 4302.765573704505,
-  "py": 1636.930892412654,
-  "lon": -118.2200818,
-  "lat": 34.1579092,
-  "score": 0.397
- },
- {
-  "id": "Hollister Terrace \u00d7 Waltonia Drive",
-  "px": 2941.104128976078,
-  "py": 1720.335095571348,
-  "lon": -118.2198172,
-  "lat": 34.1523305,
-  "score": 0.386
- },
- {
-  "id": "Academy Place \u00d7 Kimlin Drive",
-  "px": 3728.227156061264,
-  "py": 351.98249597610265,
-  "lon": -118.2263419,
-  "lat": 34.1558166,
-  "score": 0.345
- },
- {
-  "id": "Glenoaks Boulevard \u00d7 Mount Carmel Drive",
-  "px": 2765.131511072669,
-  "py": 942.2464503582814,
-  "lon": -118.2236326,
-  "lat": 34.1518301,
-  "score": 0.327
- },
- {
-  "id": "Corwin Avenue \u00d7 East Chevy Chase Drive",
-  "px": 3389.7785826413847,
-  "py": 236.37553218345928,
-  "lon": -118.226931,
-  "lat": 34.154472,
-  "score": 0.313
+  "id": "Eden Avenue \u00d7 Harvey Drive",
+  "px": 3083.799884866162,
+  "py": 564.8018624831243,
+  "lon": -118.2254102,
+  "lat": 34.1532236,
+  "score": 0.329
  },
  {
   "id": "East Chevy Chase Drive \u00d7 Harvey Drive",
-  "px": 3560.155429046949,
-  "py": 573.2435195765826,
+  "px": 3547.120432681416,
+  "py": 577.7285111311807,
   "lon": -118.2253099,
   "lat": 34.1550833,
-  "score": 0.284
+  "score": 0.254
+ },
+ {
+  "id": "Acorn Place \u00d7 East Chevy Chase Drive",
+  "px": 4301.553494075905,
+  "py": 1635.6499278673837,
+  "lon": -118.2200818,
+  "lat": 34.1579092,
+  "score": 0.244
+ },
+ {
+  "id": "Hollister Terrace \u00d7 Waltonia Drive",
+  "px": 2946.0496941828837,
+  "py": 1721.8254036232997,
+  "lon": -118.2198172,
+  "lat": 34.1523305,
+  "score": 0.218
+ },
+ {
+  "id": "Cascadia Drive \u00d7 East Chevy Chase Drive",
+  "px": 4640.921142170191,
+  "py": 2068.3883522368383,
+  "lon": -118.2179456,
+  "lat": 34.1592253,
+  "score": 0.193
+ },
+ {
+  "id": "Elvina Drive \u00d7 Glenoaks Boulevard",
+  "px": 2593.2344948657264,
+  "py": 1848.7689395870511,
+  "lon": -118.2192498,
+  "lat": 34.1509031,
+  "score": 0.192
+ },
+ {
+  "id": "Elvina Drive \u00d7 Hollister Terrace",
+  "px": 2925.5767398602343,
+  "py": 1903.7720565416307,
+  "lon": -118.2189467,
+  "lat": 34.1522281,
+  "score": 0.164
  }
 ]

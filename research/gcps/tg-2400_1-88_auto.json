@@ -1,0 +1,282 @@
+[
+ {
+  "id": "Don Jose Drive \u00d7 Ethel Street",
+  "px": 1021.1199610061067,
+  "py": 2802.1927927056668,
+  "lon": -118.2362658,
+  "lat": 34.1630707,
+  "score": 0.5
+ },
+ {
+  "id": "Carmen Drive \u00d7 Del Rey Drive",
+  "px": 1040.6206658298388,
+  "py": 2323.7287304944707,
+  "lon": -118.24211,
+  "lat": 34.1632553,
+  "score": 0.498
+ },
+ {
+  "id": "East Doran Street \u00d7 North Glendale Avenu",
+  "px": 108.0602948330079,
+  "py": 2189.138788884205,
+  "lon": -118.2436439,
+  "lat": 34.1535359,
+  "score": 0.481
+ },
+ {
+  "id": "Galer Place \u00d7 Monterey Road",
+  "px": 275.6796444968368,
+  "py": 2577.189748919863,
+  "lon": -118.2389011,
+  "lat": 34.155274,
+  "score": 0.471
+ },
+ {
+  "id": "Glenoaks Boulevard \u00d7 North Adams Street ",
+  "px": 554.3220962884025,
+  "py": 2592.4367469254416,
+  "lon": -118.2387584,
+  "lat": 34.1581986,
+  "score": 0.441
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Coronado Drive",
+  "px": 609.9037420354234,
+  "py": 2283.4085816279426,
+  "lon": -118.242555,
+  "lat": 34.158773,
+  "score": 0.421
+ },
+ {
+  "id": "Bara Road \u00d7 Risa Drive",
+  "px": 2681.303772589995,
+  "py": 3823.8491437245757,
+  "lon": -118.2240979,
+  "lat": 34.180435,
+  "score": 0.416
+ },
+ {
+  "id": "Alamo Drive \u00d7 Royal Boulevard",
+  "px": 1470.4134394900252,
+  "py": 2955.142239503735,
+  "lon": -118.2344747,
+  "lat": 34.167785,
+  "score": 0.414
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Ivy Bridge Road",
+  "px": 1878.2635698251383,
+  "py": 2213.0909690498534,
+  "lon": -118.2435765,
+  "lat": 34.1720394,
+  "score": 0.413
+ },
+ {
+  "id": "Cordova Avenue \u00d7 Del Rey Drive",
+  "px": 1059.0272718381539,
+  "py": 2239.564412553439,
+  "lon": -118.2431234,
+  "lat": 34.163428,
+  "score": 0.406
+ },
+ {
+  "id": "Ethel Street \u00d7 Viscano Drive",
+  "px": 818.59130163601,
+  "py": 2508.3356034628896,
+  "lon": -118.2398325,
+  "lat": 34.1609428,
+  "score": 0.402
+ },
+ {
+  "id": "Del Monte Drive \u00d7 Royal Boulevard",
+  "px": 1352.1862893338407,
+  "py": 3001.8098346449083,
+  "lon": -118.2338759,
+  "lat": 34.1665373,
+  "score": 0.396
+ },
+ {
+  "id": "Don Jose Drive \u00d7 East Mountain Street",
+  "px": 1112.035005688902,
+  "py": 2667.7292335010466,
+  "lon": -118.2379293,
+  "lat": 34.1640133,
+  "score": 0.393
+ },
+ {
+  "id": "Carmen Drive \u00d7 Rosemount Road",
+  "px": 1333.7538405985042,
+  "py": 2419.968281827139,
+  "lon": -118.2409994,
+  "lat": 34.1663501,
+  "score": 0.384
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Cordova Avenue",
+  "px": 911.2453902460356,
+  "py": 2213.822171168709,
+  "lon": -118.2434195,
+  "lat": 34.1618847,
+  "score": 0.383
+ },
+ {
+  "id": "Chudleigh Lane \u00d7 Greenbriar Road",
+  "px": 1814.2040391936785,
+  "py": 2283.344511509487,
+  "lon": -118.2427196,
+  "lat": 34.1713901,
+  "score": 0.368
+ },
+ {
+  "id": "Cabrillo Drive \u00d7 Rossmoyne Avenue",
+  "px": 881.1412598717316,
+  "py": 2338.929318540708,
+  "lon": -118.2419129,
+  "lat": 34.1615977,
+  "score": 0.366
+ },
+ {
+  "id": "East Doran Street \u00d7 North Adams Street",
+  "px": 129.17120852397693,
+  "py": 2352.4729320862566,
+  "lon": -118.2416455,
+  "lat": 34.153754,
+  "score": 0.365
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Colina Drive",
+  "px": 2110.0019687501926,
+  "py": 3414.9803555008566,
+  "lon": -118.2289664,
+  "lat": 34.1744087,
+  "score": 0.35
+ },
+ {
+  "id": "East Doran Street \u00d7 Galer Place \u00d7 Naranj",
+  "px": 164.5797924409626,
+  "py": 2515.2899617688695,
+  "lon": -118.2396519,
+  "lat": 34.1541046,
+  "score": 0.35
+ },
+ {
+  "id": "Monterey Road \u00d7 North Adams Street",
+  "px": 320.78669553273994,
+  "py": 2453.044790580018,
+  "lon": -118.24044,
+  "lat": 34.155742,
+  "score": 0.344
+ },
+ {
+  "id": "Bara Road \u00d7 Conchita Street",
+  "px": 2636.0126756889263,
+  "py": 3753.403156768774,
+  "lon": -118.2249535,
+  "lat": 34.1799362,
+  "score": 0.335
+ },
+ {
+  "id": "Canyon Drive \u00d7 Luton Drive \u00d7 Millar Driv",
+  "px": 122.46878212663887,
+  "py": 2953.0243540598526,
+  "lon": -118.234227,
+  "lat": 34.153675,
+  "score": 0.323
+ },
+ {
+  "id": "Greenbriar Road \u00d7 Rossmoyne Avenue",
+  "px": 1336.011737455221,
+  "py": 2737.2179779061753,
+  "lon": -118.2371274,
+  "lat": 34.1663612,
+  "score": 0.322
+ },
+ {
+  "id": "Alcalde Way \u00d7 Royal Boulevard",
+  "px": 1997.896913027896,
+  "py": 2281.729033935343,
+  "lon": -118.2427645,
+  "lat": 34.1732999,
+  "score": 0.32
+ },
+ {
+  "id": "Arvin Drive \u00d7 North Verdugo Road",
+  "px": 1915.1198516466225,
+  "py": 3601.468184532344,
+  "lon": -118.2266311,
+  "lat": 34.1724746,
+  "score": 0.312
+ },
+ {
+  "id": "Kirkby Road \u00d7 The Midway Street",
+  "px": 1853.5704022365367,
+  "py": 3502.872027095028,
+  "lon": -118.227832,
+  "lat": 34.1718048,
+  "score": 0.306
+ },
+ {
+  "id": "Alcalde Drive \u00d7 Arboles Drive",
+  "px": 1839.3972592459218,
+  "py": 2813.8881170351347,
+  "lon": -118.2362841,
+  "lat": 34.1716472,
+  "score": 0.288
+ },
+ {
+  "id": "Hillside Drive \u00d7 North Verdugo Road",
+  "px": 2379.857962556753,
+  "py": 3686.3628089522554,
+  "lon": -118.2256895,
+  "lat": 34.1772802,
+  "score": 0.249
+ },
+ {
+  "id": "Rosita Drive \u00d7 Wabasso Way",
+  "px": 2479.8292679037772,
+  "py": 3811.9772103294167,
+  "lon": -118.2241798,
+  "lat": 34.1783541,
+  "score": 0.214
+ },
+ {
+  "id": "Alcalde Drive \u00d7 Alcalde Way",
+  "px": 1878.84781837645,
+  "py": 2568.498577461633,
+  "lon": -118.2392644,
+  "lat": 34.1719869,
+  "score": 0.2
+ },
+ {
+  "id": "Ca\u00f1ada Boulevard \u00d7 Towne Street",
+  "px": 1645.5508918176606,
+  "py": 3396.9109274146417,
+  "lon": -118.229072,
+  "lat": 34.1696171,
+  "score": 0.197
+ },
+ {
+  "id": "Crestmont Court \u00d7 North Verdugo Road",
+  "px": 2098.516684617323,
+  "py": 3646.1087890736217,
+  "lon": -118.2261129,
+  "lat": 34.1743716,
+  "score": 0.188
+ },
+ {
+  "id": "San Luis Rey Drive \u00d7 Via Saldivar",
+  "px": 2775.2187788027704,
+  "py": 2438.9269318501233,
+  "lon": -118.240985,
+  "lat": 34.1813323,
+  "score": 0.183
+ },
+ {
+  "id": "East Mountain Street \u00d7 North Verdugo Roa",
+  "px": 1206.1822178697566,
+  "py": 3144.9824261589883,
+  "lon": -118.2320885,
+  "lat": 34.1650321,
+  "score": 0.182
+ }
+]

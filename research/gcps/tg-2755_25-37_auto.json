@@ -1,106 +1,106 @@
 [
  {
-  "id": "Glenoaks Boulevard \u00d7 North Adams Street ",
-  "px": 4310.865684306641,
-  "py": 317.1759194816148,
-  "lon": -118.2387584,
-  "lat": 34.1581986,
-  "score": 0.519
+  "id": "Canyon Drive \u00d7 East Chevy Chase Drive",
+  "px": 2733.1602480159736,
+  "py": 1356.9354461980147,
+  "lon": -118.2344922,
+  "lat": 34.1515996,
+  "score": 0.48
+ },
+ {
+  "id": "Canyon Drive \u00d7 Luton Drive \u00d7 Millar Driv",
+  "px": 3268.0128611301866,
+  "py": 1361.0675483941275,
+  "lon": -118.234227,
+  "lat": 34.153675,
+  "score": 0.446
  },
  {
   "id": "East Lexington Drive \u00d7 Naranja Drive",
-  "px": 2670.566904240859,
-  "py": 261.25163122452165,
+  "px": 2671.23081678055,
+  "py": 263.2077032633788,
   "lon": -118.2396441,
   "lat": 34.1517427,
-  "score": 0.461
+  "score": 0.422
  },
  {
   "id": "Galer Place \u00d7 Monterey Road",
-  "px": 3571.875968341479,
-  "py": 347.39859447923624,
+  "px": 3574.7473809194207,
+  "py": 348.47816877918297,
   "lon": -118.2389011,
   "lat": 34.155274,
-  "score": 0.448
+  "score": 0.422
  },
  {
-  "id": "Galer Place \u00d7 Richard Place",
-  "px": 2899.700554351945,
-  "py": 443.6112667610576,
-  "lon": -118.2387185,
-  "lat": 34.1525809,
-  "score": 0.436
+  "id": "Glen Avenue \u00d7 Luring Drive",
+  "px": 4247.518006204093,
+  "py": 2143.676733554319,
+  "lon": -118.2300359,
+  "lat": 34.157229,
+  "score": 0.41
  },
  {
-  "id": "Grove Place \u00d7 Monterey Road",
-  "px": 3530.5162345098975,
-  "py": 524.2776032851086,
-  "lon": -118.2381085,
-  "lat": 34.1550549,
-  "score": 0.419
- },
- {
-  "id": "Academy Place \u00d7 Kimlin Drive",
-  "px": 3916.3207050317897,
-  "py": 2943.793291862741,
-  "lon": -118.2263419,
-  "lat": 34.1558166,
+  "id": "Glenoaks Boulevard \u00d7 Lynglen Drive",
+  "px": 3439.967373692377,
+  "py": 2129.584457304675,
+  "lon": -118.230493,
+  "lat": 34.154127,
   "score": 0.408
  },
  {
-  "id": "East Doran Street \u00d7 Galer Place \u00d7 Naranj",
-  "px": 3273.1600922883968,
-  "py": 206.71123612585342,
-  "lon": -118.2396519,
-  "lat": 34.1541046,
-  "score": 0.406
+  "id": "Galer Place \u00d7 Richard Place",
+  "px": 2899.860719143596,
+  "py": 443.13805040734997,
+  "lon": -118.2387185,
+  "lat": 34.1525809,
+  "score": 0.403
  },
  {
-  "id": "Corwin Avenue \u00d7 East Chevy Chase Drive",
-  "px": 3578.8901503610414,
-  "py": 2851.6010951263693,
-  "lon": -118.226931,
-  "lat": 34.154472,
-  "score": 0.36
- },
- {
-  "id": "East Chevy Chase Drive \u00d7 Kimlin Drive",
-  "px": 3695.853153174011,
-  "py": 3045.2962894368507,
-  "lon": -118.2259235,
-  "lat": 34.1548824,
-  "score": 0.35
+  "id": "Monterey Road \u00d7 Naranja Drive",
+  "px": 3620.9483810389233,
+  "py": 182.03610096069815,
+  "lon": -118.2396574,
+  "lat": 34.1555037,
+  "score": 0.4
  },
  {
   "id": "Atkins Drive \u00d7 Corwin Avenue",
-  "px": 3826.0709348957507,
-  "py": 2286.0908882796602,
+  "px": 3826.828229412082,
+  "py": 2285.4311296462993,
   "lon": -118.2295527,
   "lat": 34.1555581,
-  "score": 0.329
+  "score": 0.389
  },
  {
-  "id": "Atkins Drive \u00d7 Glen Avenue",
-  "px": 4462.194142683556,
-  "py": 2285.2670645446,
-  "lon": -118.2292914,
-  "lat": 34.1581187,
-  "score": 0.238
+  "id": "Avonglen Terrace \u00d7 Glenandale Terrace \u00d7 ",
+  "px": 4324.05303200719,
+  "py": 1713.5040122581424,
+  "lon": -118.232068,
+  "lat": 34.157672,
+  "score": 0.389
  },
  {
-  "id": "East Chevy Chase Drive \u00d7 Harvey Drive",
-  "px": 3754.8203238563037,
-  "py": 3166.60433277192,
-  "lon": -118.2253099,
-  "lat": 34.1550833,
-  "score": 0.231
+  "id": "Corwin Avenue \u00d7 East Chevy Chase Drive",
+  "px": 3580.291609212189,
+  "py": 2850.736628482372,
+  "lon": -118.226931,
+  "lat": 34.154472,
+  "score": 0.359
  },
  {
-  "id": "Glenoaks Boulevard \u00d7 North Glendale Aven",
-  "px": 4441.375649405341,
-  "py": 66.82042141707001,
-  "lon": -118.2398944,
-  "lat": 34.1588034,
-  "score": 0.204
+  "id": "East Doran Street \u00d7 Galer Place \u00d7 Naranj",
+  "px": 3272.5381603646974,
+  "py": 207.09481429294726,
+  "lon": -118.2396519,
+  "lat": 34.1541046,
+  "score": 0.321
+ },
+ {
+  "id": "Avonoak Terrace \u00d7 Glenoaks Boulevard",
+  "px": 4350.892162302076,
+  "py": 1483.6437737363624,
+  "lon": -118.2331425,
+  "lat": 34.1578544,
+  "score": 0.287
  }
 ]
