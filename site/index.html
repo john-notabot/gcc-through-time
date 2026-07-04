@@ -16,6 +16,11 @@
   <button id="btn-about" aria-label="About this map">?</button>
 </header>
 
+<button id="mode-toggle" aria-pressed="false"
+        title="Switch between AI-assisted color reconstruction and the original scans">
+  <span>Color reconstruction</span>
+</button>
+
 <div id="era-badge" aria-live="polite">
   <span id="era-year"></span>
   <span id="era-label"></span>
@@ -41,11 +46,13 @@
     the Verdugo foothills, aligned across a century. <strong>Drag the slider</strong>
     to watch the campus appear, the streets fill in, and the freeway cut through
     the hills. Tap the <span class="pin-demo">◉</span> markers for stories.</p>
-    <p class="fine">Historical imagery courtesy of the UCSB Library Geospatial
-    Collection; USGS topographic maps and USDA NAIP orthoimagery (public domain).
-    The 1971 view is a 1968–71 composite where the 1971 flight left a gap.
-    Historical frames are aligned to the modern street grid to within a few
-    meters; hillsides may shift slightly between eras.
+    <p class="fine"><strong>What you see by default is a reconstruction:</strong>
+    the historical photographs are black-and-white; their colors here are
+    transferred from today's imagery, gaps are filled from neighboring years,
+    and the ~1900 view is rebuilt from 1928 photography guided by the 1900
+    map. Use the <em>Original imagery</em> toggle to see the untouched scans.
+    Historical imagery courtesy of the UCSB Library Geospatial Collection;
+    USGS topographic maps and USDA NAIP orthoimagery (public domain).
     <a href="#" id="credits-link">Full credits & sources</a>.</p>
     <button id="intro-start">Explore</button>
   </div>
@@ -56,6 +63,12 @@
     <button id="credits-close" aria-label="Close">×</button>
     <h2>Credits & sources</h2>
     <ul id="credits-list"></ul>
+    <p class="fine"><strong>About the color view:</strong> the default "color
+    reconstruction" is derived imagery — historical black-and-white photographs
+    with colors transferred from the 2022 orthoimagery, coverage gaps filled
+    from the nearest year, and the ~1900 layer synthesized from 1928
+    photography. It is an interpretation, not a historical record; flip the
+    toggle for the original scans.</p>
     <p class="fine">Streets and control points: © OpenStreetMap contributors
     (<a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">openstreetmap.org/copyright</a>).
     Site built for the GCC community; not an official college publication.

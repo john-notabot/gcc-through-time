@@ -15,21 +15,28 @@
       paint: { "background-color": "#23201a" }
     }]
   };
+  // two layer sets: "color" (AI-assisted reconstruction, default) and "orig"
+  const MODES = ["color", "orig"];
+  let mode = "color";
   ERAS.forEach(e => {
-    style.sources["era" + e.id] = {
-      type: "raster",
-      tiles: ["tiles/" + e.id + "/{z}/{x}/{y}.webp"],
-      tileSize: 256,
-      minzoom: 11, maxzoom: 17,
-      bounds: [AOI.w, AOI.s, AOI.e, AOI.n]
-    };
-    style.layers.push({
-      id: "era" + e.id, type: "raster", source: "era" + e.id,
-      paint: {
-        "raster-opacity": 0,
-        "raster-fade-duration": 0,
-        "raster-resampling": "linear"
-      }
+    MODES.forEach(m => {
+      // 2022 is already color imagery — both modes share the original tiles
+      const path = (m === "color" && e.id !== "2022") ? "color/" + e.id : "orig/" + e.id;
+      style.sources["era" + e.id + m] = {
+        type: "raster",
+        tiles: ["tiles/" + path + "/{z}/{x}/{y}.webp"],
+        tileSize: 256,
+        minzoom: 11, maxzoom: 17,
+        bounds: [AOI.w, AOI.s, AOI.e, AOI.n]
+      };
+      style.layers.push({
+        id: "era" + e.id + m, type: "raster", source: "era" + e.id + m,
+        paint: {
+          "raster-opacity": 0,
+          "raster-fade-duration": 0,
+          "raster-resampling": "linear"
+        }
+      });
     });
   });
 
@@ -62,7 +69,9 @@
   function apply(v) {
     ERAS.forEach((e, i) => {
       const o = Math.max(0, 1 - Math.abs(v - i));
-      map.setPaintProperty("era" + e.id, "raster-opacity", o);
+      MODES.forEach(m => {
+        map.setPaintProperty("era" + e.id + m, "raster-opacity", m === mode ? o : 0);
+      });
     });
     const idx = Math.round(v);
     if (yearEl.textContent !== ERAS[idx].year) {
@@ -102,6 +111,17 @@
   });
 
   map.on("load", () => apply(parseFloat(slider.value)));
+
+  // ---------- mode toggle ----------
+  const toggle = document.getElementById("mode-toggle");
+  toggle.addEventListener("click", () => {
+    mode = mode === "color" ? "orig" : "color";
+    toggle.setAttribute("aria-pressed", mode === "orig" ? "true" : "false");
+    toggle.querySelector("span").textContent =
+      mode === "color" ? "Color reconstruction" : "Original imagery";
+    toggle.classList.toggle("orig", mode === "orig");
+    apply(parseFloat(slider.value));
+  });
 
   // ---------- story pins ----------
   const card = document.getElementById("pin-card");

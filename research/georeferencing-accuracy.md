@@ -35,3 +35,18 @@ at patch centers (~its own RMS).
   and frame edges before warping (see build_era.py --margin).
 - Frame date stamps override the UCSB index where they disagree (TG-3800: stamped
   4/28/81 vs indexed 1979-07).
+
+## Color reconstruction layer set (added 2026-07-04)
+
+Second tile set `site/tiles/color/` (default view; toggle for originals):
+- All frames re-warped at 0.6 m/px from the saved GCPs (recovers native scan detail)
+- Every era gap-filled to 100% AOI coverage from temporal neighbours
+  (1928←1938, 1938←1928/1956, 1956←1968, 1971←1968/1981, 1981←1971/2022),
+  luminance histogram-matched per fill
+- Colorized by transferring low-passed Lab chrominance from the aligned NAIP 2022
+  image; where historical/modern structure disagrees, chroma falls back to a neutral
+  terrain palette. Luminance histogram-matched to NAIP for era-to-era tonal consistency
+- ~1900 color layer is SYNTHETIC: colorized 1928 photography with development removed
+  (narrow-bright-feature inpainting + donor-texture synthesis in the flats). Labeled
+  as an AI-assisted reconstruction in the site UI. Known artifacts: faint grid ghosts,
+  patch seams in the flats, mushy far-SE corner. Iterate later.
