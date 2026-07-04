@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.2312, 34.1672] },
+      "properties": {
+        "title": "The 1937 campus",
+        "body": "Glendale Junior College opened here in 1937 after a decade downtown — including three years in fifteen tent bungalows. The original Administration building (now Davitt Hall) and Science building were designed by architect George M. Lindsey, funded by a district bond and a federal PWA grant, with grounds graded and landscaped by WPA crews. Slide to 1928 and the site is bare hillside; by 1938 the white buildings stand alone against the Verdugos.",
+        "eras": "1928 → 1938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.2258, 34.1690] },
+      "properties": {
+        "title": "The freeway cut",
+        "body": "The Glendale Freeway was blasted and graded through the ridge directly behind campus in the early 1970s. Its final segment — from the 134 up past Mountain Street — was finished years before it opened in spring 1978, and the empty roadway became a favorite film location. Slide between 1956, 1971 and 1981 to watch the hillside open up.",
+        "eras": "1956 → 1971 → 1981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.2321, 34.1650] },
+      "properties": {
+        "title": "Verdugo Road, the old Route 2",
+        "body": "Before the freeway, Verdugo Road itself was signed as State Route 2 — the main highway from Glendale into the Crescenta Valley. In the 1956 and 1968 imagery it runs thick with traffic past the campus gates. The pedestrian bridge that now carries students over it came later.",
+        "eras": "1956 → 1981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.2290, 34.1800] },
+      "properties": {
+        "title": "Rails up the canyon",
+        "body": "The ~1900 map and the 1928 photograph both show a rail line threading Verdugo Canyon — the interurban line that carried passengers and stone from the quarries toward Montrose. Its right-of-way shaped the corridor that Cañada Boulevard and the freeway later followed.",
+        "eras": "1900 → 1928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.2220, 34.1860] },
+      "properties": {
+        "title": "Subdivisions climb the hills",
+        "body": "Watch the foothills between 1938 and 1981: first the valley floor fills, then cul-de-sacs and graded pads march up the slopes. The scarred, terraced hillsides visible in the 1960s–70s imagery are brand-new subdivisions being cut into the Verdugos.",
+        "eras": "1938 → 1981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.2400, 34.1535] },
+      "properties": {
+        "title": "The interchange",
+        "body": "In the April 1971 photograph, the 2/134 interchange is a raw construction site — bright freshly-moved earth and half-built ramps. Ten years later it is a working stack interchange carrying commuters past Glendale.",
+        "eras": "1971 → 1981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-118.2320, 34.1655] },
+      "properties": {
+        "title": "Verdugo Swim Stadium",
+        "body": "Across Verdugo Road from campus, the public swim stadium and Verdugo Park appear in mid-century imagery — a summer landmark for generations of students. (Ground-level historical photos are being requested from the Glendale History Room.)",
+        "eras": "1956 → Today"
+      }
+    }
+  ]
+}

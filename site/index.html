@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>GCC Through Time — the Glendale College campus, 1900 to today</title>
+<meta name="description" content="Slide through a century of aerial photography over Glendale Community College and the Verdugo foothills.">
+<link rel="stylesheet" href="vendor/maplibre-gl.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="map" role="application" aria-label="Historical map of the Glendale College area"></div>
+
+<header id="titlebar">
+  <h1>GCC Through Time</h1>
+  <button id="btn-about" aria-label="About this map">?</button>
+</header>
+
+<div id="era-badge" aria-live="polite">
+  <span id="era-year"></span>
+  <span id="era-label"></span>
+</div>
+
+<div id="slider-wrap">
+  <input id="slider" type="range" min="0" max="6" step="0.01" value="6"
+         aria-label="Time slider: drag to move between eras">
+  <div id="ticks" aria-hidden="true"></div>
+</div>
+
+<div id="pin-card" hidden>
+  <button id="pin-close" aria-label="Close">×</button>
+  <h2 id="pin-title"></h2>
+  <p id="pin-body"></p>
+  <p id="pin-eras"></p>
+</div>
+
+<div id="intro" role="dialog" aria-modal="true" aria-labelledby="intro-h">
+  <div id="intro-panel">
+    <h2 id="intro-h">GCC Through Time</h2>
+    <p>Aerial photographs and maps of the Glendale Community College campus and
+    the Verdugo foothills, aligned across a century. <strong>Drag the slider</strong>
+    to watch the campus appear, the streets fill in, and the freeway cut through
+    the hills. Tap the <span class="pin-demo">◉</span> markers for stories.</p>
+    <p class="fine">Historical imagery courtesy of the UCSB Library Geospatial
+    Collection; USGS topographic maps and USDA NAIP orthoimagery (public domain).
+    The 1971 view is a 1968–71 composite where the 1971 flight left a gap.
+    Historical frames are aligned to the modern street grid to within a few
+    meters; hillsides may shift slightly between eras.
+    <a href="#" id="credits-link">Full credits & sources</a>.</p>
+    <button id="intro-start">Explore</button>
+  </div>
+</div>
+
+<div id="credits" role="dialog" aria-modal="true" hidden>
+  <div id="credits-panel">
+    <button id="credits-close" aria-label="Close">×</button>
+    <h2>Credits & sources</h2>
+    <ul id="credits-list"></ul>
+    <p class="fine">Streets and control points: © OpenStreetMap contributors
+    (<a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">openstreetmap.org/copyright</a>).
+    Site built for the GCC community; not an official college publication.
+    Historical terrain and alignment are best-effort reconstructions — see the
+    project's accuracy notes.</p>
+  </div>
+</div>
+
+<script src="vendor/maplibre-gl.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

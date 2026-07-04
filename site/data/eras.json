@@ -1,0 +1,55 @@
+{
+  "eras": [
+    {
+      "id": "1900",
+      "year": "~1900",
+      "label": "Ranchland",
+      "blurb": "Verdugo Canyon before the city: a wagon road, a rail line, scattered ranch houses. From the USGS Pasadena topographic map, surveyed 1894–1900 — no aerial photographs exist this early.",
+      "credit": "USGS Historical Topographic Map Collection, Pasadena quadrangle (1900 ed.), public domain",
+      "isMap": true
+    },
+    {
+      "id": "1928",
+      "year": "1928",
+      "label": "Bare hillside",
+      "blurb": "Glendale Junior College is one year old, meeting in borrowed high-school rooms downtown. The future campus site is empty foothill land; speculative street grids are freshly graded in the flats.",
+      "credit": "Fairchild Aerial Surveys flight C-300, Jan 1928. Courtesy of UCSB Library Geospatial Collection."
+    },
+    {
+      "id": "1938",
+      "year": "1938",
+      "label": "The new campus",
+      "blurb": "The brand-new Verdugo Road campus, opened 1937 — built with PWA funds and WPA-graded grounds after three years of classes held in tent bungalows.",
+      "credit": "USDA flight AXJ-1938, June 1938. Courtesy of UCSB Library Geospatial Collection."
+    },
+    {
+      "id": "1956",
+      "year": "1956",
+      "label": "Postwar boom",
+      "blurb": "Subdivisions fill the valley and climb the lower slopes. Verdugo Road — then signed as State Route 2 — is the busy surface highway past campus. The canyon behind campus is still wild.",
+      "credit": "Flight C-22555, Aug 22 1956. Courtesy of UCSB Library Geospatial Collection."
+    },
+    {
+      "id": "1971",
+      "year": "1971",
+      "label": "The freeway cut",
+      "blurb": "The Glendale Freeway is carved through the hills. Fresh grading gleams at the 134 interchange. This view is a composite: 1971 photography where it exists, filled with 1968 imagery in a band near campus that the 1971 flight never captured.",
+      "credit": "Teledyne Geotronics flights TG-2755 (Apr 3 1971) and TG-2400 (Mar 19 1968). Courtesy of UCSB Library Geospatial Collection.",
+      "composite": true
+    },
+    {
+      "id": "1981",
+      "year": "1981",
+      "label": "Freeway open",
+      "blurb": "The 2 finally opened in spring 1978 — its last segment sat finished but closed for years, famous as a film location. The modern street pattern is complete.",
+      "credit": "Teledyne Geotronics flight TG-3800, Apr 28 1981. Courtesy of UCSB Library Geospatial Collection."
+    },
+    {
+      "id": "2022",
+      "year": "Today",
+      "label": "The campus at ninety-five",
+      "blurb": "Today's campus against the same mountains: parking structures, the pedestrian bridge over Verdugo Road, and the freeway in its cut behind the hill.",
+      "credit": "USDA NAIP orthoimagery, May 2022, public domain."
+    }
+  ]
+}
